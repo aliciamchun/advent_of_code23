@@ -11,11 +11,11 @@ line: 88xpnfpb
 line: ninevct4cpdvqfxmspbz9xrvxfvbpzthreesfnncrqn
   value: 93 
 line: mqsxzsglbtmsbltrbzkbrt23
-  value: 33 
+  value: 23 
 line: seven16ninefc
   value: 79 
 line: 8jdddctvxs3
-  value: 33 
+  value: 83 
 line: fivennhhdfpmrnpjhdm2sixkrsgdt
   value: 56 
 line: 2bgkccmp2khbhmptwogsz
@@ -39,13 +39,13 @@ line: 1qcdtzzfdpbcshjsjdmgsix
 line: fourtwosix3one
   value: 41 
 line: 26rqmtqznds
-  value: 66 
+  value: 26 
 line: fivefour4kmgtsplpvvvhspsjrsxqjmzmb
   value: 54 
 line: fourone1pfjsxxprgxszsmg64nine
   value: 49 
 line: 78four
-  value: 84 
+  value: 74 
 line: sixvrxzf8mthh
   value: 68 
 line: three819
@@ -69,25 +69,25 @@ line: sevencplmbvshm5flzlqxlbjjcrfxv18fivebpscblpj
 line: fourfourfjft3three5
   value: 45 
 line: 3tgsppcfpk
-  value: 30 
+  value: 33 
 line: seven48xcgqcfhnvc
   value: 78 
 line: twofive619hdbghs
   value: 29 
 line: 4xppxkgpng4mttgskp8gxnzsfivethree
-  value: 83 
+  value: 43 
 line: zbmzpstjf6znpflg
   value: 66 
 line: onefour9sixseven6
   value: 16 
 line: 327vjsevensfcgdbdeight
-  value: 78 
+  value: 38 
 line: hftcndxpnine7
   value: 97 
 line: 9onert32m5
   value: 95 
 line: bfdkjxcp56
-  value: 66 
+  value: 56 
 line: v4vqpstmlhtt
   value: 44 
 line: pjb5fivemonepcfc
@@ -97,7 +97,7 @@ line: cjftpgfive61five
 line: 7ffjkxkbnqfninevhnnbp
   value: 79 
 line: xcqkcbfv9xffn2six59
-  value: 29 
+  value: 99 
 line: nine4ssixvlrzjsrqvkg5
   value: 95 
 line: seveneight74ljmjfthree33
@@ -107,7 +107,7 @@ line: hdgsbjdsixtwo7chczjk
 line: kkrpsbqmkkpmq4two9
   value: 49 
 line: sg1kllqqfpbrcvgf43
-  value: 33 
+  value: 13 
 line: 5one5threethreefoursevenoneljddmkss
   value: 51 
 line: cjcvnxone47eight6five
@@ -117,11 +117,11 @@ line: ghqqmsxnconetrhqrq3sixsix
 line: sixfourg3
   value: 63 
 line: ndlnhscmrx53six58
-  value: 38 
+  value: 58 
 line: xmktfbmqdgndhcvbpb93trvgv
-  value: 33 
+  value: 93 
 line: 52
-  value: 22 
+  value: 52 
 line: 7twobkgsntslhthreeqttvx1six1v
   value: 71 
 line: kfreightwoonebbhqnqdfdkvgbcx5
@@ -143,7 +143,7 @@ line: one9bkbnnineninempsqszz
 line: two9jzgzbtwonef
   value: 21 
 line: 8txvhbm5qpcvgkdfvg1hzmvcprvs
-  value: 11 
+  value: 81 
 line: threeeight52
   value: 32 
 line: five3qbhtfpkcvn4nine4
@@ -157,9 +157,9 @@ line: njnrmxbpvfourskvbp2sixthreexqstpvxjss3four
 line: ninejfvfsp6twoness
   value: 91 
 line: 22rcfzrbpbgq5twoone3four
-  value: 54 
+  value: 24 
 line: rktqjcbz53five9foureight
-  value: 38 
+  value: 58 
 line: pcjbdlsix5threeonepdvsevenone
   value: 61 
 line: oneonenine2hxpmqckdrftktntwo
@@ -167,17 +167,17 @@ line: oneonenine2hxpmqckdrftktntwo
 line: 7four92
   value: 72 
 line: qxgfxkxkkf6hqbnsg4sevenninebvpjdnnrone
-  value: 41 
+  value: 61 
 line: ckpf2five7six
   value: 26 
 line: three27rgsthreeseven
   value: 37 
 line: 19jztwo6vninevmds
-  value: 99 
+  value: 19 
 line: eightcdtwo7
   value: 87 
 line: 1c8kdqkrgjfour33zp
-  value: 83 
+  value: 13 
 line: jxsdh8eightwoffl
   value: 82 
 line: sljxsjgvqfive4drrdlbbcrsthreesevenqktkjkrfrzv
@@ -189,7 +189,7 @@ line: fivesgzvngjfvz9eight
 line: three99jrscbrhkczxdbtqqrfdtxh
   value: 39 
 line: bzhbbpkpbrqvhjmgsqq72eightwod
-  value: 22 
+  value: 72 
 line: seven88
   value: 78 
 line: 3msvninelbhvqhfj871
@@ -197,11 +197,11 @@ line: 3msvninelbhvqhfj871
 line: 33sevenfn
   value: 37 
 line: 49nineseveneightfive
-  value: 95 
+  value: 45 
 line: 7ttsfxbkjqonenbkrsdthreeqbp
   value: 73 
 line: cqjxgppqn2746one
-  value: 61 
+  value: 21 
 line: six1vthdh
   value: 61 
 line: nbchjfgzmplxlrrtprkvhxmqdp4rdckh
@@ -221,25 +221,25 @@ line: twoqbxzxglsevennxsqpkpneightlxzndhmfourthree6
 line: nine5ldqdknsjsncbjmkmlpx
   value: 95 
 line: jpngl7668
-  value: 88 
+  value: 78 
 line: sevensixffour6
   value: 76 
 line: 689oneeightthreekrkkgjtcvh
-  value: 93 
+  value: 63 
 line: 97szfivekptsgppfmbseven3seven
-  value: 77 
+  value: 97 
 line: gchqxphzf7threebzglvjsxxteight
   value: 78 
 line: 4onefour46kn9five
   value: 45 
 line: bqncvpx25sjlnhdlm39
-  value: 99 
+  value: 29 
 line: 69mnbns
-  value: 99 
+  value: 69 
 line: 1ffhnnhs2mftxnfcdhtdntbxjmeight5
-  value: 25 
+  value: 15 
 line: 7nhmmbnxglndmg9ninefivetbkjkv
-  value: 95 
+  value: 75 
 line: six7feight
   value: 68 
 line: 7eightfourgtcj
@@ -249,7 +249,7 @@ line: 4seven7six8gdjpxl14pgfkfmms
 line: 8mvrzktbvhrblflvndvksjkthree8
   value: 88 
 line: 9hcj
-  value: 90 
+  value: 99 
 line: eightfoursevenngssddrstz8nineseven
   value: 87 
 line: pdbffvgqsnmzgccnhmzpxcnctkqqpzx1
@@ -269,7 +269,7 @@ line: 1xzhlgkgnmmqbtlkflvlrhrhkpglgsix
 line: sixsixnjjrncqqrpbkfour338mztvsxl
   value: 68 
 line: rvthjblx55kjqvnlhgkf7sevensixpbd
-  value: 76 
+  value: 56 
 line: 9vfqfdrkeighttqmclffive6
   value: 96 
 line: four6fourhtspfivefourcmzhkfive
@@ -283,7 +283,7 @@ line: xoneightnineoneltpvkzfvpqhxszqmv3hthtn
 line: 4fivegqdgkknineonelfg
   value: 41 
 line: rzxkqbpsp32ndhgqjjonelp
-  value: 21 
+  value: 31 
 line: three6chvkhhzrjttconethree
   value: 33 
 line: xsmdhzsfgrmhseven6eightndcpgrrfjsix
@@ -301,7 +301,7 @@ line: 5ptkfjdrkmdtvkgpnsixtwo2
 line: qmseven2
   value: 72 
 line: 27khblcrxdmzjxrqcsgrlninejbjg
-  value: 79 
+  value: 29 
 line: 4ftzjmgzgninenine
   value: 49 
 line: six78seven
@@ -311,17 +311,17 @@ line: 3three7dndseven
 line: qbtgsxbfour9sevenfour2ktlnsthhsznine
   value: 49 
 line: 59eight
-  value: 98 
+  value: 58 
 line: xdmbrqpgdqxrrtxcmrdstq2jrtfktzr4five
-  value: 45 
+  value: 25 
 line: 2kkpdpmrjh1xvmnkbkqgxthree
-  value: 13 
+  value: 23 
 line: 9threefour9drjzhjfdbnineeightwofc
   value: 92 
 line: eightknfgls6ztjtxmgvmeightfggfdcfjnf
   value: 88 
 line: 7hkbnqkf23
-  value: 33 
+  value: 73 
 line: hjjmdpxztwoseven9three
   value: 23 
 line: qp6two2
@@ -331,13 +331,13 @@ line: vxlkhqtwoggcgcvnhdrfds19
 line: four2sevenseventdpjtfnine
   value: 49 
 line: 24nine79kvzjnnf
-  value: 49 
+  value: 29 
 line: t23cbtmfour
-  value: 34 
+  value: 24 
 line: fourkksztczpgthree2gr56
   value: 46 
 line: 57sixnineeightjdqvbtsrfj6
-  value: 76 
+  value: 56 
 line: sixsdlhnldk6seven5zncgtctrrhczbnrqs31
   value: 61 
 line: 8onefour
@@ -357,45 +357,45 @@ line: rnkoneight1bvvhkd
 line: sevenonebrnq4
   value: 74 
 line: zrxlcfxkckk57nbvls7
-  value: 77 
+  value: 57 
 line: 99cjnj3brlnvrfqjgtwo6
-  value: 36 
+  value: 96 
 line: 6lx8srsflntthree
-  value: 83 
+  value: 63 
 line: rzvgnfdzrt36f4nine6
-  value: 46 
+  value: 36 
 line: fourmtonehlngpjvfhjfzmbdznpp8
   value: 48 
 line: 7seven28xrmr
   value: 78 
 line: 93sevennine43seven
-  value: 37 
+  value: 97 
 line: mnnqqsixsvdpqk9fpzd
   value: 69 
 line: zdpvcmcjq23
-  value: 33 
+  value: 23 
 line: 82five1jpbldxgglcsqseven9
-  value: 29 
+  value: 89 
 line: two7rx9seven3
   value: 23 
 line: 3tcnxsevenninefoureighttwo
   value: 32 
 line: 83sevennnjjjzsdzlx5ninexns7
-  value: 37 
+  value: 87 
 line: 1seven4
   value: 14 
 line: kczs59ksfnjzthree
-  value: 93 
+  value: 53 
 line: 93zsjzjn6862pdgfxqmghcrg
-  value: 22 
+  value: 92 
 line: threethreeqntmqqm1fqgrxdlzlrzp2
   value: 32 
 line: xxroneightonefive6vjmqbr2fjdtxhjk
   value: 12 
 line: 2vlxfvqtd
-  value: 20 
+  value: 22 
 line: 9vdhdvgllhvjthvvmg
-  value: 90 
+  value: 99 
 line: khvlqone77seveneight
   value: 18 
 line: eightfourjkqfzblbr7dpkgdgm
@@ -407,7 +407,7 @@ line: dcspvl6brpdhqrrxrds3sxgvdlxrfhvh36
 line: twosevenv7lxtmxlrsdzqvcrtkdrxs
   value: 27 
 line: mjjdznk4pgkrjppqr1f
-  value: 11 
+  value: 41 
 line: jtwonenhv4rml36bdqgbbgvzqbksrlqnxone
   value: 21 
 line: twottz9eight
@@ -419,9 +419,9 @@ line: eight2seven
 line: xlbbchh6
   value: 66 
 line: 332ponesjqxnnftj
-  value: 21 
+  value: 31 
 line: 821pgvbsbq9
-  value: 99 
+  value: 89 
 line: 4seven1smptmjbfsztwo6eighttwotwonevcv
   value: 41 
 line: fourvkjmrhgxqnztkdgj2four
@@ -431,23 +431,23 @@ line: xtjrp7bsmdmlvpmjfive
 line: 1ninesmtxnv
   value: 19 
 line: tzkl385gjsixtwosix
-  value: 56 
+  value: 36 
 line: 6xckhjxhsgq3fourbxtfseven3
-  value: 33 
+  value: 63 
 line: rjcrvbsxlq84eightseven
-  value: 47 
+  value: 87 
 line: hpvnq2
   value: 22 
 line: twofivecxxzvpfrfourfour448
   value: 28 
 line: 82fournfour
-  value: 24 
+  value: 84 
 line: 2nchszknqrqtghsfivenine
   value: 29 
 line: ptssxccnvlzrtscnsl6fpqrjtrfffour1656
   value: 66 
 line: 29rlrctthree4vbdmmkpg
-  value: 94 
+  value: 24 
 line: twofiveqvllxsfj1sevengnkxhthreehppbslzmcgpg
   value: 23 
 line: 5ninefvvvmfourzndnmvgcll812
@@ -465,7 +465,7 @@ line: 616fourkdsp
 line: 7dfllkzmcbplzqseven9five
   value: 75 
 line: 25833eightfourseventwo
-  value: 32 
+  value: 22 
 line: four9sixrgnscd6seveneight
   value: 48 
 line: two89pxddpnbtck993lfxrhpx
@@ -473,7 +473,7 @@ line: two89pxddpnbtck993lfxrhpx
 line: ckpgbsfpdffiveprvqmmczhsthreeeight9
   value: 59 
 line: 431knfdk
-  value: 11 
+  value: 41 
 line: ones7
   value: 17 
 line: two4fiveninesixeightonethreefour
@@ -489,7 +489,7 @@ line: slq9seven1mjcqsstkxnhkmzznine4fvphmqsgr
 line: fjmmkb6four
   value: 64 
 line: 38xzqvzm45ldkkgxzlmtwodkgmd
-  value: 52 
+  value: 32 
 line: 1eightfive5hbs9twonnxbtghrbcd
   value: 12 
 line: 9sixlcttnctfng7vxnpmntnxh4
@@ -499,15 +499,15 @@ line: 2two2rzkns7two
 line: eightdbqninekmvfcceight65
   value: 85 
 line: 554
-  value: 44 
+  value: 54 
 line: dzlc5
   value: 55 
 line: 8597six4
-  value: 74 
+  value: 84 
 line: v7
   value: 77 
 line: 83vrfdbksmthree3nmmrbdmpmsj1
-  value: 31 
+  value: 81 
 line: 4fourmcbdnrmd1
   value: 41 
 line: three8kphbvvndl
@@ -519,13 +519,13 @@ line: eight7fiveeightvp
 line: nine2threebvbnp8
   value: 98 
 line: 435pjthreerdtf
-  value: 53 
+  value: 43 
 line: 9xvxxcrscx53rbblg5
-  value: 55 
+  value: 95 
 line: nine2fcmjdbsrrlrvqmxhndgvgmqnhvqjm
   value: 92 
 line: 56z8one5sixfive
-  value: 85 
+  value: 55 
 line: threesixtwonine5eightfive3
   value: 33 
 line: 1ppzmxrbrgvseven
@@ -533,29 +533,29 @@ line: 1ppzmxrbrgvseven
 line: 2xqfoureightqflxrshthree4
   value: 24 
 line: 12five91fkeightrsxgfl
-  value: 28 
+  value: 18 
 line: sevennfffgrc9four
   value: 74 
 line: 51ninesix5ninenineone
-  value: 11 
+  value: 51 
 line: fiveeightlxqzjxcthree48one
   value: 51 
 line: sxoneightkkckxpxmhklhdcqzh7fxhjrsix5
   value: 15 
 line: 1289xjht3seven5b
-  value: 35 
+  value: 15 
 line: 9qjjseven7ninemmsn58
   value: 98 
 line: dcspkncsffourgghhgvgc234
   value: 44 
 line: 62rdlnmbfnsc8
-  value: 88 
+  value: 68 
 line: khpklssix6cklksvqgqmjccffkrbcjjszhbdlm
   value: 66 
 line: qlhfqbbdg8fninedtnvpxffbj7four5
   value: 85 
 line: 65sknldglkhseven5bpcvsc24
-  value: 54 
+  value: 64 
 line: three41sztsmds3qxrkxgbcsnjjpgmkttjzfts
   value: 33 
 line: 2fivefivenv
@@ -575,7 +575,7 @@ line: 8six39
 line: onetwoseven3bplhxvhkkzjgjdxjknjfktn7
   value: 17 
 line: xhgkqbltlxdnq51three31one
-  value: 11 
+  value: 51 
 line: threekbknvpssvgtvbsevenrlkczg4gtfqpvrsmj
   value: 34 
 line: mqzdlfour7lrc3one
@@ -597,7 +597,7 @@ line: eight9dgchpkgxpkrgjrclqqrd91tlvhhspzlmcpgr
 line: zcjshj1twofourgsgvpljsixpmlh6
   value: 16 
 line: 9cnrztv
-  value: 90 
+  value: 99 
 line: qvrdxrjk5sevenbmmbrchzgthreebjhrtxgeight
   value: 58 
 line: qdfsdhthreevdx4qspvkbdtccpdljcsfq
@@ -605,7 +605,7 @@ line: qdfsdhthreevdx4qspvkbdtccpdljcsfq
 line: onefourm9hbpvsxbqxonegtsvfltdsg
   value: 11 
 line: srssgmrhszjvkrszhktfsbmccz4tvsqxvcxpx6three
-  value: 63 
+  value: 43 
 line: dxvgjmcxbmfive4zvtfour
   value: 54 
 line: vtfxpjqkfive6one
@@ -621,7 +621,7 @@ line: tbeightwo2qxvttmcqonesixeight
 line: btdrgxpthreenine8gq
   value: 38 
 line: 1vfqvmgqvpmjrtgfqngkm
-  value: 10 
+  value: 11 
 line: one13two
   value: 12 
 line: 8eight2eightfiveninexfsptn
@@ -635,13 +635,13 @@ line: vtwoneb2lfj
 line: 3sixeightseven
   value: 37 
 line: 94ctfzmjhzlpkjnbrrtoneightsrm
-  value: 48 
+  value: 98 
 line: 6mqkpvlf
-  value: 60 
+  value: 66 
 line: trspvjctskfsbj5
   value: 55 
 line: 9tlkmnndlnqpcspq4one
-  value: 41 
+  value: 91 
 line: eight1three8sevenoneftrjjxhblv5eight
   value: 88 
 line: twothree4nrshvjkxvq1sevenseventwom
@@ -651,7 +651,7 @@ line: 2two5sixthreedjgcfhvz4sixrm
 line: ntwo5one7ninembfive
   value: 25 
 line: qgclmrksfqjcrh849
-  value: 99 
+  value: 89 
 line: 3twoone628five
   value: 35 
 line: 5dqzjdmcninejlhqone
@@ -689,11 +689,11 @@ line: 5three4hfive
 line: nine1oneeightlhnine5three
   value: 93 
 line: hfz7lbtffkphnvp8
-  value: 88 
+  value: 78 
 line: sxp7
   value: 77 
 line: kfclfdhtplbmpzsnplmqfgnc56pgprnlkp9
-  value: 99 
+  value: 59 
 line: threethreevfourfivehtxchgc1two
   value: 32 
 line: 7five4five222
@@ -701,27 +701,27 @@ line: 7five4five222
 line: 7qqnfoneprdsgj
   value: 71 
 line: 457
-  value: 77 
+  value: 47 
 line: fivesmgdghmfour48one
   value: 51 
 line: kkr7
   value: 77 
 line: rpqdl8fzgdg9ljnbxzdxs
-  value: 99 
+  value: 89 
 line: tvmtggfnkq8fxbmgntmtffive1gbreight
   value: 88 
 line: 5fcncxjb719fivepbn
-  value: 95 
+  value: 55 
 line: 7msvcmpknn
-  value: 70 
+  value: 77 
 line: f61
-  value: 11 
+  value: 61 
 line: ltzcqsf1ninebbbkzkcsix6plsp8
   value: 18 
 line: 16glvnbcseven8eightdp
-  value: 68 
+  value: 18 
 line: bdvgvrmpbpztjtdsqxk391
-  value: 11 
+  value: 31 
 line: keight9qsqfhzgbh5zzqvtkr
   value: 85 
 line: eightone944bp187
@@ -729,7 +729,7 @@ line: eightone944bp187
 line: 9three2
   value: 92 
 line: klgsfsjgptcqz4dkd5five
-  value: 55 
+  value: 45 
 line: ninesix6qbbqdnsmjd1five5fourxprrc
   value: 94 
 line: 2onesevendkspzqmhjdkrvgnhqfkvh
@@ -755,9 +755,9 @@ line: onefiveqhzxr8pftvhbhphr
 line: three469
   value: 39 
 line: 69mzmtjgfztwo1
-  value: 91 
+  value: 61 
 line: 551zbxzjfglghcmfoneseventwo9
-  value: 19 
+  value: 59 
 line: 4sfive55eightqnk
   value: 48 
 line: chgsglxjlmnineninesixhhqbppctqvmrslbj46dnzsmlg
@@ -769,7 +769,7 @@ line: fourdrf28sevenfour7
 line: j4zgctfmgcf
   value: 44 
 line: 4t3eight3vlvgzbjlrzbdxjkthree4
-  value: 34 
+  value: 44 
 line: threefournineklg4threefour5bkmxtfxtnm
   value: 35 
 line: 5five9
@@ -781,7 +781,7 @@ line: gcs2nine
 line: gqnsnjvpnmsllxhxstonethree5eightone
   value: 11 
 line: 6fnzprvv1threefive62brhhz
-  value: 12 
+  value: 62 
 line: two89xdrzrfr96
   value: 26 
 line: 4ninetwotwo32zhsnzlx
@@ -789,7 +789,7 @@ line: 4ninetwotwo32zhsnzlx
 line: ntwone4eightfourthreeeight
   value: 28 
 line: 87rsrlb9threesixthreejjnhcnx
-  value: 93 
+  value: 83 
 line: 6onenine
   value: 69 
 line: twoeightfive13
@@ -803,7 +803,7 @@ line: dnsrkkdjbscltfsnonethreefive1
 line: three5one
   value: 31 
 line: 37dhone6one
-  value: 71 
+  value: 31 
 line: eighttwo2five2643
   value: 83 
 line: 7nknhfeightfour
@@ -811,7 +811,7 @@ line: 7nknhfeightfour
 line: nineninenine2pztjcjtsmn3one
   value: 91 
 line: 7fxvql
-  value: 70 
+  value: 77 
 line: gdgzvxnlkbtgkssdjrxftwo2
   value: 22 
 line: fourtwo9
@@ -819,7 +819,7 @@ line: fourtwo9
 line: onefoursixzeightone262
   value: 12 
 line: kjbhkp3vjvdqchhmqpnbzjxvfrgpnqzpbn6eight
-  value: 68 
+  value: 38 
 line: 52tpgzzbb85
   value: 55 
 line: seven4tmzv9
@@ -827,15 +827,15 @@ line: seven4tmzv9
 line: 1jncptklvtwo24four38five
   value: 15 
 line: nv447oneeightznqddpvvztwo3
-  value: 73 
+  value: 43 
 line: five7971bcqk
   value: 51 
 line: jdmxv6hhgstzcnvscphjbgrj1sixsxp1
-  value: 11 
+  value: 61 
 line: fhrcrqzqglr7
   value: 77 
 line: 15fourgvzbczonexlqzkdx4djvckdcfour
-  value: 54 
+  value: 14 
 line: gbtgdlzsdvseven5five16
   value: 76 
 line: tzklvspsz33vpjd3
@@ -843,21 +843,21 @@ line: tzklvspsz33vpjd3
 line: 9snmndhqmtoneprpzfnsjq
   value: 91 
 line: 85bvtnqqhqnbkmxkqqxzxlxqbnkh
-  value: 55 
+  value: 85 
 line: 8threecfnmsffphrninehjbxlc3
   value: 83 
 line: n19five9z
-  value: 99 
+  value: 19 
 line: gqrqz1
   value: 11 
 line: mtmhphhspflprqgzlzgthreeggrtppdgflrrjdseven6
   value: 36 
 line: pbdfzdqbx27oneeightseven
-  value: 77 
+  value: 27 
 line: rtgnhlgqpkfour3cmbmhtsr
   value: 43 
 line: 26fsdgjdbsevennine9l
-  value: 69 
+  value: 29 
 line: eightxxnvlvdsdttwo9
   value: 89 
 line: kthree3
@@ -865,7 +865,7 @@ line: kthree3
 line: 1nckxqpkthree91
   value: 11 
 line: 7bxdbjtqphs9five2nxrddxstwo
-  value: 92 
+  value: 72 
 line: seven67rrvfztx
   value: 77 
 line: xkqk4ninesxfive4three6rnx
@@ -877,19 +877,19 @@ line: zpvzzptfsevensevenseven48
 line: threeonetwo1dqcgzkmdqkcdzpmqhzmm
   value: 31 
 line: sr19
-  value: 99 
+  value: 19 
 line: eight9nine9four
   value: 84 
 line: cpfrzhrnfivevqdr8nine
   value: 59 
 line: 4zkhhfv9
-  value: 99 
+  value: 49 
 line: fjzmqgr3869
-  value: 99 
+  value: 39 
 line: mnxtwone1982sixfournxvmnvzmxlqm4
   value: 24 
 line: 6rg164three
-  value: 43 
+  value: 63 
 line: zoneightnbbnrxclsthjboneninevkjnzhqrkvmtt6
   value: 16 
 line: eight7nnpn52
@@ -901,17 +901,17 @@ line: 4fivetcq58
 line: skqfhjbtqthree7
   value: 37 
 line: 3mhlr
-  value: 30 
+  value: 33 
 line: three6tzhlhgnx5ljb32nine
   value: 39 
 line: t31kxcf
-  value: 11 
+  value: 31 
 line: 41gdkmnf2two
-  value: 22 
+  value: 42 
 line: ffsqhzmznsixtwokxjtwoeight73
   value: 63 
 line: trtcc477
-  value: 77 
+  value: 47 
 line: seven1261
   value: 71 
 line: 4eight8rhrvlzpmnqseven9twohpn
@@ -923,25 +923,25 @@ line: onedmhzhhzrmtwofourfive7
 line: zqmqlcrgzb2ninesevenrrdlhznhcqxsmfltworqlvzkdhqhskshjsh
   value: 22 
 line: 37brxzssqonefive67
-  value: 77 
+  value: 37 
 line: xkptstf98fivebdlrslpjfxtvzfour
-  value: 84 
+  value: 94 
 line: oneqpsfnprzd5nine
   value: 19 
 line: 6gxxvxb7
-  value: 77 
+  value: 67 
 line: 39two
-  value: 92 
+  value: 32 
 line: nggltz4sgkdnpbvzz2nineblfff1fivesix
-  value: 26 
+  value: 46 
 line: vvxrpdvbzppfour6gz3six
   value: 46 
 line: dfrdtwo3284fpntbqx9
   value: 29 
 line: 1zgxhdt94vmxmfiveoneqvfjjq
-  value: 41 
+  value: 11 
 line: 3lrsjmr44snx
-  value: 44 
+  value: 34 
 line: eightonerjhrdftxrvqkzfive4zvtqnddtwo
   value: 82 
 line: bxfive2eight
@@ -971,11 +971,11 @@ line: xtgfive49
 line: dndltvlglgtwo2seven
   value: 27 
 line: 6lfxsgqzqj
-  value: 60 
+  value: 66 
 line: 7bqsvgzkphcmcdcpfg242lsnine
-  value: 29 
+  value: 79 
 line: 895bcx
-  value: 55 
+  value: 85 
 line: fourzlxshjgtplrzk24xfspckjdone
   value: 41 
 line: stwonefivethreefivefdgnr6five
@@ -997,29 +997,29 @@ line: hvznsjjtsjdcng9
 line: 7szrvscmcdmrjtzcj7
   value: 77 
 line: r13bdr
-  value: 33 
+  value: 13 
 line: ddghbfour3tnfmj49bm43
   value: 43 
 line: 54gggltwooneninekzkbf
-  value: 49 
+  value: 59 
 line: 48one8kpnfsnfflzbkr
-  value: 88 
+  value: 48 
 line: chgcrmfour6two9tone
   value: 41 
 line: 4pvjgzptwoqdrkjthtninesixfour5six
   value: 46 
 line: nbfbfndd4crjnsvrvmnxvp5rthlxzttzq
-  value: 55 
+  value: 45 
 line: jsix5
   value: 65 
 line: gptkdhsdjz8dgpmddsfdbncgsfdzknxjrlzrcfive
   value: 85 
 line: 3grpkfkczphcxdsrczr
-  value: 30 
+  value: 33 
 line: rmvthreeone62bg
   value: 32 
 line: 9zqt
-  value: 90 
+  value: 99 
 line: four8fourone
   value: 41 
 line: two4fivem2
@@ -1043,7 +1043,7 @@ line: 4fivevsnmccnstffqtmsixonefvmsbeightwold
 line: cvghfqsnvp3threefive
   value: 35 
 line: 1qqtbzgvjhchcxrd4tgpsstwojlvmnine8
-  value: 48 
+  value: 18 
 line: 2twofqxhhnmf
   value: 22 
 line: eightlpjfnkv5one2zxrtgskffive
@@ -1057,7 +1057,7 @@ line: 9five8threebfpdtlvtrftdxcjfive4pzp
 line: 4eightsevenzfqkgn
   value: 47 
 line: 9c547onetpztzvnnkf6
-  value: 76 
+  value: 96 
 line: 8threenineonettlhvhszncfznxbc
   value: 81 
 line: twofivesixn4
@@ -1069,7 +1069,7 @@ line: kxgmqzpxrqxnjjrfourtwonine3fivesevensix
 line: 6tvztdsix
   value: 66 
 line: 855jftzthzltjgsixdftmtp
-  value: 56 
+  value: 86 
 line: nbxtrrchtprn6
   value: 66 
 line: eightfive1
@@ -1083,9 +1083,9 @@ line: 5fivecsnpmgn
 line: 9mhqlbgxzqfeightfivenine6tmz
   value: 96 
 line: 425zxgqm5rkvrggpkhxblkgkpgonenine
-  value: 59 
+  value: 49 
 line: d73zklxbnine
-  value: 39 
+  value: 79 
 line: 8nineeightfive
   value: 85 
 line: czgzhvglkczxmx5four
@@ -1097,7 +1097,7 @@ line: dthrngfour6cjfsmsqdfnfqzdxqpqtxtwo
 line: onedqrjseight6mrbrnfgmj9
   value: 19 
 line: 45qjdsevenlhnbgvzsjkr
-  value: 57 
+  value: 47 
 line: threetwo5eightfivethree
   value: 33 
 line: onevqtfourtwo3
@@ -1125,7 +1125,7 @@ line: four1seven1vthrcfjfhjzbzvhxpfour
 line: 3seven5
   value: 35 
 line: 5xtjnbgvr
-  value: 50 
+  value: 55 
 line: 1sbkcftcklnrninesixseven9trdptfive
   value: 15 
 line: six697nine
@@ -1139,7 +1139,7 @@ line: svxqbqjeightxph3threetctlxqbn
 line: fskcnineztzxrxlfmdnp9
   value: 99 
 line: 17dnd4sixdzq21ssggqvvjzh
-  value: 41 
+  value: 11 
 line: 4kpgmgpgseven69two73
   value: 43 
 line: nine7nvdqnrptv1threemncvtwothreenine
@@ -1153,9 +1153,9 @@ line: mpvmb7rcmbjgchtwoone
 line: sevenmzbqcvxrfourmjfqkqvlcmcfkcfive5
   value: 75 
 line: 25rmeight6seven
-  value: 57 
+  value: 27 
 line: gthxtj3rlsqxkzgxb4six
-  value: 46 
+  value: 36 
 line: pfrjqrs6fivekmjkhmr3eight1
   value: 61 
 line: onefive9
@@ -1181,15 +1181,15 @@ line: m8eightcsvbjjglfxlkhr
 line: 1ffdndfmps3dqcz1
   value: 11 
 line: 25dfgdhtdfsgp9
-  value: 99 
+  value: 29 
 line: 68lxlln268six
-  value: 86 
+  value: 66 
 line: twothreethree26
   value: 26 
 line: six2xbfdvjdtpn5nine1ninelqpmbnvg
   value: 69 
 line: 2lkhg4
-  value: 44 
+  value: 24 
 line: hbxctckzsevenseven8
   value: 78 
 line: ghdmhjtjseventlb1xmjlcnslj3
@@ -1217,7 +1217,7 @@ line: 9qtsblhddtseven4six6
 line: 1sevenqddm
   value: 17 
 line: 7ghjhklgfjrmrfqprmb2jgf6bsctzhkzx
-  value: 66 
+  value: 76 
 line: rtwone6ninenine2two4one
   value: 21 
 line: 3five2nine
@@ -1235,7 +1235,7 @@ line: 7twosmdcftxkglpncxctbpmmhmd2sixqf
 line: sixjthpkpbpqnqvrzzxcfjnlgeight3
   value: 63 
 line: 8kx2
-  value: 22 
+  value: 82 
 line: 6twodmnkteightghnpdbcn26four
   value: 64 
 line: qzvnrncqzf11eight6
@@ -1251,9 +1251,9 @@ line: nine1twosix5one
 line: four5four6fivebdkgztp5dbzddxdpc
   value: 45 
 line: 75oneltfnbxsfive3
-  value: 53 
+  value: 73 
 line: 61ninethreerdlrjg
-  value: 13 
+  value: 63 
 line: srjlctwo5
   value: 25 
 line: eightfourfive3
@@ -1265,7 +1265,7 @@ line: 8qtqsjshzfour9skonereight
 line: 7cbhhxqmlveight
   value: 78 
 line: xlctdkp68nine2qfkfv
-  value: 82 
+  value: 62 
 line: sevenonekjone7
   value: 77 
 line: 3twothree
@@ -1273,7 +1273,7 @@ line: 3twothree
 line: lpdxfivecqqkxshmxsghtwo4zfszfxbgffxhdhszr
   value: 54 
 line: 5fnctfcp6six
-  value: 66 
+  value: 56 
 line: sevenone595seven
   value: 77 
 line: onezbtwo4
@@ -1301,11 +1301,11 @@ line: hkpf9seven5seven
 line: seven5rtzk87
   value: 77 
 line: 371hpjtkthreef8
-  value: 18 
+  value: 38 
 line: 2fourfour6xptbrvf71nine
   value: 29 
 line: cmhgh8drvxcrcjsz2
-  value: 22 
+  value: 82 
 line: fourlfqrsxbztvjjtxggpmkmtggxfourmfive1
   value: 41 
 line: ninegssvllggld662six
@@ -1315,7 +1315,7 @@ line: 8sevenfbthtxglsbeightonenp3qrbhtz6
 line: threemjhtsbm8mdzk
   value: 38 
 line: 6lgbr5fourfour4v6jhdhvkrk
-  value: 56 
+  value: 66 
 line: nmseven553two4
   value: 74 
 line: bvs3twovbzthreeeight
@@ -1327,7 +1327,7 @@ line: 4two7nine
 line: 4sixtcrcxzph9
   value: 49 
 line: 8zjrrhp6kvd
-  value: 66 
+  value: 86 
 line: mznthreesixglsf881seven
   value: 37 
 line: 2five511hone
@@ -1335,7 +1335,7 @@ line: 2five511hone
 line: pmoneightzvrvmkrn1tkxqrcnfivecfnqxvtkxtwo
   value: 12 
 line: 6gxt7fivejmdhnzxzslvqgghgfive
-  value: 75 
+  value: 65 
 line: seven1one
   value: 71 
 line: 8thdkltfourl5five
@@ -1351,7 +1351,7 @@ line: fivefive6twoqqpkh27
 line: 9qvpdkone
   value: 91 
 line: brvxnqdnzkztdqpbb1vxg35kstpxscninekgkmrtmrff
-  value: 59 
+  value: 19 
 line: fourfourbhzgmp3sevensevenpsrndk
   value: 47 
 line: seven8dgvpxrmmthree19
@@ -1359,25 +1359,25 @@ line: seven8dgvpxrmmthree19
 line: neightwofiveeightsixjjfnllthree6
   value: 86 
 line: 91threesevenpjxsixgmrzsjmz
-  value: 16 
+  value: 96 
 line: 4zcq23sixfourjpjtgvtnqqqdctlf1
-  value: 31 
+  value: 41 
 line: crgjmshnzprnrc979
   value: 99 
 line: qsmmztjzz4eight7sevendg
   value: 47 
 line: 9423
-  value: 33 
+  value: 93 
 line: fivesevenseven48
   value: 58 
 line: fjrrstz4cfrxfrslvtmjpfxtkbhsjpppfkrzeight6
   value: 46 
 line: 7dpfvrktp
-  value: 70 
+  value: 77 
 line: z3ddjbvmcdsgddprhc3
   value: 33 
 line: bng89ninesfv2rvchkhqhz7
-  value: 97 
+  value: 87 
 line: 2vclrzqgnnnfour1
   value: 21 
 line: ggldndrnlkeight4seven2bcxvdzjflpdxvvgxkkzgeight
@@ -1395,7 +1395,7 @@ line: eightfour44fived1nkgpk5
 line: 1nine24
   value: 14 
 line: vhmdjp43seven8sevenvnsflnfx9
-  value: 39 
+  value: 49 
 line: nine3fivefivesevenhklhcg
   value: 97 
 line: bjndsctqthgzone2twonev
@@ -1403,27 +1403,27 @@ line: bjndsctqthgzone2twonev
 line: sixninekznkgrjjj4
   value: 64 
 line: 98fourfiveeightqgrzjkvfj3six
-  value: 86 
+  value: 96 
 line: 124onedjnrthpzxqmzpcnhzfour
-  value: 44 
+  value: 14 
 line: threethreexfgbjpv2eighteightzdffvnmcz
   value: 38 
 line: four5dnlncmtrq5sevenfvjkh759
   value: 49 
 line: 5rzsfqblznf6kxmkfcgpxfive986
-  value: 66 
+  value: 56 
 line: 8eightonenxpntbctcrseven
   value: 87 
 line: ksvveightsevenmgczltdvmp9
   value: 89 
 line: 7zthlrqqs
-  value: 70 
+  value: 77 
 line: 5674mgxzdsxhmzfour6gvjtdfnqjrggkjbvc
-  value: 46 
+  value: 56 
 line: nqnn9
   value: 99 
 line: 1lvmcghmv
-  value: 10 
+  value: 11 
 line: lrthree7sixdsdvlkl
   value: 36 
 line: threefourfourthreethreerntmpsqzb8
@@ -1459,7 +1459,7 @@ line: 3zxpvtbdkfivesixeightthree
 line: ctheightwobhqpfour1two9twonine
   value: 89 
 line: jmm74hrlvonestds
-  value: 41 
+  value: 71 
 line: seven5tgmphz
   value: 75 
 line: 4xtztkdntxfour
@@ -1471,13 +1471,13 @@ line: threernhzsk9psrkxprjkgeight
 line: two9fivet8one48eight
   value: 28 
 line: 58threehcgkgdxp8
-  value: 88 
+  value: 58 
 line: eight2kmhz66nine
   value: 89 
 line: onenine7czjxbeight
   value: 18 
 line: dx7qbp1
-  value: 11 
+  value: 71 
 line: three9onedone
   value: 31 
 line: 7vmhzdjbfvnine
@@ -1487,7 +1487,7 @@ line: 5ksnxncqsshzsixzvtgkrzrnrhltvzhqh32
 line: seven66twomchrdkseven
   value: 77 
 line: 86jptqljgcrtrzjg7
-  value: 77 
+  value: 87 
 line: ndxxntxz9fivefnzdxjbz49gtfivenstgqbn
   value: 95 
 line: rpcfkdzlbnkvdc8
@@ -1495,19 +1495,19 @@ line: rpcfkdzlbnkvdc8
 line: sevenkbslmkmfivekccclm929
   value: 79 
 line: 378zrrcfrsrzpgfkdjbmsix8
-  value: 88 
+  value: 38 
 line: 19dtrqvzfqm5two
-  value: 52 
+  value: 12 
 line: drlpsxbscldfhj48mpxzz
-  value: 88 
+  value: 48 
 line: sggmjfqffmtwo5nineone
   value: 21 
 line: 1kfsttv
-  value: 10 
+  value: 11 
 line: one9sqntcvldnvtrjrp1
   value: 11 
 line: hmx6mkxkxbp4oneightxgd
-  value: 48 
+  value: 68 
 line: onethree845n3htlxkj
   value: 13 
 line: rqmnxsdnfeight2khvfivelzpsxpsevenqddk
@@ -1517,11 +1517,11 @@ line: dtrgs7onefive43
 line: seven6onehvnsnlfbhbfourgcf
   value: 74 
 line: bvzqgvhzgl54
-  value: 44 
+  value: 54 
 line: dshsqgmb9nine4five8
   value: 98 
 line: kqvzvbhb18
-  value: 88 
+  value: 18 
 line: nbchkr5
   value: 55 
 line: fbnpvprb1gnfive
@@ -1531,7 +1531,7 @@ line: 7tvdhmgxttwothree91cone
 line: sevenvhldmzqgdrjkx64hnine4
   value: 74 
 line: 72fivefour
-  value: 24 
+  value: 74 
 line: xmmtbr5
   value: 55 
 line: xc6fivexplnftpkp8
@@ -1539,11 +1539,11 @@ line: xc6fivexplnftpkp8
 line: onezh7threetwo
   value: 12 
 line: chdkkxmxrt81two
-  value: 12 
+  value: 82 
 line: ktz9gnjv7ddgnbplfour
-  value: 74 
+  value: 94 
 line: xzpmsqpcvf95
-  value: 55 
+  value: 95 
 line: nine9qnvrzfone1threeptlxqjksbg
   value: 93 
 line: onesix9seven9tggdzxhvm5tctqmseven
@@ -1553,11 +1553,11 @@ line: sevenfour6pvhnmmm
 line: fbvkkcvpvfive3six
   value: 56 
 line: 9kzmrxmqxdp
-  value: 90 
+  value: 99 
 line: seven456nine
   value: 79 
 line: 6srtgpkzkhbkv392sk1one
-  value: 11 
+  value: 61 
 line: qhgsrhskdrsgntbq7five15
   value: 75 
 line: nkjnhqp3nine1kkth1
@@ -1569,7 +1569,7 @@ line: fvnbvcxtjfx5fourninejlzbgztg
 line: nine1twoseven5fxxjtrtnchsgggbszkpr
   value: 95 
 line: 16rkgclhpfive7fiverzgqdfczh
-  value: 65 
+  value: 15 
 line: six6fournnfhseven34
   value: 64 
 line: 3vspnbvfqnjdbsthree7sqhrjpdllxmmt
@@ -1615,9 +1615,9 @@ line: nineseven422
 line: 4fourlthreeoneightjb
   value: 48 
 line: 3vccbrlshrgpcgjrpgfj
-  value: 30 
+  value: 33 
 line: 5rrvzchsp2seventwo2
-  value: 22 
+  value: 52 
 line: four1gtrdkmzkl3
   value: 43 
 line: ksvdqxpsdfveight6szgjsdzpxqzlheightone
@@ -1625,19 +1625,19 @@ line: ksvdqxpsdfveight6szgjsdzpxqzlheightone
 line: threesevenfive9onefgfive95
   value: 35 
 line: 76hztsngfour4twodzcjshdqxkfive1
-  value: 61 
+  value: 71 
 line: eighthffxm8mzsktlthreelhhfdkgcptkl
   value: 83 
 line: 6922two51lvzrhvfour
-  value: 24 
+  value: 64 
 line: fivesix3tvvkhmsqm9
   value: 59 
 line: 38g
-  value: 88 
+  value: 38 
 line: four3fqx1zkxvlsmqstwo
   value: 42 
 line: 468845sevendrhkfqrsk6
-  value: 56 
+  value: 46 
 line: gmxdrbkb9zrxqpfvgjqjprdpgtwovtwofour4
   value: 94 
 line: dlzgv6two8eight
@@ -1655,49 +1655,49 @@ line: 2vcfivednhldrhdonef1
 line: 1fourpxnpbmglfseveneightqkfour
   value: 14 
 line: vqxz6bzfcpmpsmq67gthree
-  value: 73 
+  value: 63 
 line: five3onesixqxv
   value: 56 
 line: 81twoonenineeight
-  value: 18 
+  value: 88 
 line: vcpjcrsnbtzbz1rkhl
   value: 11 
 line: rgzhqsix4twofljjzpkm
   value: 62 
 line: gzhn139twoseven2lrtwo
-  value: 92 
+  value: 12 
 line: l4ninehzsnine7hxjtb
   value: 47 
 line: cszmdjlpxgonesix2sevenseven
   value: 17 
 line: 2jdqxpt
-  value: 20 
+  value: 22 
 line: nbcfc6lpfourfivecnklxnsq3
   value: 63 
 line: kqrvrvmk41threenineeight23six
-  value: 16 
+  value: 46 
 line: ttpjhz65three3three
-  value: 53 
+  value: 63 
 line: eight7one5twoonesix9
   value: 89 
 line: sc89four71
-  value: 91 
+  value: 81 
 line: tss2qprfour
   value: 24 
 line: 47eightdpdcbjbkmxbssnrslqzthreelsqtjm7
-  value: 77 
+  value: 47 
 line: ltv5twombc7
   value: 57 
 line: cs6758nsmgss
-  value: 88 
+  value: 68 
 line: 5mzbrvlct
-  value: 50 
+  value: 55 
 line: rzggbmgfrmfqfsglkbtzmfour6fivebgnxlkhhvz8two
   value: 42 
 line: jblbqgzc8sdctvcgjfouronedjvhthree
   value: 83 
 line: 41six9sfvv3four8
-  value: 18 
+  value: 48 
 line: fqrvpnine8
   value: 98 
 line: kqdkzneight595three881
@@ -1707,15 +1707,15 @@ line: two2xj23six5
 line: xpvhl74lqhjbdxgsznjf7five7
   value: 77 
 line: qlf44fxjxj62
-  value: 22 
+  value: 42 
 line: fivegvvsscthreeone6239one
   value: 51 
 line: 6oneeightcnhmps2twosevensixvqj
   value: 66 
 line: 7stbrlvjmc
-  value: 70 
+  value: 77 
 line: 23lfxjhfpnqhnine3gdjqfjmthreehrgfk
-  value: 33 
+  value: 23 
 line: hkgjjmdsix2tczq516qm
   value: 66 
 line: 6eight14
@@ -1723,11 +1723,11 @@ line: 6eight14
 line: 3onegnsxqf
   value: 31 
 line: qf31eightsevenz
-  value: 17 
+  value: 37 
 line: cfsslclscsfgfbdpdzzknine3
   value: 93 
 line: 5mzlfdgsvc3sjztcjmrd
-  value: 33 
+  value: 53 
 line: zcrjglqhkgzh6nvxpbdmsh
   value: 66 
 line: three93eightmvscdpvrbsjh
@@ -1757,11 +1757,11 @@ line: eightfour5558h9
 line: 6foursevennc
   value: 67 
 line: 1knskl
-  value: 10 
+  value: 11 
 line: fourrnncfssxeight8lvknmmsixnxdjbcsgmfour7
   value: 47 
 line: 85nhxggnbprbpnfrkjf
-  value: 55 
+  value: 85 
 line: twotwo84eight7hmxsvseven
   value: 27 
 line: xpjzvvjt4threepslbkml
@@ -1771,7 +1771,7 @@ line: foursevenszone19
 line: tvjbkvqzdffour63gfnmkmdzzjn
   value: 43 
 line: jzln78l6phtndcgseven
-  value: 67 
+  value: 77 
 line: 6bgqscglgsninefour9nine
   value: 69 
 line: blninetwoeight3
@@ -1781,7 +1781,7 @@ line: twoqlmkmdgvk1kqlfmvnrphcssq2one
 line: twoqpxzxvdnsxrksnhvbj6nine47
   value: 27 
 line: zlmn8n839nspkrvxxkbl
-  value: 99 
+  value: 89 
 line: one11
   value: 11 
 line: 3seven68
@@ -1793,11 +1793,11 @@ line: vjjtb4jkggqhheightninefivevrshccfk4
 line: eight77lv3threecxzxxsbzlr
   value: 83 
 line: 73tnbpzvgnrgh
-  value: 33 
+  value: 73 
 line: 53twoeighteightthdxsf4
-  value: 34 
+  value: 54 
 line: 1vrcmrj
-  value: 10 
+  value: 11 
 line: 1seven5tvmhzxsldbnine9onethree3
   value: 13 
 line: two3nine1fournng
@@ -1807,7 +1807,7 @@ line: 5two2
 line: dsvj9sixseven
   value: 97 
 line: 7tcckcrmhdx55
-  value: 55 
+  value: 75 
 line: 6sevengsmxeightfive5seven
   value: 67 
 line: eightmdj1
@@ -1825,7 +1825,7 @@ line: qckktvninedjj13nrdtmcscsmlrpl4
 line: 9bstmqqmdfmhzlbsfpfivetwovffcqtpjbkntnv
   value: 92 
 line: kj63foureightfoursix44
-  value: 34 
+  value: 64 
 line: qxsrsfvj9oneonefour2mblthree
   value: 93 
 line: gthffbrrbhfzsq4
@@ -1847,7 +1847,7 @@ line: tfsprzdnineqfourtwo87
 line: 9n89three3eight
   value: 98 
 line: 8xrbvvgfqz
-  value: 80 
+  value: 88 
 line: onefourttdlbrjcf2smrsfbtrfourdsnbgzcgqbkb
   value: 14 
 line: hxkktcf9
@@ -1855,7 +1855,7 @@ line: hxkktcf9
 line: sixsevenqmfs6rdzthree
   value: 63 
 line: 64nine
-  value: 49 
+  value: 69 
 line: seven9pxmlbdd5seven
   value: 77 
 line: kxvlrzhhgtxnnhg5lnrjqqxjsixkmnxxthrees
@@ -1869,7 +1869,7 @@ line: 3nine3
 line: mdfsxsx3fiveone39seven8five
   value: 35 
 line: lsrsbqkvfxrvlr68fourgzsrvpone
-  value: 81 
+  value: 61 
 line: oneonethree74
   value: 14 
 line: eight3rxxjkm
@@ -1877,7 +1877,7 @@ line: eight3rxxjkm
 line: sz5
   value: 55 
 line: 3r7sevensevenx3
-  value: 73 
+  value: 33 
 line: jzrhnqdthree6661
   value: 31 
 line: six1pcknpvv
@@ -1885,7 +1885,7 @@ line: six1pcknpvv
 line: qlxvsixonehbdfsxvhsevenzqcdrvk421
   value: 61 
 line: 27six2sixjqctbbfv5
-  value: 75 
+  value: 25 
 line: 6fiveeighttwo
   value: 62 
 line: mcclrxlpqhvhkptbsrrrsgbdzq6one
@@ -1893,7 +1893,7 @@ line: mcclrxlpqhvhkptbsrrrsgbdzq6one
 line: 9fiveghrrhtqnmhtwoonenine
   value: 99 
 line: 9lb
-  value: 90 
+  value: 99 
 line: 3hbvtsnqtksevenone8mlftbqjcdxtqkfive
   value: 35 
 line: vvqgkbj2fivedt
@@ -1901,15 +1901,15 @@ line: vvqgkbj2fivedt
 line: threefive47
   value: 37 
 line: drmjdqbg37
-  value: 77 
-line: qvzqtbqpkktnjj83eighthrcvdxppone97
   value: 37 
+line: qvzqtbqpkktnjj83eighthrcvdxppone97
+  value: 87 
 line: mdxxvhtmxninerzqnkmkj8eightsixfivex
   value: 95 
 line: kkhclsffivefour7two
   value: 52 
 line: 4mzhlxrcsm38twotwo
-  value: 82 
+  value: 42 
 line: lcmpj3nine7
   value: 37 
 line: fourbpgqn1tworsknxlqdl8zzdlxpgx
@@ -1937,17 +1937,17 @@ line: nineltnphnvhpvrxbfc1
 line: tcvmnphpmthree56rx
   value: 36 
 line: 99rsvrmxbgxtjtclnbbmb8sixone3
-  value: 83 
+  value: 93 
 line: sevenvfjzctwoqjqmvjrdxpxzsfour5
   value: 75 
 line: 3d2nhtrhbtfourgsml
-  value: 24 
+  value: 34 
 line: 9672seven
-  value: 27 
+  value: 97 
 line: zttst57zkbjlrmr
-  value: 77 
+  value: 57 
 line: 455six8fivehqthdfmjfgc
-  value: 55 
+  value: 45 
 line: 5sevenkgsmclonedvgzqfkgjtwo4
   value: 54 
 line: sixsixjkv6nqdhrlkr
@@ -1963,11 +1963,11 @@ line: 2three1jlghgbzxz751
 line: ninevktrhnf71one4l
   value: 94 
 line: 13foursixqcrzsrrffknfive
-  value: 35 
+  value: 15 
 line: 2crb2
   value: 22 
 line: 1mjmxsvnb3eight
-  value: 38 
+  value: 18 
 line: eight517feightmxl8
   value: 88 
 line: one1threeeight76rcmkskpvmrz
@@ -1981,7 +1981,7 @@ line: 1rxfour4xjzdfgqsixmjvvzfnh6m
 line: zvcfive2eight5hghsix19
   value: 59 
 line: 3nxlmh448two899
-  value: 89 
+  value: 39 
 line: three98oneightzn
   value: 38 
 line: 3fourtwozszhmcp
@@ -1998,4 +1998,4 @@ line: 44two1
   value: 41 
 line: eightrtsjszc2
   value: 82 
-sum: 53865
+sum: 53855

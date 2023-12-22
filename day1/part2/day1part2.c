@@ -1,4 +1,5 @@
 // Written by Alicia M. Chun for the 2023 Advent of Code Day 1 Part 2
+// Completed Dec. 21, 2023
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -22,7 +23,7 @@ int str_in_line_from_beginning(char *line, char*substring) { // returns first in
 
 int str_in_line_from_end(char *line, char*substring) { // returns first index if the substring is in string, else returns -1
 
-    for(int i = strlen(line); i >= 0; i-- ) {
+    for(int i = strlen(line); i >= 0; i--) {
         for (int j = 0; j < strlen(substring); j++) {
             char subchar = substring[j]; 
             char linechar = line[i+j];
@@ -56,7 +57,7 @@ int decode_line(char *line) {
 
     for(int i = 0; i < 9; i++) {
         idx = str_in_line_from_end(line, numbers[i]);
-        if (idx > -1 && idx > max) {
+        if (idx > -1 && idx >= max) {
             max = idx;
             max_num = i + 1;
         }
@@ -70,10 +71,11 @@ int decode_line(char *line) {
         if (c >= 49 && c <= 57) {
             min = i;
             min_num = c - 48; 
+            break;
         }
     }
     m = max;
-    for(int i = strlen(line) - 2; i > m; i--) {
+    for(int i = strlen(line) - 2; i >= m; i--) {
         c = line[i];
         if (c >= 49 && c <= 57) {
             max = i;
@@ -96,9 +98,7 @@ int main(int argc, char *argv[]) {
         }
         char line[1000];
         while(fgets(line, 1000, fp) != NULL) {
-            printf("line: %s", line);
             value = decode_line(line);
-            printf("  value: %d \n", value);
             sum += value; 
         }
         fclose(fp);
