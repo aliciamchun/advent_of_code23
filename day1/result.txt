@@ -1,0 +1,4999 @@
+line: gtlbhbjgkrb5sixfivefivetwosix
+     first: 5
+     last: 5
+  value: 55 
+  sum: 55 
+line: ninesixrgxccvrqscbskgzxh6cpvpxsqnb6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 121 
+line: dxxzrlzkksfsffp4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 165 
+line: sbzvmddhnjtwollnjv33d2lbcscstqt
+     first: 3
+     last: 2
+  value: 32 
+  sum: 197 
+line: 88xpnfpb
+     first: 8
+     last: 8
+  value: 88 
+  sum: 285 
+line: ninevct4cpdvqfxmspbz9xrvxfvbpzthreesfnncrqn
+     first: 4
+     last: 9
+  value: 49 
+  sum: 334 
+line: mqsxzsglbtmsbltrbzkbrt23
+     first: 2
+     last: 3
+  value: 23 
+  sum: 357 
+line: seven16ninefc
+     first: 1
+     last: 6
+  value: 16 
+  sum: 373 
+line: 8jdddctvxs3
+     first: 8
+     last: 3
+  value: 83 
+  sum: 456 
+line: fivennhhdfpmrnpjhdm2sixkrsgdt
+     first: 2
+     last: 2
+  value: 22 
+  sum: 478 
+line: 2bgkccmp2khbhmptwogsz
+     first: 2
+     last: 2
+  value: 22 
+  sum: 500 
+line: rrddms473xcjrtsdnhp4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 544 
+line: two7eighteight29
+     first: 7
+     last: 9
+  value: 79 
+  sum: 623 
+line: onek3three8lpfcfivenxpkhbvdm
+     first: 3
+     last: 8
+  value: 38 
+  sum: 661 
+line: spcdsstlkr7fone1
+     first: 7
+     last: 1
+  value: 71 
+  sum: 732 
+line: 9ninejcngjshghz
+     first: 9
+     last: 0
+  value: 90 
+  sum: 822 
+line: six78fivethreesix7fivetwo
+     first: 7
+     last: 7
+  value: 77 
+  sum: 899 
+line: nine17bsrfbzpcr
+     first: 1
+     last: 7
+  value: 17 
+  sum: 916 
+line: 1qcdtzzfdpbcshjsjdmgsix
+     first: 1
+     last: 0
+  value: 10 
+  sum: 926 
+line: fourtwosix3one
+     first: 3
+     last: 3
+  value: 33 
+  sum: 959 
+line: 26rqmtqznds
+     first: 2
+     last: 6
+  value: 26 
+  sum: 985 
+line: fivefour4kmgtsplpvvvhspsjrsxqjmzmb
+     first: 4
+     last: 4
+  value: 44 
+  sum: 1029 
+line: fourone1pfjsxxprgxszsmg64nine
+     first: 1
+     last: 4
+  value: 14 
+  sum: 1043 
+line: 78four
+     first: 7
+     last: 8
+  value: 78 
+  sum: 1121 
+line: sixvrxzf8mthh
+     first: 8
+     last: 8
+  value: 88 
+  sum: 1209 
+line: three819
+     first: 8
+     last: 9
+  value: 89 
+  sum: 1298 
+line: eightnqzrshnbf7gxpndlncztwonztq
+     first: 7
+     last: 7
+  value: 77 
+  sum: 1375 
+line: szsvltgsc1onecccbfour3oneightfh
+     first: 1
+     last: 3
+  value: 13 
+  sum: 1388 
+line: vjdbqpninepqhlbcj61sixnine
+     first: 6
+     last: 1
+  value: 61 
+  sum: 1449 
+line: 2dbpnlhxtdninesix896sevenj
+     first: 2
+     last: 6
+  value: 26 
+  sum: 1475 
+line: 6fiventhree6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 1541 
+line: four7xfour
+     first: 7
+     last: 7
+  value: 77 
+  sum: 1618 
+line: jlnine6cqtdltpxt4
+     first: 6
+     last: 4
+  value: 64 
+  sum: 1682 
+line: sevencplmbvshm5flzlqxlbjjcrfxv18fivebpscblpj
+     first: 5
+     last: 8
+  value: 58 
+  sum: 1740 
+line: fourfourfjft3three5
+     first: 3
+     last: 5
+  value: 35 
+  sum: 1775 
+line: 3tgsppcfpk
+     first: 3
+     last: 0
+  value: 30 
+  sum: 1805 
+line: seven48xcgqcfhnvc
+     first: 4
+     last: 8
+  value: 48 
+  sum: 1853 
+line: twofive619hdbghs
+     first: 6
+     last: 9
+  value: 69 
+  sum: 1922 
+line: 4xppxkgpng4mttgskp8gxnzsfivethree
+     first: 4
+     last: 8
+  value: 48 
+  sum: 1970 
+line: zbmzpstjf6znpflg
+     first: 6
+     last: 6
+  value: 66 
+  sum: 2036 
+line: onefour9sixseven6
+     first: 9
+     last: 6
+  value: 96 
+  sum: 2132 
+line: 327vjsevensfcgdbdeight
+     first: 3
+     last: 7
+  value: 37 
+  sum: 2169 
+line: hftcndxpnine7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 2246 
+line: 9onert32m5
+     first: 9
+     last: 5
+  value: 95 
+  sum: 2341 
+line: bfdkjxcp56
+     first: 5
+     last: 6
+  value: 56 
+  sum: 2397 
+line: v4vqpstmlhtt
+     first: 4
+     last: 4
+  value: 44 
+  sum: 2441 
+line: pjb5fivemonepcfc
+     first: 5
+     last: 5
+  value: 55 
+  sum: 2496 
+line: cjftpgfive61five
+     first: 6
+     last: 1
+  value: 61 
+  sum: 2557 
+line: 7ffjkxkbnqfninevhnnbp
+     first: 7
+     last: 0
+  value: 70 
+  sum: 2627 
+line: xcqkcbfv9xffn2six59
+     first: 9
+     last: 9
+  value: 99 
+  sum: 2726 
+line: nine4ssixvlrzjsrqvkg5
+     first: 4
+     last: 5
+  value: 45 
+  sum: 2771 
+line: seveneight74ljmjfthree33
+     first: 7
+     last: 3
+  value: 73 
+  sum: 2844 
+line: hdgsbjdsixtwo7chczjk
+     first: 7
+     last: 7
+  value: 77 
+  sum: 2921 
+line: kkrpsbqmkkpmq4two9
+     first: 4
+     last: 9
+  value: 49 
+  sum: 2970 
+line: sg1kllqqfpbrcvgf43
+     first: 1
+     last: 3
+  value: 13 
+  sum: 2983 
+line: 5one5threethreefoursevenoneljddmkss
+     first: 5
+     last: 5
+  value: 55 
+  sum: 3038 
+line: cjcvnxone47eight6five
+     first: 4
+     last: 6
+  value: 46 
+  sum: 3084 
+line: ghqqmsxnconetrhqrq3sixsix
+     first: 3
+     last: 3
+  value: 33 
+  sum: 3117 
+line: sixfourg3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 3150 
+line: ndlnhscmrx53six58
+     first: 5
+     last: 8
+  value: 58 
+  sum: 3208 
+line: xmktfbmqdgndhcvbpb93trvgv
+     first: 9
+     last: 3
+  value: 93 
+  sum: 3301 
+line: 52
+     first: 5
+     last: 2
+  value: 52 
+  sum: 3353 
+line: 7twobkgsntslhthreeqttvx1six1v
+     first: 7
+     last: 1
+  value: 71 
+  sum: 3424 
+line: kfreightwoonebbhqnqdfdkvgbcx5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 3479 
+line: ninesixnineqzgzgzhdjsix8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 3567 
+line: four7eighttwo6
+     first: 7
+     last: 6
+  value: 76 
+  sum: 3643 
+line: 2pnine7
+     first: 2
+     last: 7
+  value: 27 
+  sum: 3670 
+line: 6seventhree
+     first: 6
+     last: 0
+  value: 60 
+  sum: 3730 
+line: five4four6
+     first: 4
+     last: 6
+  value: 46 
+  sum: 3776 
+line: 2twozbsqkgkmfive62
+     first: 2
+     last: 2
+  value: 22 
+  sum: 3798 
+line: one9bkbnnineninempsqszz
+     first: 9
+     last: 9
+  value: 99 
+  sum: 3897 
+line: two9jzgzbtwonef
+     first: 9
+     last: 9
+  value: 99 
+  sum: 3996 
+line: 8txvhbm5qpcvgkdfvg1hzmvcprvs
+     first: 8
+     last: 1
+  value: 81 
+  sum: 4077 
+line: threeeight52
+     first: 5
+     last: 2
+  value: 52 
+  sum: 4129 
+line: five3qbhtfpkcvn4nine4
+     first: 3
+     last: 4
+  value: 34 
+  sum: 4163 
+line: 9vrqkdrkl12jdsfpsg69
+     first: 9
+     last: 9
+  value: 99 
+  sum: 4262 
+line: seven757two12bxv
+     first: 7
+     last: 2
+  value: 72 
+  sum: 4334 
+line: njnrmxbpvfourskvbp2sixthreexqstpvxjss3four
+     first: 2
+     last: 3
+  value: 23 
+  sum: 4357 
+line: ninejfvfsp6twoness
+     first: 6
+     last: 6
+  value: 66 
+  sum: 4423 
+line: 22rcfzrbpbgq5twoone3four
+     first: 2
+     last: 3
+  value: 23 
+  sum: 4446 
+line: rktqjcbz53five9foureight
+     first: 5
+     last: 9
+  value: 59 
+  sum: 4505 
+line: pcjbdlsix5threeonepdvsevenone
+     first: 5
+     last: 5
+  value: 55 
+  sum: 4560 
+line: oneonenine2hxpmqckdrftktntwo
+     first: 2
+     last: 2
+  value: 22 
+  sum: 4582 
+line: 7four92
+     first: 7
+     last: 2
+  value: 72 
+  sum: 4654 
+line: qxgfxkxkkf6hqbnsg4sevenninebvpjdnnrone
+     first: 6
+     last: 4
+  value: 64 
+  sum: 4718 
+line: ckpf2five7six
+     first: 2
+     last: 7
+  value: 27 
+  sum: 4745 
+line: three27rgsthreeseven
+     first: 2
+     last: 7
+  value: 27 
+  sum: 4772 
+line: 19jztwo6vninevmds
+     first: 1
+     last: 6
+  value: 16 
+  sum: 4788 
+line: eightcdtwo7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 4865 
+line: 1c8kdqkrgjfour33zp
+     first: 1
+     last: 3
+  value: 13 
+  sum: 4878 
+line: jxsdh8eightwoffl
+     first: 8
+     last: 8
+  value: 88 
+  sum: 4966 
+line: sljxsjgvqfive4drrdlbbcrsthreesevenqktkjkrfrzv
+     first: 4
+     last: 4
+  value: 44 
+  sum: 5010 
+line: pfjd5sevenfiveseveneight
+     first: 5
+     last: 5
+  value: 55 
+  sum: 5065 
+line: fivesgzvngjfvz9eight
+     first: 9
+     last: 9
+  value: 99 
+  sum: 5164 
+line: three99jrscbrhkczxdbtqqrfdtxh
+     first: 9
+     last: 9
+  value: 99 
+  sum: 5263 
+line: bzhbbpkpbrqvhjmgsqq72eightwod
+     first: 7
+     last: 2
+  value: 72 
+  sum: 5335 
+line: seven88
+     first: 8
+     last: 8
+  value: 88 
+  sum: 5423 
+line: 3msvninelbhvqhfj871
+     first: 3
+     last: 1
+  value: 31 
+  sum: 5454 
+line: 33sevenfn
+     first: 3
+     last: 3
+  value: 33 
+  sum: 5487 
+line: 49nineseveneightfive
+     first: 4
+     last: 9
+  value: 49 
+  sum: 5536 
+line: 7ttsfxbkjqonenbkrsdthreeqbp
+     first: 7
+     last: 0
+  value: 70 
+  sum: 5606 
+line: cqjxgppqn2746one
+     first: 2
+     last: 6
+  value: 26 
+  sum: 5632 
+line: six1vthdh
+     first: 1
+     last: 1
+  value: 11 
+  sum: 5643 
+line: nbchjfgzmplxlrrtprkvhxmqdp4rdckh
+     first: 4
+     last: 4
+  value: 44 
+  sum: 5687 
+line: two5six4four
+     first: 5
+     last: 4
+  value: 54 
+  sum: 5741 
+line: four7lvttsbdj5
+     first: 7
+     last: 5
+  value: 75 
+  sum: 5816 
+line: 4six9tnnsj
+     first: 4
+     last: 9
+  value: 49 
+  sum: 5865 
+line: four4seven4svfm6zg
+     first: 4
+     last: 6
+  value: 46 
+  sum: 5911 
+line: 7threefive
+     first: 7
+     last: 0
+  value: 70 
+  sum: 5981 
+line: twoqbxzxglsevennxsqpkpneightlxzndhmfourthree6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 6047 
+line: nine5ldqdknsjsncbjmkmlpx
+     first: 5
+     last: 5
+  value: 55 
+  sum: 6102 
+line: jpngl7668
+     first: 7
+     last: 8
+  value: 78 
+  sum: 6180 
+line: sevensixffour6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 6246 
+line: 689oneeightthreekrkkgjtcvh
+     first: 6
+     last: 9
+  value: 69 
+  sum: 6315 
+line: 97szfivekptsgppfmbseven3seven
+     first: 9
+     last: 3
+  value: 93 
+  sum: 6408 
+line: gchqxphzf7threebzglvjsxxteight
+     first: 7
+     last: 7
+  value: 77 
+  sum: 6485 
+line: 4onefour46kn9five
+     first: 4
+     last: 9
+  value: 49 
+  sum: 6534 
+line: bqncvpx25sjlnhdlm39
+     first: 2
+     last: 9
+  value: 29 
+  sum: 6563 
+line: 69mnbns
+     first: 6
+     last: 9
+  value: 69 
+  sum: 6632 
+line: 1ffhnnhs2mftxnfcdhtdntbxjmeight5
+     first: 1
+     last: 5
+  value: 15 
+  sum: 6647 
+line: 7nhmmbnxglndmg9ninefivetbkjkv
+     first: 7
+     last: 9
+  value: 79 
+  sum: 6726 
+line: six7feight
+     first: 7
+     last: 7
+  value: 77 
+  sum: 6803 
+line: 7eightfourgtcj
+     first: 7
+     last: 0
+  value: 70 
+  sum: 6873 
+line: 4seven7six8gdjpxl14pgfkfmms
+     first: 4
+     last: 4
+  value: 44 
+  sum: 6917 
+line: 8mvrzktbvhrblflvndvksjkthree8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 7005 
+line: 9hcj
+     first: 9
+     last: 0
+  value: 90 
+  sum: 7095 
+line: eightfoursevenngssddrstz8nineseven
+     first: 8
+     last: 8
+  value: 88 
+  sum: 7183 
+line: pdbffvgqsnmzgccnhmzpxcnctkqqpzx1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 7194 
+line: onegsrzht7ghgmkbrdzvhd
+     first: 7
+     last: 7
+  value: 77 
+  sum: 7271 
+line: gvkjggsrmzfive1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 7282 
+line: 2dvdxtgqpdvccfiveck2ninectrcnkdcm
+     first: 2
+     last: 2
+  value: 22 
+  sum: 7304 
+line: onexjbpzznnv21sixsevenrnshz
+     first: 2
+     last: 1
+  value: 21 
+  sum: 7325 
+line: 5oneqqq372bhzbgpltwofive
+     first: 5
+     last: 2
+  value: 52 
+  sum: 7377 
+line: 1xzhlgkgnmmqbtlkflvlrhrhkpglgsix
+     first: 1
+     last: 0
+  value: 10 
+  sum: 7387 
+line: sixsixnjjrncqqrpbkfour338mztvsxl
+     first: 3
+     last: 8
+  value: 38 
+  sum: 7425 
+line: rvthjblx55kjqvnlhgkf7sevensixpbd
+     first: 5
+     last: 7
+  value: 57 
+  sum: 7482 
+line: 9vfqfdrkeighttqmclffive6
+     first: 9
+     last: 6
+  value: 96 
+  sum: 7578 
+line: four6fourhtspfivefourcmzhkfive
+     first: 6
+     last: 6
+  value: 66 
+  sum: 7644 
+line: sn2one
+     first: 2
+     last: 2
+  value: 22 
+  sum: 7666 
+line: 9ninefour7
+     first: 9
+     last: 7
+  value: 97 
+  sum: 7763 
+line: xoneightnineoneltpvkzfvpqhxszqmv3hthtn
+     first: 3
+     last: 3
+  value: 33 
+  sum: 7796 
+line: 4fivegqdgkknineonelfg
+     first: 4
+     last: 0
+  value: 40 
+  sum: 7836 
+line: rzxkqbpsp32ndhgqjjonelp
+     first: 3
+     last: 2
+  value: 32 
+  sum: 7868 
+line: three6chvkhhzrjttconethree
+     first: 6
+     last: 6
+  value: 66 
+  sum: 7934 
+line: xsmdhzsfgrmhseven6eightndcpgrrfjsix
+     first: 6
+     last: 6
+  value: 66 
+  sum: 8000 
+line: pkdqlfive7oneonendgtdjtwo
+     first: 7
+     last: 7
+  value: 77 
+  sum: 8077 
+line: 8dpfqfour6onenqmfxhrmsx
+     first: 8
+     last: 6
+  value: 86 
+  sum: 8163 
+line: four854hcdzjv
+     first: 8
+     last: 4
+  value: 84 
+  sum: 8247 
+line: ninemg8xm5gftwovnn
+     first: 8
+     last: 5
+  value: 85 
+  sum: 8332 
+line: 5ptkfjdrkmdtvkgpnsixtwo2
+     first: 5
+     last: 2
+  value: 52 
+  sum: 8384 
+line: qmseven2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 8406 
+line: 27khblcrxdmzjxrqcsgrlninejbjg
+     first: 2
+     last: 7
+  value: 27 
+  sum: 8433 
+line: 4ftzjmgzgninenine
+     first: 4
+     last: 0
+  value: 40 
+  sum: 8473 
+line: six78seven
+     first: 7
+     last: 8
+  value: 78 
+  sum: 8551 
+line: 3three7dndseven
+     first: 3
+     last: 7
+  value: 37 
+  sum: 8588 
+line: qbtgsxbfour9sevenfour2ktlnsthhsznine
+     first: 9
+     last: 2
+  value: 92 
+  sum: 8680 
+line: 59eight
+     first: 5
+     last: 9
+  value: 59 
+  sum: 8739 
+line: xdmbrqpgdqxrrtxcmrdstq2jrtfktzr4five
+     first: 2
+     last: 4
+  value: 24 
+  sum: 8763 
+line: 2kkpdpmrjh1xvmnkbkqgxthree
+     first: 2
+     last: 1
+  value: 21 
+  sum: 8784 
+line: 9threefour9drjzhjfdbnineeightwofc
+     first: 9
+     last: 9
+  value: 99 
+  sum: 8883 
+line: eightknfgls6ztjtxmgvmeightfggfdcfjnf
+     first: 6
+     last: 6
+  value: 66 
+  sum: 8949 
+line: 7hkbnqkf23
+     first: 7
+     last: 3
+  value: 73 
+  sum: 9022 
+line: hjjmdpxztwoseven9three
+     first: 9
+     last: 9
+  value: 99 
+  sum: 9121 
+line: qp6two2
+     first: 6
+     last: 2
+  value: 62 
+  sum: 9183 
+line: vxlkhqtwoggcgcvnhdrfds19
+     first: 1
+     last: 9
+  value: 19 
+  sum: 9202 
+line: four2sevenseventdpjtfnine
+     first: 2
+     last: 2
+  value: 22 
+  sum: 9224 
+line: 24nine79kvzjnnf
+     first: 2
+     last: 9
+  value: 29 
+  sum: 9253 
+line: t23cbtmfour
+     first: 2
+     last: 3
+  value: 23 
+  sum: 9276 
+line: fourkksztczpgthree2gr56
+     first: 2
+     last: 6
+  value: 26 
+  sum: 9302 
+line: 57sixnineeightjdqvbtsrfj6
+     first: 5
+     last: 6
+  value: 56 
+  sum: 9358 
+line: sixsdlhnldk6seven5zncgtctrrhczbnrqs31
+     first: 6
+     last: 1
+  value: 61 
+  sum: 9419 
+line: 8onefour
+     first: 8
+     last: 0
+  value: 80 
+  sum: 9499 
+line: mtfzxxlpnqt3mnrsrfscgm
+     first: 3
+     last: 3
+  value: 33 
+  sum: 9532 
+line: two2bdxjzbfxzblbzzdfive
+     first: 2
+     last: 2
+  value: 22 
+  sum: 9554 
+line: five67tdmxgmfxbseven2twoeightgcrbz
+     first: 6
+     last: 2
+  value: 62 
+  sum: 9616 
+line: zsstjzljxbzrgt5eightfcpkzsths8
+     first: 5
+     last: 8
+  value: 58 
+  sum: 9674 
+line: twosevenbgfxdvkloneqffplfive7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 9751 
+line: rnkoneight1bvvhkd
+     first: 1
+     last: 1
+  value: 11 
+  sum: 9762 
+line: sevenonebrnq4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 9806 
+line: zrxlcfxkckk57nbvls7
+     first: 5
+     last: 7
+  value: 57 
+  sum: 9863 
+line: 99cjnj3brlnvrfqjgtwo6
+     first: 9
+     last: 6
+  value: 96 
+  sum: 9959 
+line: 6lx8srsflntthree
+     first: 6
+     last: 8
+  value: 68 
+  sum: 10027 
+line: rzvgnfdzrt36f4nine6
+     first: 3
+     last: 6
+  value: 36 
+  sum: 10063 
+line: fourmtonehlngpjvfhjfzmbdznpp8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 10151 
+line: 7seven28xrmr
+     first: 7
+     last: 8
+  value: 78 
+  sum: 10229 
+line: 93sevennine43seven
+     first: 9
+     last: 3
+  value: 93 
+  sum: 10322 
+line: mnnqqsixsvdpqk9fpzd
+     first: 9
+     last: 9
+  value: 99 
+  sum: 10421 
+line: zdpvcmcjq23
+     first: 2
+     last: 3
+  value: 23 
+  sum: 10444 
+line: 82five1jpbldxgglcsqseven9
+     first: 8
+     last: 9
+  value: 89 
+  sum: 10533 
+line: two7rx9seven3
+     first: 7
+     last: 3
+  value: 73 
+  sum: 10606 
+line: 3tcnxsevenninefoureighttwo
+     first: 3
+     last: 0
+  value: 30 
+  sum: 10636 
+line: 83sevennnjjjzsdzlx5ninexns7
+     first: 8
+     last: 7
+  value: 87 
+  sum: 10723 
+line: 1seven4
+     first: 1
+     last: 4
+  value: 14 
+  sum: 10737 
+line: kczs59ksfnjzthree
+     first: 5
+     last: 9
+  value: 59 
+  sum: 10796 
+line: 93zsjzjn6862pdgfxqmghcrg
+     first: 9
+     last: 2
+  value: 92 
+  sum: 10888 
+line: threethreeqntmqqm1fqgrxdlzlrzp2
+     first: 1
+     last: 2
+  value: 12 
+  sum: 10900 
+line: xxroneightonefive6vjmqbr2fjdtxhjk
+     first: 6
+     last: 2
+  value: 62 
+  sum: 10962 
+line: 2vlxfvqtd
+     first: 2
+     last: 0
+  value: 20 
+  sum: 10982 
+line: 9vdhdvgllhvjthvvmg
+     first: 9
+     last: 0
+  value: 90 
+  sum: 11072 
+line: khvlqone77seveneight
+     first: 7
+     last: 7
+  value: 77 
+  sum: 11149 
+line: eightfourjkqfzblbr7dpkgdgm
+     first: 7
+     last: 7
+  value: 77 
+  sum: 11226 
+line: zdddkdnineseven6vzmsqrninetwo
+     first: 6
+     last: 6
+  value: 66 
+  sum: 11292 
+line: dcspvl6brpdhqrrxrds3sxgvdlxrfhvh36
+     first: 6
+     last: 6
+  value: 66 
+  sum: 11358 
+line: twosevenv7lxtmxlrsdzqvcrtkdrxs
+     first: 7
+     last: 7
+  value: 77 
+  sum: 11435 
+line: mjjdznk4pgkrjppqr1f
+     first: 4
+     last: 1
+  value: 41 
+  sum: 11476 
+line: jtwonenhv4rml36bdqgbbgvzqbksrlqnxone
+     first: 4
+     last: 6
+  value: 46 
+  sum: 11522 
+line: twottz9eight
+     first: 9
+     last: 9
+  value: 99 
+  sum: 11621 
+line: thtzc9fivetwoeight87blggcsbk
+     first: 9
+     last: 7
+  value: 97 
+  sum: 11718 
+line: eight2seven
+     first: 2
+     last: 2
+  value: 22 
+  sum: 11740 
+line: xlbbchh6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 11806 
+line: 332ponesjqxnnftj
+     first: 3
+     last: 2
+  value: 32 
+  sum: 11838 
+line: 821pgvbsbq9
+     first: 8
+     last: 9
+  value: 89 
+  sum: 11927 
+line: 4seven1smptmjbfsztwo6eighttwotwonevcv
+     first: 4
+     last: 6
+  value: 46 
+  sum: 11973 
+line: fourvkjmrhgxqnztkdgj2four
+     first: 2
+     last: 2
+  value: 22 
+  sum: 11995 
+line: xtjrp7bsmdmlvpmjfive
+     first: 7
+     last: 7
+  value: 77 
+  sum: 12072 
+line: 1ninesmtxnv
+     first: 1
+     last: 0
+  value: 10 
+  sum: 12082 
+line: tzkl385gjsixtwosix
+     first: 3
+     last: 5
+  value: 35 
+  sum: 12117 
+line: 6xckhjxhsgq3fourbxtfseven3
+     first: 6
+     last: 3
+  value: 63 
+  sum: 12180 
+line: rjcrvbsxlq84eightseven
+     first: 8
+     last: 4
+  value: 84 
+  sum: 12264 
+line: hpvnq2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 12286 
+line: twofivecxxzvpfrfourfour448
+     first: 4
+     last: 8
+  value: 48 
+  sum: 12334 
+line: 82fournfour
+     first: 8
+     last: 2
+  value: 82 
+  sum: 12416 
+line: 2nchszknqrqtghsfivenine
+     first: 2
+     last: 0
+  value: 20 
+  sum: 12436 
+line: ptssxccnvlzrtscnsl6fpqrjtrfffour1656
+     first: 6
+     last: 6
+  value: 66 
+  sum: 12502 
+line: 29rlrctthree4vbdmmkpg
+     first: 2
+     last: 4
+  value: 24 
+  sum: 12526 
+line: twofiveqvllxsfj1sevengnkxhthreehppbslzmcgpg
+     first: 1
+     last: 1
+  value: 11 
+  sum: 12537 
+line: 5ninefvvvmfourzndnmvgcll812
+     first: 5
+     last: 2
+  value: 52 
+  sum: 12589 
+line: zxqxqzc4twoeightjfrfdjnlntjbpsevenone
+     first: 4
+     last: 4
+  value: 44 
+  sum: 12633 
+line: hrhvjbdrfourrjj45
+     first: 4
+     last: 5
+  value: 45 
+  sum: 12678 
+line: 7sevendtgjkbmlgpmeightone1
+     first: 7
+     last: 1
+  value: 71 
+  sum: 12749 
+line: lxfmntfkzh5lxdhmpfrkxqckrbl
+     first: 5
+     last: 5
+  value: 55 
+  sum: 12804 
+line: 616fourkdsp
+     first: 6
+     last: 6
+  value: 66 
+  sum: 12870 
+line: 7dfllkzmcbplzqseven9five
+     first: 7
+     last: 9
+  value: 79 
+  sum: 12949 
+line: 25833eightfourseventwo
+     first: 2
+     last: 3
+  value: 23 
+  sum: 12972 
+line: four9sixrgnscd6seveneight
+     first: 9
+     last: 6
+  value: 96 
+  sum: 13068 
+line: two89pxddpnbtck993lfxrhpx
+     first: 8
+     last: 3
+  value: 83 
+  sum: 13151 
+line: ckpgbsfpdffiveprvqmmczhsthreeeight9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 13250 
+line: 431knfdk
+     first: 4
+     last: 1
+  value: 41 
+  sum: 13291 
+line: ones7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 13368 
+line: two4fiveninesixeightonethreefour
+     first: 4
+     last: 4
+  value: 44 
+  sum: 13412 
+line: twosixsix9tsdrcft7
+     first: 9
+     last: 7
+  value: 97 
+  sum: 13509 
+line: 8twokstblnjfivetwothcbqh
+     first: 8
+     last: 0
+  value: 80 
+  sum: 13589 
+line: 9twothreedtcone1twoeightfk
+     first: 9
+     last: 1
+  value: 91 
+  sum: 13680 
+line: slq9seven1mjcqsstkxnhkmzznine4fvphmqsgr
+     first: 9
+     last: 4
+  value: 94 
+  sum: 13774 
+line: fjmmkb6four
+     first: 6
+     last: 6
+  value: 66 
+  sum: 13840 
+line: 38xzqvzm45ldkkgxzlmtwodkgmd
+     first: 3
+     last: 5
+  value: 35 
+  sum: 13875 
+line: 1eightfive5hbs9twonnxbtghrbcd
+     first: 1
+     last: 9
+  value: 19 
+  sum: 13894 
+line: 9sixlcttnctfng7vxnpmntnxh4
+     first: 9
+     last: 4
+  value: 94 
+  sum: 13988 
+line: 2two2rzkns7two
+     first: 2
+     last: 7
+  value: 27 
+  sum: 14015 
+line: eightdbqninekmvfcceight65
+     first: 6
+     last: 5
+  value: 65 
+  sum: 14080 
+line: 554
+     first: 5
+     last: 4
+  value: 54 
+  sum: 14134 
+line: dzlc5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 14189 
+line: 8597six4
+     first: 8
+     last: 4
+  value: 84 
+  sum: 14273 
+line: v7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 14350 
+line: 83vrfdbksmthree3nmmrbdmpmsj1
+     first: 8
+     last: 1
+  value: 81 
+  sum: 14431 
+line: 4fourmcbdnrmd1
+     first: 4
+     last: 1
+  value: 41 
+  sum: 14472 
+line: three8kphbvvndl
+     first: 8
+     last: 8
+  value: 88 
+  sum: 14560 
+line: nineppfhcn32
+     first: 3
+     last: 2
+  value: 32 
+  sum: 14592 
+line: eight7fiveeightvp
+     first: 7
+     last: 7
+  value: 77 
+  sum: 14669 
+line: nine2threebvbnp8
+     first: 2
+     last: 8
+  value: 28 
+  sum: 14697 
+line: 435pjthreerdtf
+     first: 4
+     last: 5
+  value: 45 
+  sum: 14742 
+line: 9xvxxcrscx53rbblg5
+     first: 9
+     last: 5
+  value: 95 
+  sum: 14837 
+line: nine2fcmjdbsrrlrvqmxhndgvgmqnhvqjm
+     first: 2
+     last: 2
+  value: 22 
+  sum: 14859 
+line: 56z8one5sixfive
+     first: 5
+     last: 5
+  value: 55 
+  sum: 14914 
+line: threesixtwonine5eightfive3
+     first: 5
+     last: 3
+  value: 53 
+  sum: 14967 
+line: 1ppzmxrbrgvseven
+     first: 1
+     last: 0
+  value: 10 
+  sum: 14977 
+line: 2xqfoureightqflxrshthree4
+     first: 2
+     last: 4
+  value: 24 
+  sum: 15001 
+line: 12five91fkeightrsxgfl
+     first: 1
+     last: 1
+  value: 11 
+  sum: 15012 
+line: sevennfffgrc9four
+     first: 9
+     last: 9
+  value: 99 
+  sum: 15111 
+line: 51ninesix5ninenineone
+     first: 5
+     last: 5
+  value: 55 
+  sum: 15166 
+line: fiveeightlxqzjxcthree48one
+     first: 4
+     last: 8
+  value: 48 
+  sum: 15214 
+line: sxoneightkkckxpxmhklhdcqzh7fxhjrsix5
+     first: 7
+     last: 5
+  value: 75 
+  sum: 15289 
+line: 1289xjht3seven5b
+     first: 1
+     last: 5
+  value: 15 
+  sum: 15304 
+line: 9qjjseven7ninemmsn58
+     first: 9
+     last: 8
+  value: 98 
+  sum: 15402 
+line: dcspkncsffourgghhgvgc234
+     first: 2
+     last: 4
+  value: 24 
+  sum: 15426 
+line: 62rdlnmbfnsc8
+     first: 6
+     last: 8
+  value: 68 
+  sum: 15494 
+line: khpklssix6cklksvqgqmjccffkrbcjjszhbdlm
+     first: 6
+     last: 6
+  value: 66 
+  sum: 15560 
+line: qlhfqbbdg8fninedtnvpxffbj7four5
+     first: 8
+     last: 5
+  value: 85 
+  sum: 15645 
+line: 65sknldglkhseven5bpcvsc24
+     first: 6
+     last: 4
+  value: 64 
+  sum: 15709 
+line: three41sztsmds3qxrkxgbcsnjjpgmkttjzfts
+     first: 4
+     last: 3
+  value: 43 
+  sum: 15752 
+line: 2fivefivenv
+     first: 2
+     last: 0
+  value: 20 
+  sum: 15772 
+line: mjzfiveqsdvrllthreembzcvrjgzqqsp8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 15860 
+line: 8rxtwoqsfdpksc
+     first: 8
+     last: 0
+  value: 80 
+  sum: 15940 
+line: fivezxseventwo32nine
+     first: 3
+     last: 2
+  value: 32 
+  sum: 15972 
+line: onesmfsthreezdcrsdzjf6twoksvpqtfrn5
+     first: 6
+     last: 5
+  value: 65 
+  sum: 16037 
+line: sixthreetwosnine6gbjfpone
+     first: 6
+     last: 6
+  value: 66 
+  sum: 16103 
+line: 8six39
+     first: 8
+     last: 9
+  value: 89 
+  sum: 16192 
+line: onetwoseven3bplhxvhkkzjgjdxjknjfktn7
+     first: 3
+     last: 7
+  value: 37 
+  sum: 16229 
+line: xhgkqbltlxdnq51three31one
+     first: 5
+     last: 1
+  value: 51 
+  sum: 16280 
+line: threekbknvpssvgtvbsevenrlkczg4gtfqpvrsmj
+     first: 4
+     last: 4
+  value: 44 
+  sum: 16324 
+line: mqzdlfour7lrc3one
+     first: 7
+     last: 3
+  value: 73 
+  sum: 16397 
+line: 2rnthreesixsevenqtgvplzjleight57
+     first: 2
+     last: 7
+  value: 27 
+  sum: 16424 
+line: ljvfrfqvlbnsm1fivebxnfgxptn6ffkhhrzmfz
+     first: 1
+     last: 6
+  value: 16 
+  sum: 16440 
+line: 8fourfoureightbjkcl
+     first: 8
+     last: 0
+  value: 80 
+  sum: 16520 
+line: gsvshhxbqv1nhhsgjnkhjshqtwo
+     first: 1
+     last: 1
+  value: 11 
+  sum: 16531 
+line: eighteighteight1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 16542 
+line: cxfprkbjp1psdkneightwojlf
+     first: 1
+     last: 1
+  value: 11 
+  sum: 16553 
+line: eight9dgchpkgxpkrgjrclqqrd91tlvhhspzlmcpgr
+     first: 9
+     last: 1
+  value: 91 
+  sum: 16644 
+line: zcjshj1twofourgsgvpljsixpmlh6
+     first: 1
+     last: 6
+  value: 16 
+  sum: 16660 
+line: 9cnrztv
+     first: 9
+     last: 0
+  value: 90 
+  sum: 16750 
+line: qvrdxrjk5sevenbmmbrchzgthreebjhrtxgeight
+     first: 5
+     last: 5
+  value: 55 
+  sum: 16805 
+line: qdfsdhthreevdx4qspvkbdtccpdljcsfq
+     first: 4
+     last: 4
+  value: 44 
+  sum: 16849 
+line: onefourm9hbpvsxbqxonegtsvfltdsg
+     first: 9
+     last: 9
+  value: 99 
+  sum: 16948 
+line: srssgmrhszjvkrszhktfsbmccz4tvsqxvcxpx6three
+     first: 4
+     last: 6
+  value: 46 
+  sum: 16994 
+line: dxvgjmcxbmfive4zvtfour
+     first: 4
+     last: 4
+  value: 44 
+  sum: 17038 
+line: vtfxpjqkfive6one
+     first: 6
+     last: 6
+  value: 66 
+  sum: 17104 
+line: ctshxrjvbslhtninedfour2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 17126 
+line: eighteighteightseventwo5zsninesix
+     first: 5
+     last: 5
+  value: 55 
+  sum: 17181 
+line: one37qfhtfpvpmmvjnpfgbkkbhgbdhdnine
+     first: 3
+     last: 7
+  value: 37 
+  sum: 17218 
+line: tbeightwo2qxvttmcqonesixeight
+     first: 2
+     last: 2
+  value: 22 
+  sum: 17240 
+line: btdrgxpthreenine8gq
+     first: 8
+     last: 8
+  value: 88 
+  sum: 17328 
+line: 1vfqvmgqvpmjrtgfqngkm
+     first: 1
+     last: 0
+  value: 10 
+  sum: 17338 
+line: one13two
+     first: 1
+     last: 3
+  value: 13 
+  sum: 17351 
+line: 8eight2eightfiveninexfsptn
+     first: 8
+     last: 2
+  value: 82 
+  sum: 17433 
+line: qlddc8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 17521 
+line: ninenine8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 17609 
+line: vtwoneb2lfj
+     first: 2
+     last: 2
+  value: 22 
+  sum: 17631 
+line: 3sixeightseven
+     first: 3
+     last: 0
+  value: 30 
+  sum: 17661 
+line: 94ctfzmjhzlpkjnbrrtoneightsrm
+     first: 9
+     last: 4
+  value: 94 
+  sum: 17755 
+line: 6mqkpvlf
+     first: 6
+     last: 0
+  value: 60 
+  sum: 17815 
+line: trspvjctskfsbj5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 17870 
+line: 9tlkmnndlnqpcspq4one
+     first: 9
+     last: 4
+  value: 94 
+  sum: 17964 
+line: eight1three8sevenoneftrjjxhblv5eight
+     first: 1
+     last: 5
+  value: 15 
+  sum: 17979 
+line: twothree4nrshvjkxvq1sevenseventwom
+     first: 4
+     last: 1
+  value: 41 
+  sum: 18020 
+line: 2two5sixthreedjgcfhvz4sixrm
+     first: 2
+     last: 4
+  value: 24 
+  sum: 18044 
+line: ntwo5one7ninembfive
+     first: 5
+     last: 7
+  value: 57 
+  sum: 18101 
+line: qgclmrksfqjcrh849
+     first: 8
+     last: 9
+  value: 89 
+  sum: 18190 
+line: 3twoone628five
+     first: 3
+     last: 8
+  value: 38 
+  sum: 18228 
+line: 5dqzjdmcninejlhqone
+     first: 5
+     last: 0
+  value: 50 
+  sum: 18278 
+line: 99mpmtfjbxmrjsix27four
+     first: 9
+     last: 7
+  value: 97 
+  sum: 18375 
+line: sixthreeonecxvzmrm55rkx
+     first: 5
+     last: 5
+  value: 55 
+  sum: 18430 
+line: 5threeeightseven
+     first: 5
+     last: 0
+  value: 50 
+  sum: 18480 
+line: tq8twotfgsnjctnseven
+     first: 8
+     last: 8
+  value: 88 
+  sum: 18568 
+line: 2nine76fourtfmqjkrdtrp
+     first: 2
+     last: 6
+  value: 26 
+  sum: 18594 
+line: 2lrfive
+     first: 2
+     last: 0
+  value: 20 
+  sum: 18614 
+line: 1sxkrpzjseveneight
+     first: 1
+     last: 0
+  value: 10 
+  sum: 18624 
+line: xtbtqzvkvfourvkjjtsevenfdmsf2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 18646 
+line: 9rlnrjhxstsixrrqcgmxr
+     first: 9
+     last: 0
+  value: 90 
+  sum: 18736 
+line: vhzpsrzfive2nine76nineddkqzq
+     first: 2
+     last: 6
+  value: 26 
+  sum: 18762 
+line: sloneight27ninebnfxmgfour
+     first: 2
+     last: 7
+  value: 27 
+  sum: 18789 
+line: ninesprstwothree8threeklrfour
+     first: 8
+     last: 8
+  value: 88 
+  sum: 18877 
+line: two7onegxqvmjvdgb1hxsjllprk
+     first: 7
+     last: 1
+  value: 71 
+  sum: 18948 
+line: 1six5foureighttwoeightthree2
+     first: 1
+     last: 2
+  value: 12 
+  sum: 18960 
+line: 5three4hfive
+     first: 5
+     last: 4
+  value: 54 
+  sum: 19014 
+line: nine1oneeightlhnine5three
+     first: 1
+     last: 5
+  value: 15 
+  sum: 19029 
+line: hfz7lbtffkphnvp8
+     first: 7
+     last: 8
+  value: 78 
+  sum: 19107 
+line: sxp7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 19184 
+line: kfclfdhtplbmpzsnplmqfgnc56pgprnlkp9
+     first: 5
+     last: 9
+  value: 59 
+  sum: 19243 
+line: threethreevfourfivehtxchgc1two
+     first: 1
+     last: 1
+  value: 11 
+  sum: 19254 
+line: 7five4five222
+     first: 7
+     last: 2
+  value: 72 
+  sum: 19326 
+line: 7qqnfoneprdsgj
+     first: 7
+     last: 0
+  value: 70 
+  sum: 19396 
+line: 457
+     first: 4
+     last: 7
+  value: 47 
+  sum: 19443 
+line: fivesmgdghmfour48one
+     first: 4
+     last: 8
+  value: 48 
+  sum: 19491 
+line: kkr7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 19568 
+line: rpqdl8fzgdg9ljnbxzdxs
+     first: 8
+     last: 9
+  value: 89 
+  sum: 19657 
+line: tvmtggfnkq8fxbmgntmtffive1gbreight
+     first: 8
+     last: 1
+  value: 81 
+  sum: 19738 
+line: 5fcncxjb719fivepbn
+     first: 5
+     last: 9
+  value: 59 
+  sum: 19797 
+line: 7msvcmpknn
+     first: 7
+     last: 0
+  value: 70 
+  sum: 19867 
+line: f61
+     first: 6
+     last: 1
+  value: 61 
+  sum: 19928 
+line: ltzcqsf1ninebbbkzkcsix6plsp8
+     first: 1
+     last: 8
+  value: 18 
+  sum: 19946 
+line: 16glvnbcseven8eightdp
+     first: 1
+     last: 8
+  value: 18 
+  sum: 19964 
+line: bdvgvrmpbpztjtdsqxk391
+     first: 3
+     last: 1
+  value: 31 
+  sum: 19995 
+line: keight9qsqfhzgbh5zzqvtkr
+     first: 9
+     last: 5
+  value: 95 
+  sum: 20090 
+line: eightone944bp187
+     first: 9
+     last: 7
+  value: 97 
+  sum: 20187 
+line: 9three2
+     first: 9
+     last: 2
+  value: 92 
+  sum: 20279 
+line: klgsfsjgptcqz4dkd5five
+     first: 4
+     last: 5
+  value: 45 
+  sum: 20324 
+line: ninesix6qbbqdnsmjd1five5fourxprrc
+     first: 6
+     last: 5
+  value: 65 
+  sum: 20389 
+line: 2onesevendkspzqmhjdkrvgnhqfkvh
+     first: 2
+     last: 0
+  value: 20 
+  sum: 20409 
+line: eightvsgnsrbkk34four
+     first: 3
+     last: 4
+  value: 34 
+  sum: 20443 
+line: czbkrztcpkctv9fhmjmm
+     first: 9
+     last: 9
+  value: 99 
+  sum: 20542 
+line: dfourpjjbffbtj9eightsix4tzqnnnsqbzqp
+     first: 9
+     last: 4
+  value: 94 
+  sum: 20636 
+line: sixdvmclzpfnthreefive9fourseven
+     first: 9
+     last: 9
+  value: 99 
+  sum: 20735 
+line: sixninerknqqsdl3twotwo
+     first: 3
+     last: 3
+  value: 33 
+  sum: 20768 
+line: fiveonefltlnpsdgmpmzqp633
+     first: 6
+     last: 3
+  value: 63 
+  sum: 20831 
+line: three617six
+     first: 6
+     last: 7
+  value: 67 
+  sum: 20898 
+line: ddngjtdnine8tdxcs
+     first: 8
+     last: 8
+  value: 88 
+  sum: 20986 
+line: onefiveqhzxr8pftvhbhphr
+     first: 8
+     last: 8
+  value: 88 
+  sum: 21074 
+line: three469
+     first: 4
+     last: 9
+  value: 49 
+  sum: 21123 
+line: 69mzmtjgfztwo1
+     first: 6
+     last: 1
+  value: 61 
+  sum: 21184 
+line: 551zbxzjfglghcmfoneseventwo9
+     first: 5
+     last: 9
+  value: 59 
+  sum: 21243 
+line: 4sfive55eightqnk
+     first: 4
+     last: 5
+  value: 45 
+  sum: 21288 
+line: chgsglxjlmnineninesixhhqbppctqvmrslbj46dnzsmlg
+     first: 4
+     last: 6
+  value: 46 
+  sum: 21334 
+line: zvgjxm1sixninebxzpbknmqh1skzqqblm
+     first: 1
+     last: 1
+  value: 11 
+  sum: 21345 
+line: fourdrf28sevenfour7
+     first: 2
+     last: 7
+  value: 27 
+  sum: 21372 
+line: j4zgctfmgcf
+     first: 4
+     last: 4
+  value: 44 
+  sum: 21416 
+line: 4t3eight3vlvgzbjlrzbdxjkthree4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 21460 
+line: threefournineklg4threefour5bkmxtfxtnm
+     first: 4
+     last: 5
+  value: 45 
+  sum: 21505 
+line: 5five9
+     first: 5
+     last: 9
+  value: 59 
+  sum: 21564 
+line: svqsrqlfjhthreegnkjb1bjvsstkdc
+     first: 1
+     last: 1
+  value: 11 
+  sum: 21575 
+line: gcs2nine
+     first: 2
+     last: 2
+  value: 22 
+  sum: 21597 
+line: gqnsnjvpnmsllxhxstonethree5eightone
+     first: 5
+     last: 5
+  value: 55 
+  sum: 21652 
+line: 6fnzprvv1threefive62brhhz
+     first: 6
+     last: 2
+  value: 62 
+  sum: 21714 
+line: two89xdrzrfr96
+     first: 8
+     last: 6
+  value: 86 
+  sum: 21800 
+line: 4ninetwotwo32zhsnzlx
+     first: 4
+     last: 2
+  value: 42 
+  sum: 21842 
+line: ntwone4eightfourthreeeight
+     first: 4
+     last: 4
+  value: 44 
+  sum: 21886 
+line: 87rsrlb9threesixthreejjnhcnx
+     first: 8
+     last: 9
+  value: 89 
+  sum: 21975 
+line: 6onenine
+     first: 6
+     last: 0
+  value: 60 
+  sum: 22035 
+line: twoeightfive13
+     first: 1
+     last: 3
+  value: 13 
+  sum: 22048 
+line: one5bqvctcbnrdktf7qszxrxvgtfc
+     first: 5
+     last: 7
+  value: 57 
+  sum: 22105 
+line: two9jtwo
+     first: 9
+     last: 9
+  value: 99 
+  sum: 22204 
+line: dnsrkkdjbscltfsnonethreefive1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 22215 
+line: three5one
+     first: 5
+     last: 5
+  value: 55 
+  sum: 22270 
+line: 37dhone6one
+     first: 3
+     last: 6
+  value: 36 
+  sum: 22306 
+line: eighttwo2five2643
+     first: 2
+     last: 3
+  value: 23 
+  sum: 22329 
+line: 7nknhfeightfour
+     first: 7
+     last: 0
+  value: 70 
+  sum: 22399 
+line: nineninenine2pztjcjtsmn3one
+     first: 2
+     last: 3
+  value: 23 
+  sum: 22422 
+line: 7fxvql
+     first: 7
+     last: 0
+  value: 70 
+  sum: 22492 
+line: gdgzvxnlkbtgkssdjrxftwo2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 22514 
+line: fourtwo9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 22613 
+line: onefoursixzeightone262
+     first: 2
+     last: 2
+  value: 22 
+  sum: 22635 
+line: kjbhkp3vjvdqchhmqpnbzjxvfrgpnqzpbn6eight
+     first: 3
+     last: 6
+  value: 36 
+  sum: 22671 
+line: 52tpgzzbb85
+     first: 5
+     last: 5
+  value: 55 
+  sum: 22726 
+line: seven4tmzv9
+     first: 4
+     last: 9
+  value: 49 
+  sum: 22775 
+line: 1jncptklvtwo24four38five
+     first: 1
+     last: 8
+  value: 18 
+  sum: 22793 
+line: nv447oneeightznqddpvvztwo3
+     first: 4
+     last: 3
+  value: 43 
+  sum: 22836 
+line: five7971bcqk
+     first: 7
+     last: 1
+  value: 71 
+  sum: 22907 
+line: jdmxv6hhgstzcnvscphjbgrj1sixsxp1
+     first: 6
+     last: 1
+  value: 61 
+  sum: 22968 
+line: fhrcrqzqglr7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 23045 
+line: 15fourgvzbczonexlqzkdx4djvckdcfour
+     first: 1
+     last: 4
+  value: 14 
+  sum: 23059 
+line: gbtgdlzsdvseven5five16
+     first: 5
+     last: 6
+  value: 56 
+  sum: 23115 
+line: tzklvspsz33vpjd3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 23148 
+line: 9snmndhqmtoneprpzfnsjq
+     first: 9
+     last: 0
+  value: 90 
+  sum: 23238 
+line: 85bvtnqqhqnbkmxkqqxzxlxqbnkh
+     first: 8
+     last: 5
+  value: 85 
+  sum: 23323 
+line: 8threecfnmsffphrninehjbxlc3
+     first: 8
+     last: 3
+  value: 83 
+  sum: 23406 
+line: n19five9z
+     first: 1
+     last: 9
+  value: 19 
+  sum: 23425 
+line: gqrqz1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 23436 
+line: mtmhphhspflprqgzlzgthreeggrtppdgflrrjdseven6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 23502 
+line: pbdfzdqbx27oneeightseven
+     first: 2
+     last: 7
+  value: 27 
+  sum: 23529 
+line: rtgnhlgqpkfour3cmbmhtsr
+     first: 3
+     last: 3
+  value: 33 
+  sum: 23562 
+line: 26fsdgjdbsevennine9l
+     first: 2
+     last: 9
+  value: 29 
+  sum: 23591 
+line: eightxxnvlvdsdttwo9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 23690 
+line: kthree3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 23723 
+line: 1nckxqpkthree91
+     first: 1
+     last: 1
+  value: 11 
+  sum: 23734 
+line: 7bxdbjtqphs9five2nxrddxstwo
+     first: 7
+     last: 2
+  value: 72 
+  sum: 23806 
+line: seven67rrvfztx
+     first: 6
+     last: 7
+  value: 67 
+  sum: 23873 
+line: xkqk4ninesxfive4three6rnx
+     first: 4
+     last: 6
+  value: 46 
+  sum: 23919 
+line: mnnspxdqjf3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 23952 
+line: zpvzzptfsevensevenseven48
+     first: 4
+     last: 8
+  value: 48 
+  sum: 24000 
+line: threeonetwo1dqcgzkmdqkcdzpmqhzmm
+     first: 1
+     last: 1
+  value: 11 
+  sum: 24011 
+line: sr19
+     first: 1
+     last: 9
+  value: 19 
+  sum: 24030 
+line: eight9nine9four
+     first: 9
+     last: 9
+  value: 99 
+  sum: 24129 
+line: cpfrzhrnfivevqdr8nine
+     first: 8
+     last: 8
+  value: 88 
+  sum: 24217 
+line: 4zkhhfv9
+     first: 4
+     last: 9
+  value: 49 
+  sum: 24266 
+line: fjzmqgr3869
+     first: 3
+     last: 9
+  value: 39 
+  sum: 24305 
+line: mnxtwone1982sixfournxvmnvzmxlqm4
+     first: 1
+     last: 4
+  value: 14 
+  sum: 24319 
+line: 6rg164three
+     first: 6
+     last: 4
+  value: 64 
+  sum: 24383 
+line: zoneightnbbnrxclsthjboneninevkjnzhqrkvmtt6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 24449 
+line: eight7nnpn52
+     first: 7
+     last: 2
+  value: 72 
+  sum: 24521 
+line: nine8threejrxc4seven
+     first: 8
+     last: 4
+  value: 84 
+  sum: 24605 
+line: 4fivetcq58
+     first: 4
+     last: 8
+  value: 48 
+  sum: 24653 
+line: skqfhjbtqthree7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 24730 
+line: 3mhlr
+     first: 3
+     last: 0
+  value: 30 
+  sum: 24760 
+line: three6tzhlhgnx5ljb32nine
+     first: 6
+     last: 2
+  value: 62 
+  sum: 24822 
+line: t31kxcf
+     first: 3
+     last: 1
+  value: 31 
+  sum: 24853 
+line: 41gdkmnf2two
+     first: 4
+     last: 2
+  value: 42 
+  sum: 24895 
+line: ffsqhzmznsixtwokxjtwoeight73
+     first: 7
+     last: 3
+  value: 73 
+  sum: 24968 
+line: trtcc477
+     first: 4
+     last: 7
+  value: 47 
+  sum: 25015 
+line: seven1261
+     first: 1
+     last: 1
+  value: 11 
+  sum: 25026 
+line: 4eight8rhrvlzpmnqseven9twohpn
+     first: 4
+     last: 9
+  value: 49 
+  sum: 25075 
+line: dzfffzff5fiveplhmbfnzrvphfoursix2four
+     first: 5
+     last: 2
+  value: 52 
+  sum: 25127 
+line: onedmhzhhzrmtwofourfive7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 25204 
+line: zqmqlcrgzb2ninesevenrrdlhznhcqxsmfltworqlvzkdhqhskshjsh
+     first: 2
+     last: 2
+  value: 22 
+  sum: 25226 
+line: 37brxzssqonefive67
+     first: 3
+     last: 7
+  value: 37 
+  sum: 25263 
+line: xkptstf98fivebdlrslpjfxtvzfour
+     first: 9
+     last: 8
+  value: 98 
+  sum: 25361 
+line: oneqpsfnprzd5nine
+     first: 5
+     last: 5
+  value: 55 
+  sum: 25416 
+line: 6gxxvxb7
+     first: 6
+     last: 7
+  value: 67 
+  sum: 25483 
+line: 39two
+     first: 3
+     last: 9
+  value: 39 
+  sum: 25522 
+line: nggltz4sgkdnpbvzz2nineblfff1fivesix
+     first: 4
+     last: 1
+  value: 41 
+  sum: 25563 
+line: vvxrpdvbzppfour6gz3six
+     first: 6
+     last: 3
+  value: 63 
+  sum: 25626 
+line: dfrdtwo3284fpntbqx9
+     first: 3
+     last: 9
+  value: 39 
+  sum: 25665 
+line: 1zgxhdt94vmxmfiveoneqvfjjq
+     first: 1
+     last: 4
+  value: 14 
+  sum: 25679 
+line: 3lrsjmr44snx
+     first: 3
+     last: 4
+  value: 34 
+  sum: 25713 
+line: eightonerjhrdftxrvqkzfive4zvtqnddtwo
+     first: 4
+     last: 4
+  value: 44 
+  sum: 25757 
+line: bxfive2eight
+     first: 2
+     last: 2
+  value: 22 
+  sum: 25779 
+line: jjnine662nine1
+     first: 6
+     last: 1
+  value: 61 
+  sum: 25840 
+line: onesixone1kknsjgzlbbrgxdbrxlpjvhtnkjbb
+     first: 1
+     last: 1
+  value: 11 
+  sum: 25851 
+line: fivefive2three5
+     first: 2
+     last: 5
+  value: 25 
+  sum: 25876 
+line: sixsevend5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 25931 
+line: 6ninelfhjjfourfour24sevenxg
+     first: 6
+     last: 4
+  value: 64 
+  sum: 25995 
+line: dpdvmrs7rbstcg
+     first: 7
+     last: 7
+  value: 77 
+  sum: 26072 
+line: phxszdrzdfivepfkzcmhnineeight97fivecnkcxjqrf
+     first: 9
+     last: 7
+  value: 97 
+  sum: 26169 
+line: 7dpdbzbfxztqlrsixlzgcbctp7six
+     first: 7
+     last: 7
+  value: 77 
+  sum: 26246 
+line: eight3one9
+     first: 3
+     last: 9
+  value: 39 
+  sum: 26285 
+line: nineeightjpxtpltworthree2xcrk
+     first: 2
+     last: 2
+  value: 22 
+  sum: 26307 
+line: xtgfive49
+     first: 4
+     last: 9
+  value: 49 
+  sum: 26356 
+line: dndltvlglgtwo2seven
+     first: 2
+     last: 2
+  value: 22 
+  sum: 26378 
+line: 6lfxsgqzqj
+     first: 6
+     last: 0
+  value: 60 
+  sum: 26438 
+line: 7bqsvgzkphcmcdcpfg242lsnine
+     first: 7
+     last: 2
+  value: 72 
+  sum: 26510 
+line: 895bcx
+     first: 8
+     last: 5
+  value: 85 
+  sum: 26595 
+line: fourzlxshjgtplrzk24xfspckjdone
+     first: 2
+     last: 4
+  value: 24 
+  sum: 26619 
+line: stwonefivethreefivefdgnr6five
+     first: 6
+     last: 6
+  value: 66 
+  sum: 26685 
+line: 2bcsft42three7jnndsjqckmseven
+     first: 2
+     last: 7
+  value: 27 
+  sum: 26712 
+line: oneqkmbqdfgljtgx3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 26745 
+line: bpfk4rdxqptq
+     first: 4
+     last: 4
+  value: 44 
+  sum: 26789 
+line: fourfivepsqvthreejzx12pdg
+     first: 1
+     last: 2
+  value: 12 
+  sum: 26801 
+line: sixsixseven53fgrvckfxtlseven1
+     first: 5
+     last: 1
+  value: 51 
+  sum: 26852 
+line: 9foursix
+     first: 9
+     last: 0
+  value: 90 
+  sum: 26942 
+line: hvznsjjtsjdcng9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 27041 
+line: 7szrvscmcdmrjtzcj7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 27118 
+line: r13bdr
+     first: 1
+     last: 3
+  value: 13 
+  sum: 27131 
+line: ddghbfour3tnfmj49bm43
+     first: 3
+     last: 3
+  value: 33 
+  sum: 27164 
+line: 54gggltwooneninekzkbf
+     first: 5
+     last: 4
+  value: 54 
+  sum: 27218 
+line: 48one8kpnfsnfflzbkr
+     first: 4
+     last: 8
+  value: 48 
+  sum: 27266 
+line: chgcrmfour6two9tone
+     first: 6
+     last: 9
+  value: 69 
+  sum: 27335 
+line: 4pvjgzptwoqdrkjthtninesixfour5six
+     first: 4
+     last: 5
+  value: 45 
+  sum: 27380 
+line: nbfbfndd4crjnsvrvmnxvp5rthlxzttzq
+     first: 4
+     last: 5
+  value: 45 
+  sum: 27425 
+line: jsix5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 27480 
+line: gptkdhsdjz8dgpmddsfdbncgsfdzknxjrlzrcfive
+     first: 8
+     last: 8
+  value: 88 
+  sum: 27568 
+line: 3grpkfkczphcxdsrczr
+     first: 3
+     last: 0
+  value: 30 
+  sum: 27598 
+line: rmvthreeone62bg
+     first: 6
+     last: 2
+  value: 62 
+  sum: 27660 
+line: 9zqt
+     first: 9
+     last: 0
+  value: 90 
+  sum: 27750 
+line: four8fourone
+     first: 8
+     last: 8
+  value: 88 
+  sum: 27838 
+line: two4fivem2
+     first: 4
+     last: 2
+  value: 42 
+  sum: 27880 
+line: four1nseight4cvnjp
+     first: 1
+     last: 4
+  value: 14 
+  sum: 27894 
+line: fivefiveeightseventzqlznsix12hxlcfk
+     first: 1
+     last: 2
+  value: 12 
+  sum: 27906 
+line: chjvnmjcl7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 27983 
+line: one2ninetwohhmnine835
+     first: 2
+     last: 5
+  value: 25 
+  sum: 28008 
+line: 8ninensgmfdm
+     first: 8
+     last: 0
+  value: 80 
+  sum: 28088 
+line: threemcfqntmffn43foursixtwo
+     first: 4
+     last: 3
+  value: 43 
+  sum: 28131 
+line: hkkfour1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 28142 
+line: 4fivevsnmccnstffqtmsixonefvmsbeightwold
+     first: 4
+     last: 0
+  value: 40 
+  sum: 28182 
+line: cvghfqsnvp3threefive
+     first: 3
+     last: 3
+  value: 33 
+  sum: 28215 
+line: 1qqtbzgvjhchcxrd4tgpsstwojlvmnine8
+     first: 1
+     last: 8
+  value: 18 
+  sum: 28233 
+line: 2twofqxhhnmf
+     first: 2
+     last: 0
+  value: 20 
+  sum: 28253 
+line: eightlpjfnkv5one2zxrtgskffive
+     first: 5
+     last: 2
+  value: 52 
+  sum: 28305 
+line: fourfourninezhczvqkjcqnshzfbc9fivet
+     first: 9
+     last: 9
+  value: 99 
+  sum: 28404 
+line: onefive7vtztjcpgrpb
+     first: 7
+     last: 7
+  value: 77 
+  sum: 28481 
+line: 9five8threebfpdtlvtrftdxcjfive4pzp
+     first: 9
+     last: 4
+  value: 94 
+  sum: 28575 
+line: 4eightsevenzfqkgn
+     first: 4
+     last: 0
+  value: 40 
+  sum: 28615 
+line: 9c547onetpztzvnnkf6
+     first: 9
+     last: 6
+  value: 96 
+  sum: 28711 
+line: 8threenineonettlhvhszncfznxbc
+     first: 8
+     last: 0
+  value: 80 
+  sum: 28791 
+line: twofivesixn4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 28835 
+line: two1fpbvrbthreejxgsssrfivethreeftqdp
+     first: 1
+     last: 1
+  value: 11 
+  sum: 28846 
+line: kxgmqzpxrqxnjjrfourtwonine3fivesevensix
+     first: 3
+     last: 3
+  value: 33 
+  sum: 28879 
+line: 6tvztdsix
+     first: 6
+     last: 0
+  value: 60 
+  sum: 28939 
+line: 855jftzthzltjgsixdftmtp
+     first: 8
+     last: 5
+  value: 85 
+  sum: 29024 
+line: nbxtrrchtprn6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 29090 
+line: eightfive1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 29101 
+line: rnbxngxkfkksgmssqh8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 29189 
+line: twozcd26onefourr
+     first: 2
+     last: 6
+  value: 26 
+  sum: 29215 
+line: 5fivecsnpmgn
+     first: 5
+     last: 0
+  value: 50 
+  sum: 29265 
+line: 9mhqlbgxzqfeightfivenine6tmz
+     first: 9
+     last: 6
+  value: 96 
+  sum: 29361 
+line: 425zxgqm5rkvrggpkhxblkgkpgonenine
+     first: 4
+     last: 5
+  value: 45 
+  sum: 29406 
+line: d73zklxbnine
+     first: 7
+     last: 3
+  value: 73 
+  sum: 29479 
+line: 8nineeightfive
+     first: 8
+     last: 0
+  value: 80 
+  sum: 29559 
+line: czgzhvglkczxmx5four
+     first: 5
+     last: 5
+  value: 55 
+  sum: 29614 
+line: nineqkcjhpgcthreeninejxpqzmxjtxoneqmzxdgrngh2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 29636 
+line: dthrngfour6cjfsmsqdfnfqzdxqpqtxtwo
+     first: 6
+     last: 6
+  value: 66 
+  sum: 29702 
+line: onedqrjseight6mrbrnfgmj9
+     first: 6
+     last: 9
+  value: 69 
+  sum: 29771 
+line: 45qjdsevenlhnbgvzsjkr
+     first: 4
+     last: 5
+  value: 45 
+  sum: 29816 
+line: threetwo5eightfivethree
+     first: 5
+     last: 5
+  value: 55 
+  sum: 29871 
+line: onevqtfourtwo3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 29904 
+line: zvhtctbqnbfivesixsmtksdg8eight
+     first: 8
+     last: 8
+  value: 88 
+  sum: 29992 
+line: xvlts6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 30058 
+line: 8d8mcseven
+     first: 8
+     last: 8
+  value: 88 
+  sum: 30146 
+line: 1tpgzvbqsvnbhhcqtwo9sevendpzncglvl1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 30157 
+line: 2threeseven
+     first: 2
+     last: 0
+  value: 20 
+  sum: 30177 
+line: rkpffs8bmnthcx
+     first: 8
+     last: 8
+  value: 88 
+  sum: 30265 
+line: one433dnqpone
+     first: 4
+     last: 3
+  value: 43 
+  sum: 30308 
+line: threefive67
+     first: 6
+     last: 7
+  value: 67 
+  sum: 30375 
+line: vdkmsevenfourtwodjkrdfl3oneqqfjpq
+     first: 3
+     last: 3
+  value: 33 
+  sum: 30408 
+line: four1seven1vthrcfjfhjzbzvhxpfour
+     first: 1
+     last: 1
+  value: 11 
+  sum: 30419 
+line: 3seven5
+     first: 3
+     last: 5
+  value: 35 
+  sum: 30454 
+line: 5xtjnbgvr
+     first: 5
+     last: 0
+  value: 50 
+  sum: 30504 
+line: 1sbkcftcklnrninesixseven9trdptfive
+     first: 1
+     last: 9
+  value: 19 
+  sum: 30523 
+line: six697nine
+     first: 6
+     last: 7
+  value: 67 
+  sum: 30590 
+line: four9eightone6jr4
+     first: 9
+     last: 4
+  value: 94 
+  sum: 30684 
+line: four5mnsnineonesevenfive
+     first: 5
+     last: 5
+  value: 55 
+  sum: 30739 
+line: svxqbqjeightxph3threetctlxqbn
+     first: 3
+     last: 3
+  value: 33 
+  sum: 30772 
+line: fskcnineztzxrxlfmdnp9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 30871 
+line: 17dnd4sixdzq21ssggqvvjzh
+     first: 1
+     last: 1
+  value: 11 
+  sum: 30882 
+line: 4kpgmgpgseven69two73
+     first: 4
+     last: 3
+  value: 43 
+  sum: 30925 
+line: nine7nvdqnrptv1threemncvtwothreenine
+     first: 7
+     last: 1
+  value: 71 
+  sum: 30996 
+line: dvljgdqhsknpbhhbcptvpmlbvqtwosrsntmvjpbs3lvdtgzcndsthree
+     first: 3
+     last: 3
+  value: 33 
+  sum: 31029 
+line: gseven7eight8four
+     first: 7
+     last: 8
+  value: 78 
+  sum: 31107 
+line: mpvmb7rcmbjgchtwoone
+     first: 7
+     last: 7
+  value: 77 
+  sum: 31184 
+line: sevenmzbqcvxrfourmjfqkqvlcmcfkcfive5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 31239 
+line: 25rmeight6seven
+     first: 2
+     last: 6
+  value: 26 
+  sum: 31265 
+line: gthxtj3rlsqxkzgxb4six
+     first: 3
+     last: 4
+  value: 34 
+  sum: 31299 
+line: pfrjqrs6fivekmjkhmr3eight1
+     first: 6
+     last: 1
+  value: 61 
+  sum: 31360 
+line: onefive9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 31459 
+line: 4five1hmg7ninesixntssdbfgltcqnj
+     first: 4
+     last: 7
+  value: 47 
+  sum: 31506 
+line: 5dqh95
+     first: 5
+     last: 5
+  value: 55 
+  sum: 31561 
+line: one5fivefour7
+     first: 5
+     last: 7
+  value: 57 
+  sum: 31618 
+line: gxkq1ninetnbbmmptthreeninevhxlxkrm
+     first: 1
+     last: 1
+  value: 11 
+  sum: 31629 
+line: 9threecv
+     first: 9
+     last: 0
+  value: 90 
+  sum: 31719 
+line: onethreefqzkz9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 31818 
+line: 4onetwoddb2two
+     first: 4
+     last: 2
+  value: 42 
+  sum: 31860 
+line: twojv8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 31948 
+line: m8eightcsvbjjglfxlkhr
+     first: 8
+     last: 8
+  value: 88 
+  sum: 32036 
+line: 1ffdndfmps3dqcz1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 32047 
+line: 25dfgdhtdfsgp9
+     first: 2
+     last: 9
+  value: 29 
+  sum: 32076 
+line: 68lxlln268six
+     first: 6
+     last: 8
+  value: 68 
+  sum: 32144 
+line: twothreethree26
+     first: 2
+     last: 6
+  value: 26 
+  sum: 32170 
+line: six2xbfdvjdtpn5nine1ninelqpmbnvg
+     first: 2
+     last: 1
+  value: 21 
+  sum: 32191 
+line: 2lkhg4
+     first: 2
+     last: 4
+  value: 24 
+  sum: 32215 
+line: hbxctckzsevenseven8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 32303 
+line: ghdmhjtjseventlb1xmjlcnslj3
+     first: 1
+     last: 3
+  value: 13 
+  sum: 32316 
+line: five7threev2sevenhzndbnjfpkvcznmrtzcpxrlj
+     first: 7
+     last: 2
+  value: 72 
+  sum: 32388 
+line: zqhb8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 32476 
+line: nrknllzbkdpxtwoccxpgninerszrdmhdbqtfbkp6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 32542 
+line: eightppfpmvlbvsixqjnnkzcc39eightwogx
+     first: 3
+     last: 9
+  value: 39 
+  sum: 32581 
+line: ftqxlqgrdpprrkrsix1oneightp
+     first: 1
+     last: 1
+  value: 11 
+  sum: 32592 
+line: sixmtrtd392lhczn
+     first: 3
+     last: 2
+  value: 32 
+  sum: 32624 
+line: 6three8sixseven76pgvrfb5eightwof
+     first: 6
+     last: 5
+  value: 65 
+  sum: 32689 
+line: zszr2rvfnine
+     first: 2
+     last: 2
+  value: 22 
+  sum: 32711 
+line: rltwoseventwo6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 32777 
+line: 9qtsblhddtseven4six6
+     first: 9
+     last: 6
+  value: 96 
+  sum: 32873 
+line: 1sevenqddm
+     first: 1
+     last: 0
+  value: 10 
+  sum: 32883 
+line: 7ghjhklgfjrmrfqprmb2jgf6bsctzhkzx
+     first: 7
+     last: 6
+  value: 76 
+  sum: 32959 
+line: rtwone6ninenine2two4one
+     first: 6
+     last: 4
+  value: 64 
+  sum: 33023 
+line: 3five2nine
+     first: 3
+     last: 2
+  value: 32 
+  sum: 33055 
+line: two498
+     first: 4
+     last: 8
+  value: 48 
+  sum: 33103 
+line: twojf3onefour2sixzxzc2
+     first: 3
+     last: 2
+  value: 32 
+  sum: 33135 
+line: eightshflmonexxtbsdzvsj6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 33201 
+line: 5fourkddmhvtbmjgkrlsevensix
+     first: 5
+     last: 0
+  value: 50 
+  sum: 33251 
+line: 7twosmdcftxkglpncxctbpmmhmd2sixqf
+     first: 7
+     last: 2
+  value: 72 
+  sum: 33323 
+line: sixjthpkpbpqnqvrzzxcfjnlgeight3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 33356 
+line: 8kx2
+     first: 8
+     last: 2
+  value: 82 
+  sum: 33438 
+line: 6twodmnkteightghnpdbcn26four
+     first: 6
+     last: 6
+  value: 66 
+  sum: 33504 
+line: qzvnrncqzf11eight6
+     first: 1
+     last: 6
+  value: 16 
+  sum: 33520 
+line: 5fournine6kqcg
+     first: 5
+     last: 6
+  value: 56 
+  sum: 33576 
+line: klvnhhpspghveightthreesix2onekvh
+     first: 2
+     last: 2
+  value: 22 
+  sum: 33598 
+line: seven7vshrlkpc2dtoneightk
+     first: 7
+     last: 2
+  value: 72 
+  sum: 33670 
+line: nine1twosix5one
+     first: 1
+     last: 5
+  value: 15 
+  sum: 33685 
+line: four5four6fivebdkgztp5dbzddxdpc
+     first: 5
+     last: 5
+  value: 55 
+  sum: 33740 
+line: 75oneltfnbxsfive3
+     first: 7
+     last: 3
+  value: 73 
+  sum: 33813 
+line: 61ninethreerdlrjg
+     first: 6
+     last: 1
+  value: 61 
+  sum: 33874 
+line: srjlctwo5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 33929 
+line: eightfourfive3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 33962 
+line: nmlkrh6eight7229five4
+     first: 6
+     last: 4
+  value: 64 
+  sum: 34026 
+line: 8qtqsjshzfour9skonereight
+     first: 8
+     last: 9
+  value: 89 
+  sum: 34115 
+line: 7cbhhxqmlveight
+     first: 7
+     last: 0
+  value: 70 
+  sum: 34185 
+line: xlctdkp68nine2qfkfv
+     first: 6
+     last: 2
+  value: 62 
+  sum: 34247 
+line: sevenonekjone7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 34324 
+line: 3twothree
+     first: 3
+     last: 0
+  value: 30 
+  sum: 34354 
+line: lpdxfivecqqkxshmxsghtwo4zfszfxbgffxhdhszr
+     first: 4
+     last: 4
+  value: 44 
+  sum: 34398 
+line: 5fnctfcp6six
+     first: 5
+     last: 6
+  value: 56 
+  sum: 34454 
+line: sevenone595seven
+     first: 5
+     last: 5
+  value: 55 
+  sum: 34509 
+line: onezbtwo4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 34553 
+line: phbbllmmhzh8btvpgjvs8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 34641 
+line: vrqdqksv82768rsqv
+     first: 8
+     last: 8
+  value: 88 
+  sum: 34729 
+line: fivemzscrninepgtnseven54
+     first: 5
+     last: 4
+  value: 54 
+  sum: 34783 
+line: 5kmcsmvjqfive87xqz8
+     first: 5
+     last: 8
+  value: 58 
+  sum: 34841 
+line: 5sixchpxtkjbggztphrlqcjszpzmcbnone2twohjchhcm
+     first: 5
+     last: 2
+  value: 52 
+  sum: 34893 
+line: lktwoneqkhrnvkone4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 34937 
+line: 41684
+     first: 4
+     last: 4
+  value: 44 
+  sum: 34981 
+line: four81qjvcjmgszfqfiveonerps
+     first: 8
+     last: 1
+  value: 81 
+  sum: 35062 
+line: 1two443dvjxfpzdcpseveneight
+     first: 1
+     last: 3
+  value: 13 
+  sum: 35075 
+line: hkpf9seven5seven
+     first: 9
+     last: 5
+  value: 95 
+  sum: 35170 
+line: seven5rtzk87
+     first: 5
+     last: 7
+  value: 57 
+  sum: 35227 
+line: 371hpjtkthreef8
+     first: 3
+     last: 8
+  value: 38 
+  sum: 35265 
+line: 2fourfour6xptbrvf71nine
+     first: 2
+     last: 1
+  value: 21 
+  sum: 35286 
+line: cmhgh8drvxcrcjsz2
+     first: 8
+     last: 2
+  value: 82 
+  sum: 35368 
+line: fourlfqrsxbztvjjtxggpmkmtggxfourmfive1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 35379 
+line: ninegssvllggld662six
+     first: 6
+     last: 2
+  value: 62 
+  sum: 35441 
+line: 8sevenfbthtxglsbeightonenp3qrbhtz6
+     first: 8
+     last: 6
+  value: 86 
+  sum: 35527 
+line: threemjhtsbm8mdzk
+     first: 8
+     last: 8
+  value: 88 
+  sum: 35615 
+line: 6lgbr5fourfour4v6jhdhvkrk
+     first: 6
+     last: 6
+  value: 66 
+  sum: 35681 
+line: nmseven553two4
+     first: 5
+     last: 4
+  value: 54 
+  sum: 35735 
+line: bvs3twovbzthreeeight
+     first: 3
+     last: 3
+  value: 33 
+  sum: 35768 
+line: mshlfpjltwo6two
+     first: 6
+     last: 6
+  value: 66 
+  sum: 35834 
+line: 4two7nine
+     first: 4
+     last: 7
+  value: 47 
+  sum: 35881 
+line: 4sixtcrcxzph9
+     first: 4
+     last: 9
+  value: 49 
+  sum: 35930 
+line: 8zjrrhp6kvd
+     first: 8
+     last: 6
+  value: 86 
+  sum: 36016 
+line: mznthreesixglsf881seven
+     first: 8
+     last: 1
+  value: 81 
+  sum: 36097 
+line: 2five511hone
+     first: 2
+     last: 1
+  value: 21 
+  sum: 36118 
+line: pmoneightzvrvmkrn1tkxqrcnfivecfnqxvtkxtwo
+     first: 1
+     last: 1
+  value: 11 
+  sum: 36129 
+line: 6gxt7fivejmdhnzxzslvqgghgfive
+     first: 6
+     last: 7
+  value: 67 
+  sum: 36196 
+line: seven1one
+     first: 1
+     last: 1
+  value: 11 
+  sum: 36207 
+line: 8thdkltfourl5five
+     first: 8
+     last: 5
+  value: 85 
+  sum: 36292 
+line: oner6fivelxsmcmsix
+     first: 6
+     last: 6
+  value: 66 
+  sum: 36358 
+line: 5fivezcntznpxsljzxldvqx
+     first: 5
+     last: 0
+  value: 50 
+  sum: 36408 
+line: fivefivedbvdxfnvxzsix19
+     first: 1
+     last: 9
+  value: 19 
+  sum: 36427 
+line: fivefive6twoqqpkh27
+     first: 6
+     last: 7
+  value: 67 
+  sum: 36494 
+line: 9qvpdkone
+     first: 9
+     last: 0
+  value: 90 
+  sum: 36584 
+line: brvxnqdnzkztdqpbb1vxg35kstpxscninekgkmrtmrff
+     first: 1
+     last: 5
+  value: 15 
+  sum: 36599 
+line: fourfourbhzgmp3sevensevenpsrndk
+     first: 3
+     last: 3
+  value: 33 
+  sum: 36632 
+line: seven8dgvpxrmmthree19
+     first: 8
+     last: 9
+  value: 89 
+  sum: 36721 
+line: neightwofiveeightsixjjfnllthree6
+     first: 6
+     last: 6
+  value: 66 
+  sum: 36787 
+line: 91threesevenpjxsixgmrzsjmz
+     first: 9
+     last: 1
+  value: 91 
+  sum: 36878 
+line: 4zcq23sixfourjpjtgvtnqqqdctlf1
+     first: 4
+     last: 1
+  value: 41 
+  sum: 36919 
+line: crgjmshnzprnrc979
+     first: 9
+     last: 9
+  value: 99 
+  sum: 37018 
+line: qsmmztjzz4eight7sevendg
+     first: 4
+     last: 7
+  value: 47 
+  sum: 37065 
+line: 9423
+     first: 9
+     last: 3
+  value: 93 
+  sum: 37158 
+line: fivesevenseven48
+     first: 4
+     last: 8
+  value: 48 
+  sum: 37206 
+line: fjrrstz4cfrxfrslvtmjpfxtkbhsjpppfkrzeight6
+     first: 4
+     last: 6
+  value: 46 
+  sum: 37252 
+line: 7dpfvrktp
+     first: 7
+     last: 0
+  value: 70 
+  sum: 37322 
+line: z3ddjbvmcdsgddprhc3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 37355 
+line: bng89ninesfv2rvchkhqhz7
+     first: 8
+     last: 7
+  value: 87 
+  sum: 37442 
+line: 2vclrzqgnnnfour1
+     first: 2
+     last: 1
+  value: 21 
+  sum: 37463 
+line: ggldndrnlkeight4seven2bcxvdzjflpdxvvgxkkzgeight
+     first: 4
+     last: 2
+  value: 42 
+  sum: 37505 
+line: heightwoonetwo119l1cbvf
+     first: 1
+     last: 1
+  value: 11 
+  sum: 37516 
+line: cvponeight3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 37549 
+line: three5mrqjbroneone1cckghmznvxnj
+     first: 5
+     last: 1
+  value: 51 
+  sum: 37600 
+line: 9ninembpxffcqktwo18
+     first: 9
+     last: 8
+  value: 98 
+  sum: 37698 
+line: eightfour44fived1nkgpk5
+     first: 4
+     last: 5
+  value: 45 
+  sum: 37743 
+line: 1nine24
+     first: 1
+     last: 4
+  value: 14 
+  sum: 37757 
+line: vhmdjp43seven8sevenvnsflnfx9
+     first: 4
+     last: 9
+  value: 49 
+  sum: 37806 
+line: nine3fivefivesevenhklhcg
+     first: 3
+     last: 3
+  value: 33 
+  sum: 37839 
+line: bjndsctqthgzone2twonev
+     first: 2
+     last: 2
+  value: 22 
+  sum: 37861 
+line: sixninekznkgrjjj4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 37905 
+line: 98fourfiveeightqgrzjkvfj3six
+     first: 9
+     last: 3
+  value: 93 
+  sum: 37998 
+line: 124onedjnrthpzxqmzpcnhzfour
+     first: 1
+     last: 4
+  value: 14 
+  sum: 38012 
+line: threethreexfgbjpv2eighteightzdffvnmcz
+     first: 2
+     last: 2
+  value: 22 
+  sum: 38034 
+line: four5dnlncmtrq5sevenfvjkh759
+     first: 5
+     last: 9
+  value: 59 
+  sum: 38093 
+line: 5rzsfqblznf6kxmkfcgpxfive986
+     first: 5
+     last: 6
+  value: 56 
+  sum: 38149 
+line: 8eightonenxpntbctcrseven
+     first: 8
+     last: 0
+  value: 80 
+  sum: 38229 
+line: ksvveightsevenmgczltdvmp9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 38328 
+line: 7zthlrqqs
+     first: 7
+     last: 0
+  value: 70 
+  sum: 38398 
+line: 5674mgxzdsxhmzfour6gvjtdfnqjrggkjbvc
+     first: 5
+     last: 6
+  value: 56 
+  sum: 38454 
+line: nqnn9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 38553 
+line: 1lvmcghmv
+     first: 1
+     last: 0
+  value: 10 
+  sum: 38563 
+line: lrthree7sixdsdvlkl
+     first: 7
+     last: 7
+  value: 77 
+  sum: 38640 
+line: threefourfourthreethreerntmpsqzb8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 38728 
+line: xgstwosix3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 38761 
+line: 4jbdqxone263rzkmjpqcrkltcnrpfour
+     first: 4
+     last: 3
+  value: 43 
+  sum: 38804 
+line: 5eightcnrdqprxjzq
+     first: 5
+     last: 0
+  value: 50 
+  sum: 38854 
+line: three32onerhjlrxrb2
+     first: 3
+     last: 2
+  value: 32 
+  sum: 38886 
+line: cnzcqfour5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 38941 
+line: seven5one
+     first: 5
+     last: 5
+  value: 55 
+  sum: 38996 
+line: five2541
+     first: 2
+     last: 1
+  value: 21 
+  sum: 39017 
+line: four9bzlqpf65m
+     first: 9
+     last: 5
+  value: 95 
+  sum: 39112 
+line: 6ttg55gkmbbn66two5
+     first: 6
+     last: 5
+  value: 65 
+  sum: 39177 
+line: sevenbxcl8eightonefour3seven
+     first: 8
+     last: 3
+  value: 83 
+  sum: 39260 
+line: sixlxfhnine2njtsjtwosix3
+     first: 2
+     last: 3
+  value: 23 
+  sum: 39283 
+line: 3173two
+     first: 3
+     last: 3
+  value: 33 
+  sum: 39316 
+line: 8twosh1threepdp7
+     first: 8
+     last: 7
+  value: 87 
+  sum: 39403 
+line: 3zxpvtbdkfivesixeightthree
+     first: 3
+     last: 0
+  value: 30 
+  sum: 39433 
+line: ctheightwobhqpfour1two9twonine
+     first: 1
+     last: 9
+  value: 19 
+  sum: 39452 
+line: jmm74hrlvonestds
+     first: 7
+     last: 4
+  value: 74 
+  sum: 39526 
+line: seven5tgmphz
+     first: 5
+     last: 5
+  value: 55 
+  sum: 39581 
+line: 4xtztkdntxfour
+     first: 4
+     last: 0
+  value: 40 
+  sum: 39621 
+line: 5ninettwothree
+     first: 5
+     last: 0
+  value: 50 
+  sum: 39671 
+line: threernhzsk9psrkxprjkgeight
+     first: 9
+     last: 9
+  value: 99 
+  sum: 39770 
+line: two9fivet8one48eight
+     first: 9
+     last: 8
+  value: 98 
+  sum: 39868 
+line: 58threehcgkgdxp8
+     first: 5
+     last: 8
+  value: 58 
+  sum: 39926 
+line: eight2kmhz66nine
+     first: 2
+     last: 6
+  value: 26 
+  sum: 39952 
+line: onenine7czjxbeight
+     first: 7
+     last: 7
+  value: 77 
+  sum: 40029 
+line: dx7qbp1
+     first: 7
+     last: 1
+  value: 71 
+  sum: 40100 
+line: three9onedone
+     first: 9
+     last: 9
+  value: 99 
+  sum: 40199 
+line: 7vmhzdjbfvnine
+     first: 7
+     last: 0
+  value: 70 
+  sum: 40269 
+line: 5ksnxncqsshzsixzvtgkrzrnrhltvzhqh32
+     first: 5
+     last: 2
+  value: 52 
+  sum: 40321 
+line: seven66twomchrdkseven
+     first: 6
+     last: 6
+  value: 66 
+  sum: 40387 
+line: 86jptqljgcrtrzjg7
+     first: 8
+     last: 7
+  value: 87 
+  sum: 40474 
+line: ndxxntxz9fivefnzdxjbz49gtfivenstgqbn
+     first: 9
+     last: 9
+  value: 99 
+  sum: 40573 
+line: rpcfkdzlbnkvdc8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 40661 
+line: sevenkbslmkmfivekccclm929
+     first: 9
+     last: 9
+  value: 99 
+  sum: 40760 
+line: 378zrrcfrsrzpgfkdjbmsix8
+     first: 3
+     last: 8
+  value: 38 
+  sum: 40798 
+line: 19dtrqvzfqm5two
+     first: 1
+     last: 5
+  value: 15 
+  sum: 40813 
+line: drlpsxbscldfhj48mpxzz
+     first: 4
+     last: 8
+  value: 48 
+  sum: 40861 
+line: sggmjfqffmtwo5nineone
+     first: 5
+     last: 5
+  value: 55 
+  sum: 40916 
+line: 1kfsttv
+     first: 1
+     last: 0
+  value: 10 
+  sum: 40926 
+line: one9sqntcvldnvtrjrp1
+     first: 9
+     last: 1
+  value: 91 
+  sum: 41017 
+line: hmx6mkxkxbp4oneightxgd
+     first: 6
+     last: 4
+  value: 64 
+  sum: 41081 
+line: onethree845n3htlxkj
+     first: 8
+     last: 3
+  value: 83 
+  sum: 41164 
+line: rqmnxsdnfeight2khvfivelzpsxpsevenqddk
+     first: 2
+     last: 2
+  value: 22 
+  sum: 41186 
+line: dtrgs7onefive43
+     first: 7
+     last: 3
+  value: 73 
+  sum: 41259 
+line: seven6onehvnsnlfbhbfourgcf
+     first: 6
+     last: 6
+  value: 66 
+  sum: 41325 
+line: bvzqgvhzgl54
+     first: 5
+     last: 4
+  value: 54 
+  sum: 41379 
+line: dshsqgmb9nine4five8
+     first: 9
+     last: 8
+  value: 98 
+  sum: 41477 
+line: kqvzvbhb18
+     first: 1
+     last: 8
+  value: 18 
+  sum: 41495 
+line: nbchkr5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 41550 
+line: fbnpvprb1gnfive
+     first: 1
+     last: 1
+  value: 11 
+  sum: 41561 
+line: 7tvdhmgxttwothree91cone
+     first: 7
+     last: 1
+  value: 71 
+  sum: 41632 
+line: sevenvhldmzqgdrjkx64hnine4
+     first: 6
+     last: 4
+  value: 64 
+  sum: 41696 
+line: 72fivefour
+     first: 7
+     last: 2
+  value: 72 
+  sum: 41768 
+line: xmmtbr5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 41823 
+line: xc6fivexplnftpkp8
+     first: 6
+     last: 8
+  value: 68 
+  sum: 41891 
+line: onezh7threetwo
+     first: 7
+     last: 7
+  value: 77 
+  sum: 41968 
+line: chdkkxmxrt81two
+     first: 8
+     last: 1
+  value: 81 
+  sum: 42049 
+line: ktz9gnjv7ddgnbplfour
+     first: 9
+     last: 7
+  value: 97 
+  sum: 42146 
+line: xzpmsqpcvf95
+     first: 9
+     last: 5
+  value: 95 
+  sum: 42241 
+line: nine9qnvrzfone1threeptlxqjksbg
+     first: 9
+     last: 1
+  value: 91 
+  sum: 42332 
+line: onesix9seven9tggdzxhvm5tctqmseven
+     first: 9
+     last: 5
+  value: 95 
+  sum: 42427 
+line: sevenfour6pvhnmmm
+     first: 6
+     last: 6
+  value: 66 
+  sum: 42493 
+line: fbvkkcvpvfive3six
+     first: 3
+     last: 3
+  value: 33 
+  sum: 42526 
+line: 9kzmrxmqxdp
+     first: 9
+     last: 0
+  value: 90 
+  sum: 42616 
+line: seven456nine
+     first: 4
+     last: 6
+  value: 46 
+  sum: 42662 
+line: 6srtgpkzkhbkv392sk1one
+     first: 6
+     last: 1
+  value: 61 
+  sum: 42723 
+line: qhgsrhskdrsgntbq7five15
+     first: 7
+     last: 5
+  value: 75 
+  sum: 42798 
+line: nkjnhqp3nine1kkth1
+     first: 3
+     last: 1
+  value: 31 
+  sum: 42829 
+line: threeninethree7cnhtvrvpmxltwohbkznkpmmq
+     first: 7
+     last: 7
+  value: 77 
+  sum: 42906 
+line: fvnbvcxtjfx5fourninejlzbgztg
+     first: 5
+     last: 5
+  value: 55 
+  sum: 42961 
+line: nine1twoseven5fxxjtrtnchsgggbszkpr
+     first: 1
+     last: 5
+  value: 15 
+  sum: 42976 
+line: 16rkgclhpfive7fiverzgqdfczh
+     first: 1
+     last: 7
+  value: 17 
+  sum: 42993 
+line: six6fournnfhseven34
+     first: 6
+     last: 4
+  value: 64 
+  sum: 43057 
+line: 3vspnbvfqnjdbsthree7sqhrjpdllxmmt
+     first: 3
+     last: 7
+  value: 37 
+  sum: 43094 
+line: zxptrvxqfivenqbtlzdgrd59
+     first: 5
+     last: 9
+  value: 59 
+  sum: 43153 
+line: twosnzvbxmfk4sgpcgthree2threeqtnjp
+     first: 4
+     last: 2
+  value: 42 
+  sum: 43195 
+line: fourthree3dmxhninellfive5mnllrzm
+     first: 3
+     last: 5
+  value: 35 
+  sum: 43230 
+line: three8seven549fournrxpnjrhvt
+     first: 8
+     last: 9
+  value: 89 
+  sum: 43319 
+line: 9gdfflxhmhpsix895xbptvxp
+     first: 9
+     last: 5
+  value: 95 
+  sum: 43414 
+line: 1fivefour4two7
+     first: 1
+     last: 7
+  value: 17 
+  sum: 43431 
+line: seven5rkmrc8six9oneights
+     first: 5
+     last: 9
+  value: 59 
+  sum: 43490 
+line: hgbrl1svqnlneight6
+     first: 1
+     last: 6
+  value: 16 
+  sum: 43506 
+line: 7zzbvnzsix26zkftwo3
+     first: 7
+     last: 3
+  value: 73 
+  sum: 43579 
+line: two4745three65seven
+     first: 4
+     last: 5
+  value: 45 
+  sum: 43624 
+line: six3three458sixtwofour
+     first: 3
+     last: 8
+  value: 38 
+  sum: 43662 
+line: fourjnine4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 43706 
+line: 9nine6
+     first: 9
+     last: 6
+  value: 96 
+  sum: 43802 
+line: twopnxcfourpfstqln7fzvtvtn
+     first: 7
+     last: 7
+  value: 77 
+  sum: 43879 
+line: four5nineqfhkstftjfives6threeptcn
+     first: 5
+     last: 6
+  value: 56 
+  sum: 43935 
+line: qqkzslhpjkmrtm7nine
+     first: 7
+     last: 7
+  value: 77 
+  sum: 44012 
+line: fourhjxklxxqxmfgvjsnsczxfrxcgqmcjlndsqhtwothree6fltvvq
+     first: 6
+     last: 6
+  value: 66 
+  sum: 44078 
+line: eight3mq9gdtmlm
+     first: 3
+     last: 9
+  value: 39 
+  sum: 44117 
+line: nineseven422
+     first: 4
+     last: 2
+  value: 42 
+  sum: 44159 
+line: 4fourlthreeoneightjb
+     first: 4
+     last: 0
+  value: 40 
+  sum: 44199 
+line: 3vccbrlshrgpcgjrpgfj
+     first: 3
+     last: 0
+  value: 30 
+  sum: 44229 
+line: 5rrvzchsp2seventwo2
+     first: 5
+     last: 2
+  value: 52 
+  sum: 44281 
+line: four1gtrdkmzkl3
+     first: 1
+     last: 3
+  value: 13 
+  sum: 44294 
+line: ksvdqxpsdfveight6szgjsdzpxqzlheightone
+     first: 6
+     last: 6
+  value: 66 
+  sum: 44360 
+line: threesevenfive9onefgfive95
+     first: 9
+     last: 5
+  value: 95 
+  sum: 44455 
+line: 76hztsngfour4twodzcjshdqxkfive1
+     first: 7
+     last: 1
+  value: 71 
+  sum: 44526 
+line: eighthffxm8mzsktlthreelhhfdkgcptkl
+     first: 8
+     last: 8
+  value: 88 
+  sum: 44614 
+line: 6922two51lvzrhvfour
+     first: 6
+     last: 1
+  value: 61 
+  sum: 44675 
+line: fivesix3tvvkhmsqm9
+     first: 3
+     last: 9
+  value: 39 
+  sum: 44714 
+line: 38g
+     first: 3
+     last: 8
+  value: 38 
+  sum: 44752 
+line: four3fqx1zkxvlsmqstwo
+     first: 3
+     last: 1
+  value: 31 
+  sum: 44783 
+line: 468845sevendrhkfqrsk6
+     first: 4
+     last: 6
+  value: 46 
+  sum: 44829 
+line: gmxdrbkb9zrxqpfvgjqjprdpgtwovtwofour4
+     first: 9
+     last: 4
+  value: 94 
+  sum: 44923 
+line: dlzgv6two8eight
+     first: 6
+     last: 8
+  value: 68 
+  sum: 44991 
+line: one2ninefoureighttwo8
+     first: 2
+     last: 8
+  value: 28 
+  sum: 45019 
+line: ltrstvmcc2jnmvmdc
+     first: 2
+     last: 2
+  value: 22 
+  sum: 45041 
+line: m22six
+     first: 2
+     last: 2
+  value: 22 
+  sum: 45063 
+line: 5jsbzptglftwonvzccxhrcj
+     first: 5
+     last: 0
+  value: 50 
+  sum: 45113 
+line: 2vcfivednhldrhdonef1
+     first: 2
+     last: 1
+  value: 21 
+  sum: 45134 
+line: 1fourpxnpbmglfseveneightqkfour
+     first: 1
+     last: 0
+  value: 10 
+  sum: 45144 
+line: vqxz6bzfcpmpsmq67gthree
+     first: 6
+     last: 7
+  value: 67 
+  sum: 45211 
+line: five3onesixqxv
+     first: 3
+     last: 3
+  value: 33 
+  sum: 45244 
+line: 81twoonenineeight
+     first: 8
+     last: 1
+  value: 81 
+  sum: 45325 
+line: vcpjcrsnbtzbz1rkhl
+     first: 1
+     last: 1
+  value: 11 
+  sum: 45336 
+line: rgzhqsix4twofljjzpkm
+     first: 4
+     last: 4
+  value: 44 
+  sum: 45380 
+line: gzhn139twoseven2lrtwo
+     first: 1
+     last: 2
+  value: 12 
+  sum: 45392 
+line: l4ninehzsnine7hxjtb
+     first: 4
+     last: 7
+  value: 47 
+  sum: 45439 
+line: cszmdjlpxgonesix2sevenseven
+     first: 2
+     last: 2
+  value: 22 
+  sum: 45461 
+line: 2jdqxpt
+     first: 2
+     last: 0
+  value: 20 
+  sum: 45481 
+line: nbcfc6lpfourfivecnklxnsq3
+     first: 6
+     last: 3
+  value: 63 
+  sum: 45544 
+line: kqrvrvmk41threenineeight23six
+     first: 4
+     last: 3
+  value: 43 
+  sum: 45587 
+line: ttpjhz65three3three
+     first: 6
+     last: 3
+  value: 63 
+  sum: 45650 
+line: eight7one5twoonesix9
+     first: 7
+     last: 9
+  value: 79 
+  sum: 45729 
+line: sc89four71
+     first: 8
+     last: 1
+  value: 81 
+  sum: 45810 
+line: tss2qprfour
+     first: 2
+     last: 2
+  value: 22 
+  sum: 45832 
+line: 47eightdpdcbjbkmxbssnrslqzthreelsqtjm7
+     first: 4
+     last: 7
+  value: 47 
+  sum: 45879 
+line: ltv5twombc7
+     first: 5
+     last: 7
+  value: 57 
+  sum: 45936 
+line: cs6758nsmgss
+     first: 6
+     last: 8
+  value: 68 
+  sum: 46004 
+line: 5mzbrvlct
+     first: 5
+     last: 0
+  value: 50 
+  sum: 46054 
+line: rzggbmgfrmfqfsglkbtzmfour6fivebgnxlkhhvz8two
+     first: 6
+     last: 8
+  value: 68 
+  sum: 46122 
+line: jblbqgzc8sdctvcgjfouronedjvhthree
+     first: 8
+     last: 8
+  value: 88 
+  sum: 46210 
+line: 41six9sfvv3four8
+     first: 4
+     last: 8
+  value: 48 
+  sum: 46258 
+line: fqrvpnine8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 46346 
+line: kqdkzneight595three881
+     first: 5
+     last: 1
+  value: 51 
+  sum: 46397 
+line: two2xj23six5
+     first: 2
+     last: 5
+  value: 25 
+  sum: 46422 
+line: xpvhl74lqhjbdxgsznjf7five7
+     first: 7
+     last: 7
+  value: 77 
+  sum: 46499 
+line: qlf44fxjxj62
+     first: 4
+     last: 2
+  value: 42 
+  sum: 46541 
+line: fivegvvsscthreeone6239one
+     first: 6
+     last: 9
+  value: 69 
+  sum: 46610 
+line: 6oneeightcnhmps2twosevensixvqj
+     first: 6
+     last: 2
+  value: 62 
+  sum: 46672 
+line: 7stbrlvjmc
+     first: 7
+     last: 0
+  value: 70 
+  sum: 46742 
+line: 23lfxjhfpnqhnine3gdjqfjmthreehrgfk
+     first: 2
+     last: 3
+  value: 23 
+  sum: 46765 
+line: hkgjjmdsix2tczq516qm
+     first: 2
+     last: 6
+  value: 26 
+  sum: 46791 
+line: 6eight14
+     first: 6
+     last: 4
+  value: 64 
+  sum: 46855 
+line: 3onegnsxqf
+     first: 3
+     last: 0
+  value: 30 
+  sum: 46885 
+line: qf31eightsevenz
+     first: 3
+     last: 1
+  value: 31 
+  sum: 46916 
+line: cfsslclscsfgfbdpdzzknine3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 46949 
+line: 5mzlfdgsvc3sjztcjmrd
+     first: 5
+     last: 3
+  value: 53 
+  sum: 47002 
+line: zcrjglqhkgzh6nvxpbdmsh
+     first: 6
+     last: 6
+  value: 66 
+  sum: 47068 
+line: three93eightmvscdpvrbsjh
+     first: 9
+     last: 3
+  value: 93 
+  sum: 47161 
+line: cfour2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 47183 
+line: 3fivefive3four63
+     first: 3
+     last: 3
+  value: 33 
+  sum: 47216 
+line: sevensixnineeightgztgcldrf66one
+     first: 6
+     last: 6
+  value: 66 
+  sum: 47282 
+line: qqvxmvqtdpnrzxzt8
+     first: 8
+     last: 8
+  value: 88 
+  sum: 47370 
+line: onezzrgqzh8cflqzgpqhrgr
+     first: 8
+     last: 8
+  value: 88 
+  sum: 47458 
+line: 3fourvnxxllj3three4
+     first: 3
+     last: 4
+  value: 34 
+  sum: 47492 
+line: seventwo54threemppbvtpsix
+     first: 5
+     last: 4
+  value: 54 
+  sum: 47546 
+line: nhchm9dtkbpkbtwonbfnjfgctwosevenlvxvvtlmzptzpc
+     first: 9
+     last: 9
+  value: 99 
+  sum: 47645 
+line: pkdtwo7five
+     first: 7
+     last: 7
+  value: 77 
+  sum: 47722 
+line: sixvr5jhzzvl9three66three
+     first: 5
+     last: 6
+  value: 56 
+  sum: 47778 
+line: eightfour5558h9
+     first: 5
+     last: 9
+  value: 59 
+  sum: 47837 
+line: 6foursevennc
+     first: 6
+     last: 0
+  value: 60 
+  sum: 47897 
+line: 1knskl
+     first: 1
+     last: 0
+  value: 10 
+  sum: 47907 
+line: fourrnncfssxeight8lvknmmsixnxdjbcsgmfour7
+     first: 8
+     last: 7
+  value: 87 
+  sum: 47994 
+line: 85nhxggnbprbpnfrkjf
+     first: 8
+     last: 5
+  value: 85 
+  sum: 48079 
+line: twotwo84eight7hmxsvseven
+     first: 8
+     last: 7
+  value: 87 
+  sum: 48166 
+line: xpjzvvjt4threepslbkml
+     first: 4
+     last: 4
+  value: 44 
+  sum: 48210 
+line: foursevenszone19
+     first: 1
+     last: 9
+  value: 19 
+  sum: 48229 
+line: tvjbkvqzdffour63gfnmkmdzzjn
+     first: 6
+     last: 3
+  value: 63 
+  sum: 48292 
+line: jzln78l6phtndcgseven
+     first: 7
+     last: 6
+  value: 76 
+  sum: 48368 
+line: 6bgqscglgsninefour9nine
+     first: 6
+     last: 9
+  value: 69 
+  sum: 48437 
+line: blninetwoeight3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 48470 
+line: twoqlmkmdgvk1kqlfmvnrphcssq2one
+     first: 1
+     last: 2
+  value: 12 
+  sum: 48482 
+line: twoqpxzxvdnsxrksnhvbj6nine47
+     first: 6
+     last: 7
+  value: 67 
+  sum: 48549 
+line: zlmn8n839nspkrvxxkbl
+     first: 8
+     last: 9
+  value: 89 
+  sum: 48638 
+line: one11
+     first: 1
+     last: 1
+  value: 11 
+  sum: 48649 
+line: 3seven68
+     first: 3
+     last: 8
+  value: 38 
+  sum: 48687 
+line: 3sevenjlvjf1j
+     first: 3
+     last: 1
+  value: 31 
+  sum: 48718 
+line: vjjtb4jkggqhheightninefivevrshccfk4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 48762 
+line: eight77lv3threecxzxxsbzlr
+     first: 7
+     last: 3
+  value: 73 
+  sum: 48835 
+line: 73tnbpzvgnrgh
+     first: 7
+     last: 3
+  value: 73 
+  sum: 48908 
+line: 53twoeighteightthdxsf4
+     first: 5
+     last: 4
+  value: 54 
+  sum: 48962 
+line: 1vrcmrj
+     first: 1
+     last: 0
+  value: 10 
+  sum: 48972 
+line: 1seven5tvmhzxsldbnine9onethree3
+     first: 1
+     last: 3
+  value: 13 
+  sum: 48985 
+line: two3nine1fournng
+     first: 3
+     last: 1
+  value: 31 
+  sum: 49016 
+line: 5two2
+     first: 5
+     last: 2
+  value: 52 
+  sum: 49068 
+line: dsvj9sixseven
+     first: 9
+     last: 9
+  value: 99 
+  sum: 49167 
+line: 7tcckcrmhdx55
+     first: 7
+     last: 5
+  value: 75 
+  sum: 49242 
+line: 6sevengsmxeightfive5seven
+     first: 6
+     last: 5
+  value: 65 
+  sum: 49307 
+line: eightmdj1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 49318 
+line: sevenfourtwotwo66six
+     first: 6
+     last: 6
+  value: 66 
+  sum: 49384 
+line: threejmgvv6three5rtpqnt
+     first: 6
+     last: 5
+  value: 65 
+  sum: 49449 
+line: fmrkcmdbggxxm7two
+     first: 7
+     last: 7
+  value: 77 
+  sum: 49526 
+line: eight5four6twotwo
+     first: 5
+     last: 6
+  value: 56 
+  sum: 49582 
+line: qckktvninedjj13nrdtmcscsmlrpl4
+     first: 1
+     last: 4
+  value: 14 
+  sum: 49596 
+line: 9bstmqqmdfmhzlbsfpfivetwovffcqtpjbkntnv
+     first: 9
+     last: 0
+  value: 90 
+  sum: 49686 
+line: kj63foureightfoursix44
+     first: 6
+     last: 4
+  value: 64 
+  sum: 49750 
+line: qxsrsfvj9oneonefour2mblthree
+     first: 9
+     last: 2
+  value: 92 
+  sum: 49842 
+line: gthffbrrbhfzsq4
+     first: 4
+     last: 4
+  value: 44 
+  sum: 49886 
+line: dflchfive5xgpcsfcksl
+     first: 5
+     last: 5
+  value: 55 
+  sum: 49941 
+line: twoeight7pbt
+     first: 7
+     last: 7
+  value: 77 
+  sum: 50018 
+line: 7pnjqhtmfsbmpplsixthreezfcqpvfourtwoner
+     first: 7
+     last: 0
+  value: 70 
+  sum: 50088 
+line: rfourhrv2fiveseven
+     first: 2
+     last: 2
+  value: 22 
+  sum: 50110 
+line: 1ggzvninenqrhbdpqnxsixmvsevenrcsqptdl
+     first: 1
+     last: 0
+  value: 10 
+  sum: 50120 
+line: two7bmxpmhhx
+     first: 7
+     last: 7
+  value: 77 
+  sum: 50197 
+line: tfsprzdnineqfourtwo87
+     first: 8
+     last: 7
+  value: 87 
+  sum: 50284 
+line: 9n89three3eight
+     first: 9
+     last: 3
+  value: 93 
+  sum: 50377 
+line: 8xrbvvgfqz
+     first: 8
+     last: 0
+  value: 80 
+  sum: 50457 
+line: onefourttdlbrjcf2smrsfbtrfourdsnbgzcgqbkb
+     first: 2
+     last: 2
+  value: 22 
+  sum: 50479 
+line: hxkktcf9
+     first: 9
+     last: 9
+  value: 99 
+  sum: 50578 
+line: sixsevenqmfs6rdzthree
+     first: 6
+     last: 6
+  value: 66 
+  sum: 50644 
+line: 64nine
+     first: 6
+     last: 4
+  value: 64 
+  sum: 50708 
+line: seven9pxmlbdd5seven
+     first: 9
+     last: 5
+  value: 95 
+  sum: 50803 
+line: kxvlrzhhgtxnnhg5lnrjqqxjsixkmnxxthrees
+     first: 5
+     last: 5
+  value: 55 
+  sum: 50858 
+line: tscnzpglccjqhz1mqtqvkgl
+     first: 1
+     last: 1
+  value: 11 
+  sum: 50869 
+line: vfdqx6sixsix
+     first: 6
+     last: 6
+  value: 66 
+  sum: 50935 
+line: 3nine3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 50968 
+line: mdfsxsx3fiveone39seven8five
+     first: 3
+     last: 8
+  value: 38 
+  sum: 51006 
+line: lsrsbqkvfxrvlr68fourgzsrvpone
+     first: 6
+     last: 8
+  value: 68 
+  sum: 51074 
+line: oneonethree74
+     first: 7
+     last: 4
+  value: 74 
+  sum: 51148 
+line: eight3rxxjkm
+     first: 3
+     last: 3
+  value: 33 
+  sum: 51181 
+line: sz5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 51236 
+line: 3r7sevensevenx3
+     first: 3
+     last: 3
+  value: 33 
+  sum: 51269 
+line: jzrhnqdthree6661
+     first: 6
+     last: 1
+  value: 61 
+  sum: 51330 
+line: six1pcknpvv
+     first: 1
+     last: 1
+  value: 11 
+  sum: 51341 
+line: qlxvsixonehbdfsxvhsevenzqcdrvk421
+     first: 4
+     last: 1
+  value: 41 
+  sum: 51382 
+line: 27six2sixjqctbbfv5
+     first: 2
+     last: 5
+  value: 25 
+  sum: 51407 
+line: 6fiveeighttwo
+     first: 6
+     last: 0
+  value: 60 
+  sum: 51467 
+line: mcclrxlpqhvhkptbsrrrsgbdzq6one
+     first: 6
+     last: 6
+  value: 66 
+  sum: 51533 
+line: 9fiveghrrhtqnmhtwoonenine
+     first: 9
+     last: 0
+  value: 90 
+  sum: 51623 
+line: 9lb
+     first: 9
+     last: 0
+  value: 90 
+  sum: 51713 
+line: 3hbvtsnqtksevenone8mlftbqjcdxtqkfive
+     first: 3
+     last: 8
+  value: 38 
+  sum: 51751 
+line: vvqgkbj2fivedt
+     first: 2
+     last: 2
+  value: 22 
+  sum: 51773 
+line: threefive47
+     first: 4
+     last: 7
+  value: 47 
+  sum: 51820 
+line: drmjdqbg37
+     first: 3
+     last: 7
+  value: 37 
+  sum: 51857 
+line: qvzqtbqpkktnjj83eighthrcvdxppone97
+     first: 8
+     last: 7
+  value: 87 
+  sum: 51944 
+line: mdxxvhtmxninerzqnkmkj8eightsixfivex
+     first: 8
+     last: 8
+  value: 88 
+  sum: 52032 
+line: kkhclsffivefour7two
+     first: 7
+     last: 7
+  value: 77 
+  sum: 52109 
+line: 4mzhlxrcsm38twotwo
+     first: 4
+     last: 8
+  value: 48 
+  sum: 52157 
+line: lcmpj3nine7
+     first: 3
+     last: 7
+  value: 37 
+  sum: 52194 
+line: fourbpgqn1tworsknxlqdl8zzdlxpgx
+     first: 1
+     last: 8
+  value: 18 
+  sum: 52212 
+line: nine8eightsevensixkztqszjr9
+     first: 8
+     last: 9
+  value: 89 
+  sum: 52301 
+line: fourfive5jhgpcxmqpr41two
+     first: 5
+     last: 1
+  value: 51 
+  sum: 52352 
+line: fgjfpxkbszsdkbrzmpronecxzhhcsixonegmkppllnd2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 52374 
+line: five2853
+     first: 2
+     last: 3
+  value: 23 
+  sum: 52397 
+line: zszgxvdtq3three
+     first: 3
+     last: 3
+  value: 33 
+  sum: 52430 
+line: 5tkvc5twosixspzhdfourninestpsj
+     first: 5
+     last: 5
+  value: 55 
+  sum: 52485 
+line: 1sevenoneeightlbxskgvpft
+     first: 1
+     last: 0
+  value: 10 
+  sum: 52495 
+line: ptcfnjgchx1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 52506 
+line: 8mfeightqrqrhvfsb18nnlcc9
+     first: 8
+     last: 9
+  value: 89 
+  sum: 52595 
+line: nineltnphnvhpvrxbfc1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 52606 
+line: tcvmnphpmthree56rx
+     first: 5
+     last: 6
+  value: 56 
+  sum: 52662 
+line: 99rsvrmxbgxtjtclnbbmb8sixone3
+     first: 9
+     last: 3
+  value: 93 
+  sum: 52755 
+line: sevenvfjzctwoqjqmvjrdxpxzsfour5
+     first: 5
+     last: 5
+  value: 55 
+  sum: 52810 
+line: 3d2nhtrhbtfourgsml
+     first: 3
+     last: 2
+  value: 32 
+  sum: 52842 
+line: 9672seven
+     first: 9
+     last: 2
+  value: 92 
+  sum: 52934 
+line: zttst57zkbjlrmr
+     first: 5
+     last: 7
+  value: 57 
+  sum: 52991 
+line: 455six8fivehqthdfmjfgc
+     first: 4
+     last: 8
+  value: 48 
+  sum: 53039 
+line: 5sevenkgsmclonedvgzqfkgjtwo4
+     first: 5
+     last: 4
+  value: 54 
+  sum: 53093 
+line: sixsixjkv6nqdhrlkr
+     first: 6
+     last: 6
+  value: 66 
+  sum: 53159 
+line: qxjbsevenlp56
+     first: 5
+     last: 6
+  value: 56 
+  sum: 53215 
+line: one13tpbhsixfive8jbt
+     first: 1
+     last: 8
+  value: 18 
+  sum: 53233 
+line: 6five8nnqlcbvmb7
+     first: 6
+     last: 7
+  value: 67 
+  sum: 53300 
+line: 2three1jlghgbzxz751
+     first: 2
+     last: 1
+  value: 21 
+  sum: 53321 
+line: ninevktrhnf71one4l
+     first: 7
+     last: 4
+  value: 74 
+  sum: 53395 
+line: 13foursixqcrzsrrffknfive
+     first: 1
+     last: 3
+  value: 13 
+  sum: 53408 
+line: 2crb2
+     first: 2
+     last: 2
+  value: 22 
+  sum: 53430 
+line: 1mjmxsvnb3eight
+     first: 1
+     last: 3
+  value: 13 
+  sum: 53443 
+line: eight517feightmxl8
+     first: 5
+     last: 8
+  value: 58 
+  sum: 53501 
+line: one1threeeight76rcmkskpvmrz
+     first: 1
+     last: 6
+  value: 16 
+  sum: 53517 
+line: onethreecqnczs8tdfiveeightthree
+     first: 8
+     last: 8
+  value: 88 
+  sum: 53605 
+line: fourtwo15nine1
+     first: 1
+     last: 1
+  value: 11 
+  sum: 53616 
+line: 1rxfour4xjzdfgqsixmjvvzfnh6m
+     first: 1
+     last: 6
+  value: 16 
+  sum: 53632 
+line: zvcfive2eight5hghsix19
+     first: 2
+     last: 9
+  value: 29 
+  sum: 53661 
+line: 3nxlmh448two899
+     first: 3
+     last: 9
+  value: 39 
+  sum: 53700 
+line: three98oneightzn
+     first: 9
+     last: 8
+  value: 98 
+  sum: 53798 
+line: 3fourtwozszhmcp
+     first: 3
+     last: 0
+  value: 30 
+  sum: 53828 
+line: twopvhd73
+     first: 7
+     last: 3
+  value: 73 
+  sum: 53901 
+line: oneqdlsb7sixllszjbceight
+     first: 7
+     last: 7
+  value: 77 
+  sum: 53978 
+line: xmqxqsixpgclxldnvlzvjm7nine4
+     first: 7
+     last: 4
+  value: 74 
+  sum: 54052 
+line: fourfive4tttldbmmkxvhqrmvmrkpxfzbd7
+     first: 4
+     last: 7
+  value: 47 
+  sum: 54099 
+line: 44two1
+     first: 4
+     last: 1
+  value: 41 
+  sum: 54140 
+line: eightrtsjszc2     first: 2
+     last: 2
+  value: 22 
+  sum: 54162 
