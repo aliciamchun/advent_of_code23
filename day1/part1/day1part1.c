@@ -1,3 +1,4 @@
+// Written by Alicia M. Chun for the 2023 Advent of Code Day 1 Part 1 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
