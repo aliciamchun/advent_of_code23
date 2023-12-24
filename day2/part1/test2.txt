@@ -1,0 +1,3 @@
+Game 1: 1 blue, 1 red; 10 red; 8 red, 1 blue, 1 green; 1 green, 55 blue
+Game 2: 9 green, 11 red; 1 green, 7 red, 1 blue; 1 red, 1 blue, 1 green; 11 green, 3 red, 1 blue; 5 green, 12 red; 8 green, 7 blue, 17 red
+Game 41: 7 blue, 6 green; 8 blue, 2 red, 3 green; 2 blue, 3 green; 3 green, 7 red, 17 blue
