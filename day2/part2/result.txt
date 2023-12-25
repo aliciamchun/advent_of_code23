@@ -1,0 +1,3366 @@
+1
+sublime:  1 blue, 1 red; 10 red; 8 red, 1 blue, 1 green; 1 green, 5 blue
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 8
+color: red
+n: 1
+color: blue
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 1
+color: green
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+(red: 10, blue: 5, green: 1
+)power: 50
+  sum: 50
+2
+sublime:  9 green, 11 red; 1 green, 7 red, 1 blue; 1 red, 1 blue, 1 green; 11 green, 3 red, 1 blue; 5 green, 12 red; 8 green, 1 blue, 7 red
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 1
+color: green
+n: 7
+color: red
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 1
+color: red
+n: 1
+color: blue
+n: 1
+color: green
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 3
+color: red
+n: 1
+color: blue
+n: 5
+color: green
+n: 12
+color: red
+Changing Red, min_color->red: 12
+n: 8
+color: green
+n: 1
+color: blue
+n: 7
+color: red
+(red: 12, blue: 1, green: 11
+)power: 132
+  sum: 182
+3
+sublime:  16 blue, 2 red, 4 green; 8 red, 4 green; 7 green, 16 blue
+n: 16
+color: blue
+Changing Blue, min_color->blue: 16
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 4
+color: green
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 16
+color: blue
+(red: 8, blue: 16, green: 7
+)power: 896
+  sum: 1078
+4
+sublime:  3 green, 4 blue, 6 red; 7 red, 12 green, 5 blue; 5 green, 16 red, 8 blue
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 5
+color: green
+n: 16
+color: red
+Changing Red, min_color->red: 16
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+(red: 16, blue: 8, green: 12
+)power: 1536
+  sum: 2614
+5
+sublime:  4 green, 4 blue, 3 red; 4 green, 7 red, 1 blue; 2 blue, 2 red, 4 green; 3 green, 7 red, 4 blue; 2 blue, 3 green, 8 red
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 4
+color: green
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 1
+color: blue
+n: 2
+color: blue
+n: 2
+color: red
+n: 4
+color: green
+n: 3
+color: green
+n: 7
+color: red
+n: 4
+color: blue
+n: 2
+color: blue
+n: 3
+color: green
+n: 8
+color: red
+Changing Red, min_color->red: 8
+(red: 8, blue: 4, green: 4
+)power: 128
+  sum: 2742
+6
+sublime:  3 green, 4 blue, 10 red; 13 red, 3 green, 4 blue; 11 red; 14 red, 1 green; 6 red, 2 green, 1 blue; 10 red, 1 blue, 1 green
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 13
+color: red
+Changing Red, min_color->red: 13
+n: 3
+color: green
+n: 4
+color: blue
+n: 11
+color: red
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 1
+color: green
+n: 6
+color: red
+n: 2
+color: green
+n: 1
+color: blue
+n: 10
+color: red
+n: 1
+color: blue
+n: 1
+color: green
+(red: 14, blue: 4, green: 3
+)power: 168
+  sum: 2910
+7
+sublime:  2 green, 9 red, 9 blue; 12 red, 14 blue; 8 red, 3 green
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 12
+color: red
+Changing Red, min_color->red: 12
+n: 14
+color: blue
+Changing Blue, min_color->blue: 14
+n: 8
+color: red
+n: 3
+color: green
+Changing Green, min_color->green: 3
+(red: 12, blue: 14, green: 3
+)power: 504
+  sum: 3414
+8
+sublime:  9 green, 1 red; 18 green, 2 red, 7 blue; 1 blue, 9 green, 3 red; 3 red, 15 blue, 18 green
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 18
+color: green
+Changing Green, min_color->green: 18
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 1
+color: blue
+n: 9
+color: green
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 3
+color: red
+n: 15
+color: blue
+Changing Blue, min_color->blue: 15
+n: 18
+color: green
+(red: 3, blue: 15, green: 18
+)power: 810
+  sum: 4224
+9
+sublime:  2 red, 1 blue, 10 green; 4 red, 1 blue, 5 green; 6 green, 3 red; 1 green, 2 blue; 8 red
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 1
+color: blue
+n: 5
+color: green
+n: 6
+color: green
+n: 3
+color: red
+n: 1
+color: green
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 8
+color: red
+Changing Red, min_color->red: 8
+(red: 8, blue: 2, green: 10
+)power: 160
+  sum: 4384
+10
+sublime:  9 green; 6 red, 4 green, 4 blue; 9 red, 2 blue, 9 green; 8 blue, 9 red, 12 green; 4 red, 8 green, 2 blue; 6 green, 7 blue
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 4
+color: green
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 2
+color: blue
+n: 9
+color: green
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 9
+color: red
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 4
+color: red
+n: 8
+color: green
+n: 2
+color: blue
+n: 6
+color: green
+n: 7
+color: blue
+(red: 9, blue: 8, green: 12
+)power: 864
+  sum: 5248
+11
+sublime:  1 blue, 15 red, 2 green; 3 green, 9 red; 1 blue, 3 red, 1 green; 10 red, 1 green; 3 red
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 15
+color: red
+Changing Red, min_color->red: 15
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 9
+color: red
+n: 1
+color: blue
+n: 3
+color: red
+n: 1
+color: green
+n: 10
+color: red
+n: 1
+color: green
+n: 3
+color: red
+(red: 15, blue: 1, green: 3
+)power: 45
+  sum: 5293
+12
+sublime:  6 blue, 9 red, 4 green; 1 green, 8 blue; 4 green, 8 blue, 1 red; 7 green, 7 blue, 2 red
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 1
+color: green
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 4
+color: green
+n: 8
+color: blue
+n: 1
+color: red
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 7
+color: blue
+n: 2
+color: red
+(red: 9, blue: 8, green: 7
+)power: 504
+  sum: 5797
+13
+sublime:  11 green, 8 blue, 1 red; 5 blue, 2 red, 5 green; 2 red, 18 green; 5 blue, 5 green, 2 red
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 5
+color: blue
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 5
+color: green
+n: 2
+color: red
+n: 18
+color: green
+Changing Green, min_color->green: 18
+n: 5
+color: blue
+n: 5
+color: green
+n: 2
+color: red
+(red: 2, blue: 8, green: 18
+)power: 288
+  sum: 6085
+14
+sublime:  1 red, 4 blue, 3 green; 2 red, 1 green, 1 blue; 1 red, 5 green, 1 blue; 3 red, 4 green, 4 blue
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 1
+color: green
+n: 1
+color: blue
+n: 1
+color: red
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 1
+color: blue
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 4
+color: green
+n: 4
+color: blue
+(red: 3, blue: 4, green: 5
+)power: 60
+  sum: 6145
+15
+sublime:  2 blue, 1 green; 3 red, 2 blue, 7 green; 1 red, 4 green, 15 blue; 1 green, 14 blue, 2 red
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 2
+color: blue
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 1
+color: red
+n: 4
+color: green
+n: 15
+color: blue
+Changing Blue, min_color->blue: 15
+n: 1
+color: green
+n: 14
+color: blue
+n: 2
+color: red
+(red: 3, blue: 15, green: 7
+)power: 315
+  sum: 6460
+16
+sublime:  3 red, 10 blue, 9 green; 20 blue, 13 green, 1 red; 9 green, 11 blue, 6 red
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 10
+color: blue
+Changing Blue, min_color->blue: 10
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 20
+color: blue
+Changing Blue, min_color->blue: 20
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 1
+color: red
+n: 9
+color: green
+n: 11
+color: blue
+n: 6
+color: red
+Changing Red, min_color->red: 6
+(red: 6, blue: 20, green: 13
+)power: 1560
+  sum: 8020
+17
+sublime:  4 red, 1 green, 1 blue; 1 green, 1 red, 11 blue; 1 red, 7 blue
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 1
+color: green
+n: 1
+color: red
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 1
+color: red
+n: 7
+color: blue
+(red: 4, blue: 11, green: 1
+)power: 44
+  sum: 8064
+18
+sublime:  5 red, 9 green; 17 green, 2 blue, 16 red; 11 red, 2 blue, 1 green
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 17
+color: green
+Changing Green, min_color->green: 17
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 16
+color: red
+Changing Red, min_color->red: 16
+n: 11
+color: red
+n: 2
+color: blue
+n: 1
+color: green
+(red: 16, blue: 2, green: 17
+)power: 544
+  sum: 8608
+19
+sublime:  3 red, 14 green; 4 blue, 1 red, 17 green; 14 green, 3 red, 9 blue; 9 blue, 8 green, 8 red; 4 green, 8 blue
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 14
+color: green
+Changing Green, min_color->green: 14
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 1
+color: red
+n: 17
+color: green
+Changing Green, min_color->green: 17
+n: 14
+color: green
+n: 3
+color: red
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 9
+color: blue
+n: 8
+color: green
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 4
+color: green
+n: 8
+color: blue
+(red: 8, blue: 9, green: 17
+)power: 1224
+  sum: 9832
+20
+sublime:  8 green, 3 blue, 3 red; 5 green, 6 red, 1 blue; 1 blue, 6 red, 13 green; 1 blue, 4 red; 4 red, 4 green, 1 blue
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 5
+color: green
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 1
+color: blue
+n: 1
+color: blue
+n: 6
+color: red
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 1
+color: blue
+n: 4
+color: red
+n: 4
+color: red
+n: 4
+color: green
+n: 1
+color: blue
+(red: 6, blue: 3, green: 13
+)power: 234
+  sum: 10066
+21
+sublime:  10 green, 3 blue, 7 red; 4 green, 14 blue, 11 red; 2 red, 8 green, 15 blue; 13 green, 7 blue, 4 red
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 4
+color: green
+n: 14
+color: blue
+Changing Blue, min_color->blue: 14
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 2
+color: red
+n: 8
+color: green
+n: 15
+color: blue
+Changing Blue, min_color->blue: 15
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 7
+color: blue
+n: 4
+color: red
+(red: 11, blue: 15, green: 13
+)power: 2145
+  sum: 12211
+22
+sublime:  3 blue, 11 green, 3 red; 7 green, 2 blue, 2 red; 3 red, 3 blue, 15 green; 12 green, 2 blue, 5 red
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 7
+color: green
+n: 2
+color: blue
+n: 2
+color: red
+n: 3
+color: red
+n: 3
+color: blue
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 12
+color: green
+n: 2
+color: blue
+n: 5
+color: red
+Changing Red, min_color->red: 5
+(red: 5, blue: 3, green: 15
+)power: 225
+  sum: 12436
+23
+sublime:  4 red, 3 blue; 2 green, 7 red, 6 blue; 1 green, 2 red, 3 blue
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 1
+color: green
+n: 2
+color: red
+n: 3
+color: blue
+(red: 7, blue: 6, green: 2
+)power: 84
+  sum: 12520
+24
+sublime:  7 red, 3 green, 2 blue; 3 red, 9 green, 9 blue; 8 green, 6 red, 7 blue
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 3
+color: red
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 8
+color: green
+n: 6
+color: red
+n: 7
+color: blue
+(red: 7, blue: 9, green: 9
+)power: 567
+  sum: 13087
+25
+sublime:  2 red, 2 green, 2 blue; 3 green, 1 red, 4 blue; 4 red, 3 blue; 4 green, 1 blue, 5 red; 2 green, 4 red, 2 blue; 5 green, 3 red
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 1
+color: red
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 3
+color: blue
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 1
+color: blue
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 2
+color: green
+n: 4
+color: red
+n: 2
+color: blue
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 3
+color: red
+(red: 5, blue: 4, green: 5
+)power: 100
+  sum: 13187
+26
+sublime:  1 red, 7 blue, 12 green; 2 blue, 2 red, 7 green; 3 green, 5 red, 6 blue; 8 green, 3 blue, 5 red; 15 green, 7 blue
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 2
+color: blue
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 7
+color: green
+n: 3
+color: green
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 6
+color: blue
+n: 8
+color: green
+n: 3
+color: blue
+n: 5
+color: red
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 7
+color: blue
+(red: 5, blue: 7, green: 15
+)power: 525
+  sum: 13712
+27
+sublime:  4 blue, 7 red, 15 green; 4 red, 1 blue, 15 green; 3 red; 8 red, 4 blue, 10 green; 4 red
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 4
+color: red
+n: 1
+color: blue
+n: 15
+color: green
+n: 3
+color: red
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 4
+color: blue
+n: 10
+color: green
+n: 4
+color: red
+(red: 8, blue: 4, green: 15
+)power: 480
+  sum: 14192
+28
+sublime:  2 blue, 5 red, 8 green; 13 red, 9 green; 2 blue, 4 red, 5 green; 1 blue, 14 green, 12 red; 13 green, 11 red, 3 blue
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 13
+color: red
+Changing Red, min_color->red: 13
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: blue
+n: 4
+color: red
+n: 5
+color: green
+n: 1
+color: blue
+n: 14
+color: green
+Changing Green, min_color->green: 14
+n: 12
+color: red
+n: 13
+color: green
+n: 11
+color: red
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+(red: 13, blue: 3, green: 14
+)power: 546
+  sum: 14738
+29
+sublime:  7 green, 10 red; 9 green, 2 red, 1 blue; 3 blue, 13 green, 5 red
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: red
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 5
+color: red
+(red: 10, blue: 3, green: 13
+)power: 390
+  sum: 15128
+30
+sublime:  3 green, 6 blue, 5 red; 3 green, 1 red, 13 blue; 2 red, 2 green, 7 blue; 13 red, 2 green, 9 blue; 2 blue, 7 red, 2 green
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 3
+color: green
+n: 1
+color: red
+n: 13
+color: blue
+Changing Blue, min_color->blue: 13
+n: 2
+color: red
+n: 2
+color: green
+n: 7
+color: blue
+n: 13
+color: red
+Changing Red, min_color->red: 13
+n: 2
+color: green
+n: 9
+color: blue
+n: 2
+color: blue
+n: 7
+color: red
+n: 2
+color: green
+(red: 13, blue: 13, green: 3
+)power: 507
+  sum: 15635
+31
+sublime:  8 red, 16 green, 1 blue; 10 red, 3 blue, 11 green; 2 green, 4 blue, 3 red; 2 blue, 7 red, 12 green; 16 green, 9 red, 6 blue; 8 blue, 9 red, 11 green
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 16
+color: green
+Changing Green, min_color->green: 16
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 11
+color: green
+n: 2
+color: green
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 3
+color: red
+n: 2
+color: blue
+n: 7
+color: red
+n: 12
+color: green
+n: 16
+color: green
+n: 9
+color: red
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 9
+color: red
+n: 11
+color: green
+(red: 10, blue: 8, green: 16
+)power: 1280
+  sum: 16915
+32
+sublime:  6 red, 3 green, 7 blue; 3 green, 7 blue, 3 red; 4 green, 1 red, 7 blue; 7 blue, 6 green, 5 red; 9 green, 11 red
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 3
+color: green
+n: 7
+color: blue
+n: 3
+color: red
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 1
+color: red
+n: 7
+color: blue
+n: 7
+color: blue
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 5
+color: red
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 11
+color: red
+Changing Red, min_color->red: 11
+(red: 11, blue: 7, green: 9
+)power: 693
+  sum: 17608
+33
+sublime:  8 green, 6 blue; 2 green, 8 red, 1 blue; 12 green, 4 blue, 14 red; 11 blue, 1 green, 7 red; 1 blue, 5 green, 9 red; 7 green, 7 red, 5 blue
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 2
+color: green
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 1
+color: blue
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 4
+color: blue
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 1
+color: green
+n: 7
+color: red
+n: 1
+color: blue
+n: 5
+color: green
+n: 9
+color: red
+n: 7
+color: green
+n: 7
+color: red
+n: 5
+color: blue
+(red: 14, blue: 11, green: 12
+)power: 1848
+  sum: 19456
+34
+sublime:  5 blue, 6 green, 7 red; 6 blue, 5 green, 10 red; 9 red, 3 blue, 7 green; 9 red, 4 green; 15 red, 6 green, 4 blue
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 5
+color: green
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 9
+color: red
+n: 3
+color: blue
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 9
+color: red
+n: 4
+color: green
+n: 15
+color: red
+Changing Red, min_color->red: 15
+n: 6
+color: green
+n: 4
+color: blue
+(red: 15, blue: 6, green: 7
+)power: 630
+  sum: 20086
+35
+sublime:  6 blue, 4 green, 7 red; 2 blue, 6 red; 4 green, 11 red, 2 blue; 2 red, 1 blue, 4 green; 10 red, 10 blue, 1 green; 11 blue, 4 green
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 2
+color: blue
+n: 6
+color: red
+n: 4
+color: green
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 2
+color: blue
+n: 2
+color: red
+n: 1
+color: blue
+n: 4
+color: green
+n: 10
+color: red
+n: 10
+color: blue
+Changing Blue, min_color->blue: 10
+n: 1
+color: green
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 4
+color: green
+(red: 11, blue: 11, green: 4
+)power: 484
+  sum: 20570
+36
+sublime:  13 blue, 6 green, 7 red; 5 red, 9 blue, 9 green; 6 red, 2 blue, 3 green; 2 blue, 7 green; 7 red, 5 blue; 12 blue, 7 red, 3 green
+n: 13
+color: blue
+Changing Blue, min_color->blue: 13
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 5
+color: red
+n: 9
+color: blue
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 6
+color: red
+n: 2
+color: blue
+n: 3
+color: green
+n: 2
+color: blue
+n: 7
+color: green
+n: 7
+color: red
+n: 5
+color: blue
+n: 12
+color: blue
+n: 7
+color: red
+n: 3
+color: green
+(red: 7, blue: 13, green: 9
+)power: 819
+  sum: 21389
+37
+sublime:  2 red, 12 green, 3 blue; 6 red, 4 blue; 3 blue, 1 green; 4 red, 5 blue, 6 green
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 3
+color: blue
+n: 1
+color: green
+n: 4
+color: red
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 6
+color: green
+(red: 6, blue: 5, green: 12
+)power: 360
+  sum: 21749
+38
+sublime:  3 red, 16 blue, 10 green; 6 red, 5 green, 5 blue; 7 blue, 12 red, 5 green
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 16
+color: blue
+Changing Blue, min_color->blue: 16
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 5
+color: green
+n: 5
+color: blue
+n: 7
+color: blue
+n: 12
+color: red
+Changing Red, min_color->red: 12
+n: 5
+color: green
+(red: 12, blue: 16, green: 10
+)power: 1920
+  sum: 23669
+39
+sublime:  17 red, 4 green, 6 blue; 6 blue, 11 red; 18 red, 3 green, 1 blue; 3 blue, 6 red, 2 green; 19 red, 5 blue
+n: 17
+color: red
+Changing Red, min_color->red: 17
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 6
+color: blue
+n: 11
+color: red
+n: 18
+color: red
+Changing Red, min_color->red: 18
+n: 3
+color: green
+n: 1
+color: blue
+n: 3
+color: blue
+n: 6
+color: red
+n: 2
+color: green
+n: 19
+color: red
+Changing Red, min_color->red: 19
+n: 5
+color: blue
+(red: 19, blue: 6, green: 4
+)power: 456
+  sum: 24125
+40
+sublime:  1 red, 2 green, 3 blue; 6 blue, 5 green, 1 red; 5 green, 1 blue
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 1
+color: red
+n: 5
+color: green
+n: 1
+color: blue
+(red: 1, blue: 6, green: 5
+)power: 30
+  sum: 24155
+41
+sublime:  7 blue, 6 green; 8 blue, 2 red, 3 green; 2 blue, 3 green; 3 green, 7 red, 17 blue
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 3
+color: green
+n: 2
+color: blue
+n: 3
+color: green
+n: 3
+color: green
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 17
+color: blue
+Changing Blue, min_color->blue: 17
+(red: 7, blue: 17, green: 6
+)power: 714
+  sum: 24869
+42
+sublime:  6 blue; 10 red, 5 blue, 14 green; 1 blue, 11 green; 6 blue, 2 green, 5 red; 7 blue, 13 green, 11 red
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 5
+color: blue
+n: 14
+color: green
+Changing Green, min_color->green: 14
+n: 1
+color: blue
+n: 11
+color: green
+n: 6
+color: blue
+n: 2
+color: green
+n: 5
+color: red
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 13
+color: green
+n: 11
+color: red
+Changing Red, min_color->red: 11
+(red: 11, blue: 7, green: 14
+)power: 1078
+  sum: 25947
+43
+sublime:  15 green, 3 blue; 7 blue, 14 green; 11 blue, 3 green; 17 green, 1 red, 1 blue; 17 green, 2 blue, 1 red
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 14
+color: green
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 3
+color: green
+n: 17
+color: green
+Changing Green, min_color->green: 17
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 1
+color: blue
+n: 17
+color: green
+n: 2
+color: blue
+n: 1
+color: red
+(red: 1, blue: 11, green: 17
+)power: 187
+  sum: 26134
+44
+sublime:  11 red, 4 blue, 16 green; 11 blue, 16 green; 14 red, 10 blue, 17 green
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 16
+color: green
+Changing Green, min_color->green: 16
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 16
+color: green
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 10
+color: blue
+n: 17
+color: green
+Changing Green, min_color->green: 17
+(red: 14, blue: 11, green: 17
+)power: 2618
+  sum: 28752
+45
+sublime:  6 blue; 6 green, 6 blue, 1 red; 5 blue, 11 green; 4 green, 6 blue
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 6
+color: blue
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 5
+color: blue
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 4
+color: green
+n: 6
+color: blue
+(red: 1, blue: 6, green: 11
+)power: 66
+  sum: 28818
+46
+sublime:  6 green, 3 blue, 2 red; 9 green, 4 red, 2 blue; 9 green, 1 red, 3 blue
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 2
+color: blue
+n: 9
+color: green
+n: 1
+color: red
+n: 3
+color: blue
+(red: 4, blue: 3, green: 9
+)power: 108
+  sum: 28926
+47
+sublime:  6 red, 3 blue, 9 green; 3 green, 11 blue; 4 blue, 1 red; 11 green, 11 blue
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 3
+color: green
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 4
+color: blue
+n: 1
+color: red
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 11
+color: blue
+(red: 6, blue: 11, green: 11
+)power: 726
+  sum: 29652
+48
+sublime:  13 blue, 15 red; 9 red, 9 blue; 15 green, 9 red, 1 blue
+n: 13
+color: blue
+Changing Blue, min_color->blue: 13
+n: 15
+color: red
+Changing Red, min_color->red: 15
+n: 9
+color: red
+n: 9
+color: blue
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 9
+color: red
+n: 1
+color: blue
+(red: 15, blue: 13, green: 15
+)power: 2925
+  sum: 32577
+49
+sublime:  8 green, 4 red; 1 red, 6 blue; 5 blue, 8 green; 1 red, 2 green, 3 blue; 2 red, 5 blue, 5 green
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 1
+color: red
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 5
+color: blue
+n: 8
+color: green
+n: 1
+color: red
+n: 2
+color: green
+n: 3
+color: blue
+n: 2
+color: red
+n: 5
+color: blue
+n: 5
+color: green
+(red: 4, blue: 6, green: 8
+)power: 192
+  sum: 32769
+50
+sublime:  1 red, 8 green, 3 blue; 1 blue, 9 green; 3 green, 6 blue
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 1
+color: blue
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 3
+color: green
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+(red: 1, blue: 6, green: 9
+)power: 54
+  sum: 32823
+51
+sublime:  8 green, 8 red, 8 blue; 9 green, 2 red, 6 blue; 1 green, 1 red, 1 blue; 5 blue, 1 red, 7 green; 7 blue, 5 red, 5 green
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: red
+n: 6
+color: blue
+n: 1
+color: green
+n: 1
+color: red
+n: 1
+color: blue
+n: 5
+color: blue
+n: 1
+color: red
+n: 7
+color: green
+n: 7
+color: blue
+n: 5
+color: red
+n: 5
+color: green
+(red: 8, blue: 8, green: 9
+)power: 576
+  sum: 33399
+52
+sublime:  2 green, 1 red; 4 blue, 7 red, 2 green; 3 red, 4 blue; 1 green, 1 blue, 7 red; 8 red, 1 green, 8 blue; 4 blue, 3 green, 4 red
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 2
+color: green
+n: 3
+color: red
+n: 4
+color: blue
+n: 1
+color: green
+n: 1
+color: blue
+n: 7
+color: red
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 1
+color: green
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 4
+color: blue
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 4
+color: red
+(red: 8, blue: 8, green: 3
+)power: 192
+  sum: 33591
+53
+sublime:  9 blue, 9 red; 3 blue, 3 green, 5 red; 1 green, 6 blue, 2 red; 4 red, 3 green, 3 blue
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 3
+color: blue
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 5
+color: red
+n: 1
+color: green
+n: 6
+color: blue
+n: 2
+color: red
+n: 4
+color: red
+n: 3
+color: green
+n: 3
+color: blue
+(red: 9, blue: 9, green: 3
+)power: 243
+  sum: 33834
+54
+sublime:  1 blue, 2 red, 2 green; 6 green, 1 blue, 3 red; 1 green, 1 blue
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 1
+color: blue
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 1
+color: green
+n: 1
+color: blue
+(red: 3, blue: 1, green: 6
+)power: 18
+  sum: 33852
+55
+sublime:  14 red, 8 blue; 9 red, 2 green, 8 blue; 6 blue, 11 red, 1 green; 10 red, 3 blue, 4 green; 13 red, 2 green, 4 blue; 5 green, 5 blue, 3 red
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 9
+color: red
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 8
+color: blue
+n: 6
+color: blue
+n: 11
+color: red
+n: 1
+color: green
+n: 10
+color: red
+n: 3
+color: blue
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 13
+color: red
+n: 2
+color: green
+n: 4
+color: blue
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 5
+color: blue
+n: 3
+color: red
+(red: 14, blue: 8, green: 5
+)power: 560
+  sum: 34412
+56
+sublime:  12 green, 3 blue; 1 red, 13 green, 5 blue; 17 blue, 6 red, 2 green; 4 red, 12 green, 12 blue
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 17
+color: blue
+Changing Blue, min_color->blue: 17
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 2
+color: green
+n: 4
+color: red
+n: 12
+color: green
+n: 12
+color: blue
+(red: 6, blue: 17, green: 13
+)power: 1326
+  sum: 35738
+57
+sublime:  9 green, 9 red, 10 blue; 10 blue, 10 red, 9 green; 4 blue, 14 red, 8 green; 14 red, 7 green; 10 green, 3 blue, 7 red; 1 red, 2 blue, 1 green
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 10
+color: blue
+Changing Blue, min_color->blue: 10
+n: 10
+color: blue
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 9
+color: green
+n: 4
+color: blue
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 8
+color: green
+n: 14
+color: red
+n: 7
+color: green
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 3
+color: blue
+n: 7
+color: red
+n: 1
+color: red
+n: 2
+color: blue
+n: 1
+color: green
+(red: 14, blue: 10, green: 10
+)power: 1400
+  sum: 37138
+58
+sublime:  1 green, 9 red, 11 blue; 5 green, 11 red, 6 blue; 2 green, 3 red, 8 blue; 2 green, 14 blue, 4 red; 9 blue, 1 red
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 6
+color: blue
+n: 2
+color: green
+n: 3
+color: red
+n: 8
+color: blue
+n: 2
+color: green
+n: 14
+color: blue
+Changing Blue, min_color->blue: 14
+n: 4
+color: red
+n: 9
+color: blue
+n: 1
+color: red
+(red: 11, blue: 14, green: 5
+)power: 770
+  sum: 37908
+59
+sublime:  10 blue, 13 green, 3 red; 4 red, 12 green, 8 blue; 4 red, 9 blue, 10 green; 17 green, 5 red, 7 blue; 4 red, 3 blue, 10 green
+n: 10
+color: blue
+Changing Blue, min_color->blue: 10
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 12
+color: green
+n: 8
+color: blue
+n: 4
+color: red
+n: 9
+color: blue
+n: 10
+color: green
+n: 17
+color: green
+Changing Green, min_color->green: 17
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 7
+color: blue
+n: 4
+color: red
+n: 3
+color: blue
+n: 10
+color: green
+(red: 5, blue: 10, green: 17
+)power: 850
+  sum: 38758
+60
+sublime:  4 green; 5 blue, 8 red; 19 red, 3 blue, 2 green; 4 green, 14 blue, 3 red
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 19
+color: red
+Changing Red, min_color->red: 19
+n: 3
+color: blue
+n: 2
+color: green
+n: 4
+color: green
+n: 14
+color: blue
+Changing Blue, min_color->blue: 14
+n: 3
+color: red
+(red: 19, blue: 14, green: 4
+)power: 1064
+  sum: 39822
+61
+sublime:  2 red, 6 blue; 15 blue, 5 red; 1 green, 2 red; 1 green, 2 blue, 8 red; 7 red, 10 blue; 11 blue
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 15
+color: blue
+Changing Blue, min_color->blue: 15
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 2
+color: red
+n: 1
+color: green
+n: 2
+color: blue
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 7
+color: red
+n: 10
+color: blue
+n: 11
+color: blue
+(red: 8, blue: 15, green: 1
+)power: 120
+  sum: 39942
+62
+sublime:  10 blue, 2 green, 7 red; 2 red, 2 green, 10 blue; 5 red
+n: 10
+color: blue
+Changing Blue, min_color->blue: 10
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 2
+color: red
+n: 2
+color: green
+n: 10
+color: blue
+n: 5
+color: red
+(red: 7, blue: 10, green: 2
+)power: 140
+  sum: 40082
+63
+sublime:  19 red; 1 green, 2 blue, 3 red; 1 blue, 11 red
+n: 19
+color: red
+Changing Red, min_color->red: 19
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 3
+color: red
+n: 1
+color: blue
+n: 11
+color: red
+(red: 19, blue: 2, green: 1
+)power: 38
+  sum: 40120
+64
+sublime:  11 red, 3 green; 3 red, 1 blue, 3 green; 2 green, 2 red, 4 blue; 9 red, 1 green; 3 green, 7 red, 4 blue; 9 red, 2 blue, 3 green
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 3
+color: red
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 3
+color: green
+n: 2
+color: green
+n: 2
+color: red
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 9
+color: red
+n: 1
+color: green
+n: 3
+color: green
+n: 7
+color: red
+n: 4
+color: blue
+n: 9
+color: red
+n: 2
+color: blue
+n: 3
+color: green
+(red: 11, blue: 4, green: 3
+)power: 132
+  sum: 40252
+65
+sublime:  2 red, 12 green; 3 red, 3 green; 8 green, 1 blue, 4 red; 2 red, 3 green
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 3
+color: green
+n: 8
+color: green
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 2
+color: red
+n: 3
+color: green
+(red: 4, blue: 1, green: 12
+)power: 48
+  sum: 40300
+66
+sublime:  4 blue, 11 red, 15 green; 1 blue, 2 green, 10 red; 4 red, 5 green; 16 red, 16 green, 4 blue
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 1
+color: blue
+n: 2
+color: green
+n: 10
+color: red
+n: 4
+color: red
+n: 5
+color: green
+n: 16
+color: red
+Changing Red, min_color->red: 16
+n: 16
+color: green
+Changing Green, min_color->green: 16
+n: 4
+color: blue
+(red: 16, blue: 4, green: 16
+)power: 1024
+  sum: 41324
+67
+sublime:  6 red, 1 green; 1 green, 1 blue, 12 red; 11 red, 2 blue
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 1
+color: green
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 12
+color: red
+Changing Red, min_color->red: 12
+n: 11
+color: red
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+(red: 12, blue: 2, green: 1
+)power: 24
+  sum: 41348
+68
+sublime:  4 green, 5 red; 9 blue, 1 red; 1 green, 2 red, 7 blue; 6 red, 5 green, 8 blue; 2 green, 7 red, 2 blue
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 1
+color: red
+n: 1
+color: green
+n: 2
+color: red
+n: 7
+color: blue
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 8
+color: blue
+n: 2
+color: green
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 2
+color: blue
+(red: 7, blue: 9, green: 5
+)power: 315
+  sum: 41663
+69
+sublime:  9 red, 16 green, 12 blue; 5 red, 4 green, 3 blue; 6 green, 11 blue, 6 red; 13 green, 16 blue, 7 red; 1 red, 8 blue, 14 green
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 16
+color: green
+Changing Green, min_color->green: 16
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 5
+color: red
+n: 4
+color: green
+n: 3
+color: blue
+n: 6
+color: green
+n: 11
+color: blue
+n: 6
+color: red
+n: 13
+color: green
+n: 16
+color: blue
+Changing Blue, min_color->blue: 16
+n: 7
+color: red
+n: 1
+color: red
+n: 8
+color: blue
+n: 14
+color: green
+(red: 9, blue: 16, green: 16
+)power: 2304
+  sum: 43967
+70
+sublime:  7 red, 5 blue, 4 green; 6 red, 12 blue, 13 green; 5 green, 4 red, 8 blue; 9 blue, 5 green, 2 red
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 6
+color: red
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 5
+color: green
+n: 4
+color: red
+n: 8
+color: blue
+n: 9
+color: blue
+n: 5
+color: green
+n: 2
+color: red
+(red: 7, blue: 12, green: 13
+)power: 1092
+  sum: 45059
+71
+sublime:  15 red, 3 green, 3 blue; 1 red, 5 green, 6 blue; 6 green, 7 blue, 16 red
+n: 15
+color: red
+Changing Red, min_color->red: 15
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 1
+color: red
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 16
+color: red
+Changing Red, min_color->red: 16
+(red: 16, blue: 7, green: 6
+)power: 672
+  sum: 45731
+72
+sublime:  4 blue, 4 green, 6 red; 9 green, 2 blue; 15 green, 5 red
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: blue
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 5
+color: red
+(red: 6, blue: 4, green: 15
+)power: 360
+  sum: 46091
+73
+sublime:  1 green, 7 red; 6 red, 2 blue; 5 red, 9 blue; 12 blue, 9 red
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 6
+color: red
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 5
+color: red
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 9
+color: red
+Changing Red, min_color->red: 9
+(red: 9, blue: 12, green: 1
+)power: 108
+  sum: 46199
+74
+sublime:  6 blue, 4 red, 4 green; 17 green, 1 blue; 4 blue, 7 green, 4 red
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 17
+color: green
+Changing Green, min_color->green: 17
+n: 1
+color: blue
+n: 4
+color: blue
+n: 7
+color: green
+n: 4
+color: red
+(red: 4, blue: 6, green: 17
+)power: 408
+  sum: 46607
+75
+sublime:  3 green, 2 blue, 10 red; 17 red, 14 green, 2 blue; 2 green, 1 blue, 14 red; 16 red, 1 blue, 9 green; 14 red, 1 blue, 9 green
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 17
+color: red
+Changing Red, min_color->red: 17
+n: 14
+color: green
+Changing Green, min_color->green: 14
+n: 2
+color: blue
+n: 2
+color: green
+n: 1
+color: blue
+n: 14
+color: red
+n: 16
+color: red
+n: 1
+color: blue
+n: 9
+color: green
+n: 14
+color: red
+n: 1
+color: blue
+n: 9
+color: green
+(red: 17, blue: 2, green: 14
+)power: 476
+  sum: 47083
+76
+sublime:  1 red, 10 green, 4 blue; 4 blue, 4 red, 7 green; 1 red, 2 blue, 15 green; 5 blue, 7 green, 1 red; 5 blue, 3 red, 17 green; 18 green, 4 blue, 1 red
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 4
+color: blue
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 7
+color: green
+n: 1
+color: red
+n: 2
+color: blue
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 7
+color: green
+n: 1
+color: red
+n: 5
+color: blue
+n: 3
+color: red
+n: 17
+color: green
+Changing Green, min_color->green: 17
+n: 18
+color: green
+Changing Green, min_color->green: 18
+n: 4
+color: blue
+n: 1
+color: red
+(red: 4, blue: 5, green: 18
+)power: 360
+  sum: 47443
+77
+sublime:  4 green, 5 blue, 7 red; 3 blue, 4 red, 5 green; 1 red, 1 green; 6 green, 4 blue, 16 red
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 3
+color: blue
+n: 4
+color: red
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 1
+color: red
+n: 1
+color: green
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 4
+color: blue
+n: 16
+color: red
+Changing Red, min_color->red: 16
+(red: 16, blue: 5, green: 6
+)power: 480
+  sum: 47923
+78
+sublime:  2 blue, 9 red; 7 red, 3 blue, 18 green; 2 blue, 12 green
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 9
+color: red
+Changing Red, min_color->red: 9
+n: 7
+color: red
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 18
+color: green
+Changing Green, min_color->green: 18
+n: 2
+color: blue
+n: 12
+color: green
+(red: 9, blue: 3, green: 18
+)power: 486
+  sum: 48409
+79
+sublime:  3 red, 10 green, 10 blue; 10 blue, 12 green; 7 green, 10 blue, 3 red
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 10
+color: blue
+Changing Blue, min_color->blue: 10
+n: 10
+color: blue
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 7
+color: green
+n: 10
+color: blue
+n: 3
+color: red
+(red: 3, blue: 10, green: 12
+)power: 360
+  sum: 48769
+80
+sublime:  10 green, 2 blue, 14 red; 3 blue, 4 red; 12 green; 3 red, 2 blue, 1 green; 10 red, 12 green, 2 blue
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 4
+color: red
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 3
+color: red
+n: 2
+color: blue
+n: 1
+color: green
+n: 10
+color: red
+n: 12
+color: green
+n: 2
+color: blue
+(red: 14, blue: 3, green: 12
+)power: 504
+  sum: 49273
+81
+sublime:  1 green, 3 red, 6 blue; 5 blue, 1 red, 1 green; 6 blue, 9 red
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 5
+color: blue
+n: 1
+color: red
+n: 1
+color: green
+n: 6
+color: blue
+n: 9
+color: red
+Changing Red, min_color->red: 9
+(red: 9, blue: 6, green: 1
+)power: 54
+  sum: 49327
+82
+sublime:  3 blue, 11 red, 20 green; 15 red, 5 green, 3 blue; 4 red, 7 green, 3 blue
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 20
+color: green
+Changing Green, min_color->green: 20
+n: 15
+color: red
+Changing Red, min_color->red: 15
+n: 5
+color: green
+n: 3
+color: blue
+n: 4
+color: red
+n: 7
+color: green
+n: 3
+color: blue
+(red: 15, blue: 3, green: 20
+)power: 900
+  sum: 50227
+83
+sublime:  5 red, 12 blue, 6 green; 11 green, 9 blue, 6 red; 6 green, 1 red, 7 blue; 16 blue, 4 red; 3 green, 6 blue
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 9
+color: blue
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 6
+color: green
+n: 1
+color: red
+n: 7
+color: blue
+n: 16
+color: blue
+Changing Blue, min_color->blue: 16
+n: 4
+color: red
+n: 3
+color: green
+n: 6
+color: blue
+(red: 6, blue: 16, green: 11
+)power: 1056
+  sum: 51283
+84
+sublime:  3 red, 3 blue, 2 green; 3 red, 9 green; 2 blue, 11 green, 1 red; 1 red, 11 green, 1 blue
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 3
+color: red
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: blue
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 1
+color: red
+n: 1
+color: red
+n: 11
+color: green
+n: 1
+color: blue
+(red: 3, blue: 3, green: 11
+)power: 99
+  sum: 51382
+85
+sublime:  11 green, 1 red, 2 blue; 6 red, 8 green, 14 blue; 3 red, 6 green, 15 blue; 9 blue, 7 red, 1 green; 19 blue, 2 green, 5 red; 6 blue, 7 red, 6 green
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 8
+color: green
+n: 14
+color: blue
+Changing Blue, min_color->blue: 14
+n: 3
+color: red
+n: 6
+color: green
+n: 15
+color: blue
+Changing Blue, min_color->blue: 15
+n: 9
+color: blue
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 1
+color: green
+n: 19
+color: blue
+Changing Blue, min_color->blue: 19
+n: 2
+color: green
+n: 5
+color: red
+n: 6
+color: blue
+n: 7
+color: red
+n: 6
+color: green
+(red: 7, blue: 19, green: 11
+)power: 1463
+  sum: 52845
+86
+sublime:  11 red, 4 green; 2 green, 1 blue, 10 red; 11 red, 3 blue, 9 green
+n: 11
+color: red
+Changing Red, min_color->red: 11
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 2
+color: green
+n: 1
+color: blue
+Changing Blue, min_color->blue: 1
+n: 10
+color: red
+n: 11
+color: red
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 9
+color: green
+Changing Green, min_color->green: 9
+(red: 11, blue: 3, green: 9
+)power: 297
+  sum: 53142
+87
+sublime:  2 green, 17 blue; 12 blue, 3 red, 2 green; 3 green, 2 blue, 13 red; 6 red, 3 green; 13 blue, 11 red, 3 green; 5 blue, 7 red, 1 green
+n: 2
+color: green
+Changing Green, min_color->green: 2
+n: 17
+color: blue
+Changing Blue, min_color->blue: 17
+n: 12
+color: blue
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 2
+color: green
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 2
+color: blue
+n: 13
+color: red
+Changing Red, min_color->red: 13
+n: 6
+color: red
+n: 3
+color: green
+n: 13
+color: blue
+n: 11
+color: red
+n: 3
+color: green
+n: 5
+color: blue
+n: 7
+color: red
+n: 1
+color: green
+(red: 13, blue: 17, green: 3
+)power: 663
+  sum: 53805
+88
+sublime:  1 red, 12 green; 4 green, 3 blue; 6 blue, 12 green; 1 red, 2 blue
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 12
+color: green
+Changing Green, min_color->green: 12
+n: 4
+color: green
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 12
+color: green
+n: 1
+color: red
+n: 2
+color: blue
+(red: 1, blue: 6, green: 12
+)power: 72
+  sum: 53877
+89
+sublime:  9 green, 2 red, 12 blue; 19 green, 12 blue, 3 red; 2 red, 8 blue, 11 green; 13 blue, 8 red, 9 green
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 19
+color: green
+Changing Green, min_color->green: 19
+n: 12
+color: blue
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 2
+color: red
+n: 8
+color: blue
+n: 11
+color: green
+n: 13
+color: blue
+Changing Blue, min_color->blue: 13
+n: 8
+color: red
+Changing Red, min_color->red: 8
+n: 9
+color: green
+(red: 8, blue: 13, green: 19
+)power: 1976
+  sum: 55853
+90
+sublime:  2 red, 2 blue, 7 green; 7 green, 2 red, 12 blue; 6 red, 9 green, 5 blue
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 7
+color: green
+n: 2
+color: red
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 5
+color: blue
+(red: 6, blue: 12, green: 9
+)power: 648
+  sum: 56501
+91
+sublime:  14 blue, 2 red, 7 green; 7 blue, 7 green; 1 red, 5 green, 10 blue; 4 red, 7 blue, 4 green; 5 green, 1 red, 13 blue; 5 green, 1 red
+n: 14
+color: blue
+Changing Blue, min_color->blue: 14
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 7
+color: blue
+n: 7
+color: green
+n: 1
+color: red
+n: 5
+color: green
+n: 10
+color: blue
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 7
+color: blue
+n: 4
+color: green
+n: 5
+color: green
+n: 1
+color: red
+n: 13
+color: blue
+n: 5
+color: green
+n: 1
+color: red
+(red: 4, blue: 14, green: 7
+)power: 392
+  sum: 56893
+92
+sublime:  6 green, 4 blue, 7 red; 18 blue, 3 red; 6 red, 2 blue; 16 blue, 5 red, 3 green
+n: 6
+color: green
+Changing Green, min_color->green: 6
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 18
+color: blue
+Changing Blue, min_color->blue: 18
+n: 3
+color: red
+n: 6
+color: red
+n: 2
+color: blue
+n: 16
+color: blue
+n: 5
+color: red
+n: 3
+color: green
+(red: 7, blue: 18, green: 6
+)power: 756
+  sum: 57649
+93
+sublime:  6 red, 17 blue, 5 green; 14 red, 16 blue, 10 green; 11 blue, 7 red, 11 green; 6 blue, 7 green, 3 red; 17 blue, 1 green
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 17
+color: blue
+Changing Blue, min_color->blue: 17
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 14
+color: red
+Changing Red, min_color->red: 14
+n: 16
+color: blue
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 11
+color: blue
+n: 7
+color: red
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 6
+color: blue
+n: 7
+color: green
+n: 3
+color: red
+n: 17
+color: blue
+n: 1
+color: green
+(red: 14, blue: 17, green: 11
+)power: 2618
+  sum: 60267
+94
+sublime:  4 green, 9 blue; 2 green, 6 red, 3 blue; 5 red, 4 green, 8 blue; 4 green, 5 red, 6 blue; 7 green, 7 red, 6 blue
+n: 4
+color: green
+Changing Green, min_color->green: 4
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 2
+color: green
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 3
+color: blue
+n: 5
+color: red
+n: 4
+color: green
+n: 8
+color: blue
+n: 4
+color: green
+n: 5
+color: red
+n: 6
+color: blue
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 6
+color: blue
+(red: 7, blue: 9, green: 7
+)power: 441
+  sum: 60708
+95
+sublime:  6 blue, 2 red, 3 green; 9 green, 2 blue; 2 red, 4 blue, 11 green; 4 blue, 4 red, 8 green; 13 green, 5 red, 7 blue; 4 red, 15 green, 2 blue
+n: 6
+color: blue
+Changing Blue, min_color->blue: 6
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 2
+color: blue
+n: 2
+color: red
+n: 4
+color: blue
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 4
+color: blue
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 8
+color: green
+n: 13
+color: green
+Changing Green, min_color->green: 13
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 7
+color: blue
+Changing Blue, min_color->blue: 7
+n: 4
+color: red
+n: 15
+color: green
+Changing Green, min_color->green: 15
+n: 2
+color: blue
+(red: 5, blue: 7, green: 15
+)power: 525
+  sum: 61233
+96
+sublime:  5 red, 8 blue, 5 green; 12 blue, 2 red; 15 blue, 2 red, 1 green; 4 red, 1 green
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 8
+color: blue
+Changing Blue, min_color->blue: 8
+n: 5
+color: green
+Changing Green, min_color->green: 5
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 2
+color: red
+n: 15
+color: blue
+Changing Blue, min_color->blue: 15
+n: 2
+color: red
+n: 1
+color: green
+n: 4
+color: red
+n: 1
+color: green
+(red: 5, blue: 15, green: 5
+)power: 375
+  sum: 61608
+97
+sublime:  5 red, 5 blue; 1 red, 11 blue; 3 green, 10 blue; 3 green, 1 red, 7 blue; 2 blue, 6 red; 1 red, 1 green, 8 blue
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 1
+color: red
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 3
+color: green
+Changing Green, min_color->green: 3
+n: 10
+color: blue
+n: 3
+color: green
+n: 1
+color: red
+n: 7
+color: blue
+n: 2
+color: blue
+n: 6
+color: red
+Changing Red, min_color->red: 6
+n: 1
+color: red
+n: 1
+color: green
+n: 8
+color: blue
+(red: 6, blue: 11, green: 3
+)power: 198
+  sum: 61806
+98
+sublime:  4 red, 3 blue, 8 green; 5 blue, 2 red, 8 green; 7 green, 10 red, 2 blue; 11 blue, 9 red, 9 green; 6 blue, 10 green, 11 red
+n: 4
+color: red
+Changing Red, min_color->red: 4
+n: 3
+color: blue
+Changing Blue, min_color->blue: 3
+n: 8
+color: green
+Changing Green, min_color->green: 8
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 2
+color: red
+n: 8
+color: green
+n: 7
+color: green
+n: 10
+color: red
+Changing Red, min_color->red: 10
+n: 2
+color: blue
+n: 11
+color: blue
+Changing Blue, min_color->blue: 11
+n: 9
+color: red
+n: 9
+color: green
+Changing Green, min_color->green: 9
+n: 6
+color: blue
+n: 10
+color: green
+Changing Green, min_color->green: 10
+n: 11
+color: red
+Changing Red, min_color->red: 11
+(red: 11, blue: 11, green: 10
+)power: 1210
+  sum: 63016
+99
+sublime:  7 green, 3 red, 9 blue; 3 blue, 5 red, 4 green; 2 red, 6 green, 1 blue; 12 blue, 1 red, 1 green; 11 green, 1 red, 12 blue
+n: 7
+color: green
+Changing Green, min_color->green: 7
+n: 3
+color: red
+Changing Red, min_color->red: 3
+n: 9
+color: blue
+Changing Blue, min_color->blue: 9
+n: 3
+color: blue
+n: 5
+color: red
+Changing Red, min_color->red: 5
+n: 4
+color: green
+n: 2
+color: red
+n: 6
+color: green
+n: 1
+color: blue
+n: 12
+color: blue
+Changing Blue, min_color->blue: 12
+n: 1
+color: red
+n: 1
+color: green
+n: 11
+color: green
+Changing Green, min_color->green: 11
+n: 1
+color: red
+n: 12
+color: blue
+(red: 5, blue: 12, green: 11
+)power: 660
+  sum: 63676
+100
+sublime:  2 blue, 1 red; 4 blue, 2 red, 1 green; 7 red, 5 blue; 2 red, 1 green, 5 bluen: 2
+color: blue
+Changing Blue, min_color->blue: 2
+n: 1
+color: red
+Changing Red, min_color->red: 1
+n: 4
+color: blue
+Changing Blue, min_color->blue: 4
+n: 2
+color: red
+Changing Red, min_color->red: 2
+n: 1
+color: green
+Changing Green, min_color->green: 1
+n: 7
+color: red
+Changing Red, min_color->red: 7
+n: 5
+color: blue
+Changing Blue, min_color->blue: 5
+n: 2
+color: red
+n: 1
+color: green
+n: 5
+color: blue
+(red: 7, blue: 5, green: 1
+)power: 35
+  sum: 63711
